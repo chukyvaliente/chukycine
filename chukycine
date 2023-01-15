@@ -3585,9 +3585,14 @@
                  "url": "https://upstream.to/lnlb6cv18wc9",
 			 "isHost": "true"
 			                           },{ 
-                      "name": "Van Gogh, a las puertas de la eternidad (2018) 28-06",
+                      "name": "Van Gogh, a las puertas de la eternidad (2018),
                     "image": "https://pics.filmaffinity.com/at_eternity_s_gate-176248026-mmed.jpg",
                     "url": "https://upstream.to/1u95y7jhur3o",
+                    "isHost":"true"  
+		    },{ 
+                      "name": "A todo tren. Destino Asturias (2021)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/a_todo_tren_88958.jpg",
+                    "url": "https://upstream.to/hq41z745t2ua",
                     "isHost":"true"   
                      }] 
             }]   
