@@ -16,6 +16,16 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+	                   "name": "Puñales por la espalda: El misterio de Glass Onion (2022)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/punales_por_la_espalda_el_misterio_de_glass_onion_95433.jpg",
+                    "url": "https://upstream.to/7ouoz0xipj8e",
+                    "isHost":"true" 
+		         },{     
+	                "name": "El menú (2022)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_menu_94981.jpg",
+                    "url": "https://upstream.to/84u9opjcyang",
+                    "isHost":"true" 
+		         },{  
 	              "name": "M3GAN (2023) TS",
                     "image": "https://www.elseptimoarte.net/carteles/341/m3gan_95276.jpg",
                     "url": "https://upstream.to/8k1c6j1dul0s",
@@ -3603,7 +3613,17 @@
                       "name": "Titanic (1997)",
                     "image": "https://www.elseptimoarte.net/carteles/341/titanic_11797.jpg",
                     "url": "https://upstream.to/irgaadeqs21c",
-                    "isHost":"true"   
+                    "isHost":"true"  
+		      },{ 
+                      "name": "Medio flipado (1998)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/half_baked_49907.jpg",
+                    "url": "https://upstream.to/7s2zopg8f1fq",
+                    "isHost":"true"    
+		         },{ 
+                      "name": "Operación Camarón (2021)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/operacion_camaron_88647.jpg",
+                    "url": "https://upstream.to/rqjpwc6k63xi",
+                    "isHost":"true"    
                      }] 
             }]   
         }
