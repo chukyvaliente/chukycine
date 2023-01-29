@@ -3643,7 +3643,12 @@
                       "name": "Rush (2013)",
                     "image": "https://www.elseptimoarte.net/carteles/341/rush_22935.jpg",
                     "url": "https://upstream.to/mm6ioxzu1v8d",
-                    "isHost":"true"    
+                    "isHost":"true"  
+		     },{ 
+                      "name": "Argentina, 1985 (2022)LATINO",
+                    "image": "https://www.elseptimoarte.net/carteles/341/argentina_1985_95054.jpeg",
+                    "url": "https://sbchill.com/ngeaniy7cmbd",
+                    "isHost":"true"  
                      }] 
             }]   
         }
