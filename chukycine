@@ -3708,7 +3708,12 @@
                         "name": "Charlie y la fábrica de chocolate (2005)",
                     "image": "https://www.elseptimoarte.net/carteles/341/charlie_y_la_fabrica_de_chocolate_39954.jpg",
                     "url": "https://uqload.co/zvj54c7d958d",
-                    "isHost":"true"  
+                    "isHost":"true" 
+                      },{ 
+                        "name": "El peque se va de marcha (1994)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_peque_se_va_de_marcha_78541.jpg",
+                    "url": "https://upstream.to/dop23152apx5",
+                    "isHost":"true"    
                      }] 
             }]   
         }
