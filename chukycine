@@ -3713,6 +3713,11 @@
                         "name": "El peque se va de marcha (1994)",
                     "image": "https://www.elseptimoarte.net/carteles/341/el_peque_se_va_de_marcha_78541.jpg",
                     "url": "https://upstream.to/dop23152apx5",
+                    "isHost":"true"   
+                       },{ 
+                        "name": "El amor perjudica seriamente la salud (1996)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_amor_perjudica_seriamente_la_salud_59975.jpg",
+                    "url": "https://ok.ru/video/2187868506685",
                     "isHost":"true"    
                      }] 
             }]   
