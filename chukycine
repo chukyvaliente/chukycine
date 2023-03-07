@@ -491,6 +491,21 @@
                     "url": "https://upstream.to/6g2ysark4zdv",
                     "isHost":"true" 
                   },{ 
+                        "name": "El hobbit: Un viaje inesperado (2012)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_hobbit_un_viaje_inesperado_15372.jpg",
+                    "url": "https://upstream.to/vw9bm2hyqd8o",
+                    "isHost":"true"    
+                          },{ 
+                        "name": "El Hobbit: La desolación de Smaug (2013)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_hobbit_la_desolacion_de_smaug_24923.jpg",
+                    "url": "https://upstream.to/na2ixeqll3pz",
+                    "isHost":"true" 
+                          },{ 
+                        "name": "El Hobbit: La Batalla de los Cinco Ejércitos (2014)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_hobbit_la_batalla_de_los_cinco_ejercitos_32402.jpg",
+                    "url": "https://upstream.to/8036i67h0kbb",
+                    "isHost":"true"  
+                  },{ 
                  "name": "El señor de los anillos: La comunidad del anillo (2001)",
                     "image": "https://www.elseptimoarte.net/carteles/341/el_senor_de_los_anillos_la_comunidad_del_anillo_48146.jpg",
                     "url": "https://upstream.to/pc4dy8k1h9ki",
@@ -3748,7 +3763,7 @@
                         "name": "Daniel el travieso ataca de nuevo(1998)",
                     "image": "https://pics.filmaffinity.com/dennis_the_menace_strikes_again-866684848-mmed.jpg",
                     "url": "https://ok.ru/video/1853166783064",
-                    "isHost":"true"   
+                    "isHost":"true" 
                      }] 
             }]   
         }
