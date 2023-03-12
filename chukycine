@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                        "name": "Momias (2023) (Latino) TS",
+                    "image": "https://www.elseptimoarte.net/carteles/341/momias_96533.jpg",
+                    "url": "https://upstream.to/tna1h6zym6rh",
+                    "isHost":"true" 
+		         },{  
 	                  "name": "Astérix y Obélix: El Reino Medio (2023) TS",
                     "image": "https://www.elseptimoarte.net/carteles/341/asterix_y_obelix_el_reino_medio_96331.jpg",
                     "url": "https://upstream.to/c8cyp435fgwb",
