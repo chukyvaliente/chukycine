@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                       "name": "La niña de la comunión (2022) TS",
+                    "image": "https://www.elseptimoarte.net/carteles/341/la_nina_de_la_comunion_96402.jpg",
+                    "url": "https://upstream.to/e2nv8s08y7l3",
+                    "isHost":"true" 
+		         },{  
                         "name": "Momias (2023) (Latino) TS",
                     "image": "https://www.elseptimoarte.net/carteles/341/momias_96533.jpg",
                     "url": "https://upstream.to/tna1h6zym6rh",
@@ -3838,6 +3843,11 @@
                         "name": "Ojos de fuego (1984)",
                     "image": "https://www.elseptimoarte.net/carteles/341/ojos_de_fuego_80072.jpg",
                     "url": "https://ok.ru/video/1120440879677",
+                    "isHost":"true"
+                        },{ 
+                        "name": "Día de entrenamiento (2001)",
+                    "image": "https://pics.filmaffinity.com/training_day-607055595-mmed.jpg",
+                    "url": "https://upstream.to/im8mm1y7i6q1",
                     "isHost":"true"
                      }] 
             }]   
