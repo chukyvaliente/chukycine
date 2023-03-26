@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                         "name": "John Wick 4 (2023) TS LATINO",
+                    "image": "https://www.elseptimoarte.net/carteles/341/john_wick_4_96095.jpg",
+                    "url": "https://upstream.to/gdj5un49c13r",
+                    "isHost":"true" 
+		         },{  
                        "name": "La niña de la comunión (2022) TS",
                     "image": "https://www.elseptimoarte.net/carteles/341/la_nina_de_la_comunion_96402.jpg",
                     "url": "https://upstream.to/e2nv8s08y7l3",
@@ -709,12 +714,12 @@
                 },{
                  "name": "John Wick: Pacto de sangre (2017)",
                     "image": "https://www.elseptimoarte.net/carteles/341/john_wick._pacto_de_sangre_64736.jpg",
-                    "url": "https://upstream.to/xtx96tvpl6ho",
+                    "url": "https://upstream.to/6lgdo0hq2haz",
                     "isHost":"true"
                 },{
                 "name": "John Wick: Capítulo 3 - Parabellum (2019)",
                     "image": "https://www.elseptimoarte.net/carteles/341/john_wick_capitulo_3_parabellum_76811.jpg",
-                    "url": "https://upstream.to/ym8dxbnh8i1m",
+                    "url": "https://upstream.to/h9m4057mgxce",
                     "isHost":"true"
                 },{
                     "name": "Jumanji",
@@ -3879,6 +3884,11 @@
                         "name": "El recomendado (1985)",
                     "image": "https://www.elseptimoarte.net/carteles/341/el_recomendado_43500.jpg",
                     "url": "https://ok.ru/video/4366906493629",
+                    "isHost":"true"
+                      },{ 
+                        "name": "Anonymous (2011)",
+                    "image": "https://pics.filmaffinity.com/anonymous-135003429-mmed.jpg",
+                    "url": "https://ok.ru/video/844213848710",
                     "isHost":"true"
                      }] 
             }]   
