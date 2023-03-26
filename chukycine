@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                           "name": "Mari(dos)  (2023) TS",
+                    "image": "https://pics.filmaffinity.com/mari_dos-119061049-mmed.jpg",
+                    "url": "https://upstream.to/ad8usomrukpn",
+                    "isHost":"true" 
+		         },{  
                          "name": "John Wick 4 (2023) TS LATINO",
                     "image": "https://www.elseptimoarte.net/carteles/341/john_wick_4_96095.jpg",
                     "url": "https://upstream.to/gdj5un49c13r",
