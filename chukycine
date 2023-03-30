@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada al 27-03-2023)",
+    "author": "chuky (Actualiada al 30-03-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukycine",
@@ -3904,6 +3904,11 @@
                         "name": "Critters ¡Al ataque! (2019)",
                     "image": "https://pics.filmaffinity.com/critters_attack-854547931-mmed.jpg",
                     "url": "https://upstream.to/9bp23zz453vl",
+                    "isHost":"true"
+                          },{ 
+                        "name": "El sueño de Jimmy Grimble (2000)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_sueno_de_jimmy_grimble_47722.jpg",
+                    "url": "https://dood.yt/d/4ltpvfu8x1lc",
                     "isHost":"true"
                      }] 
             }]   
