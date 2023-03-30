@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                        "name": "El último baile de Magic Mike (2023)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/magic_mikes_last_dance_96163.jpg",
+                    "url": "https://upstream.to/64nd5c0m66zp",
+                    "isHost":"true"
+                         },{ 
                            "name": "Mari(dos)  (2023) TS",
                     "image": "https://pics.filmaffinity.com/mari_dos-119061049-mmed.jpg",
                     "url": "https://upstream.to/2fqx77sgr6dz",
@@ -3910,6 +3915,7 @@
                     "image": "https://www.elseptimoarte.net/carteles/341/el_sueno_de_jimmy_grimble_47722.jpg",
                     "url": "https://dood.yt/d/4ltpvfu8x1lc",
                     "isHost":"true"
+                       
                      }] 
             }]   
         }
