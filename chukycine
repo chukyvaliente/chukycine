@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada al 30-03-2023)",
+    "author": "chuky (Actualiada al 31-03-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukycine",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                          "name": "65 (2023)TS LATINO",
+                    "image": "https://www.elseptimoarte.net/carteles/341/65_96122.jpg",
+                    "url": "https://upstream.to/mv6zgjppi8ya",
+                    "isHost":"true"
+                         },{  
                         "name": "El último baile de Magic Mike (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/magic_mikes_last_dance_96163.jpg",
                     "url": "https://upstream.to/64nd5c0m66zp",
@@ -3930,6 +3935,11 @@
                     "image": "https://www.elseptimoarte.net/carteles/341/camaron_40457.jpg",
                     "url": "https://vidoza.net/gjermn7ae9f9",
                     "isHost":"true"
+                          },{ 
+                        "name": "Rounders (1998)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/rounders_49863.jpg",
+                    "url": "https://upstream.to/nq95yxbeiuvs",
+                    "isHost":"true" 
                        
                      }] 
             }]   
