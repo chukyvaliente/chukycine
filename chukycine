@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                          "name": "Creed III (2023) LATINO",
+                    "image": "https://www.elseptimoarte.net/carteles/341/creed_iii_96670.jpg",
+                    "url": "https://upstream.to/ikm378d2an5n",
+                    "isHost":"true"
+                         },{  
                           "name": "Dungeons & Dragons: Honor entre ladrones (2023) TS LATINO",
                     "image": "https://www.elseptimoarte.net/carteles/341/65_96122.jpg",
                     "url": "https://dood.yt/d/fg2pd9dk2kww",
