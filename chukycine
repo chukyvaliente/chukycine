@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada al 01-04-2023)",
+    "author": "chuky (Actualiada al 02-04-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukycine",
@@ -3949,6 +3949,11 @@
                         "name": "Scream (2022)",
                     "image": "https://www.elseptimoarte.net/carteles/341/scream_91542.jpeg",
                     "url": "https://upstream.to/2pm2prwj3zde",
+                    "isHost":"true" 
+                           },{ 
+                        "name": "Querido intruso (1991)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/querido_intruso_83864.jpg",
+                    "url": "https://upstream.to/vtez8vvgoo14",
                     "isHost":"true" 
                        
                      }] 
