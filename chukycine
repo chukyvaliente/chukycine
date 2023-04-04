@@ -108,12 +108,8 @@
 		         },{ 
 	               "name": "Avatar: El sentido del agua (2022)",
                     "image": "https://www.elseptimoarte.net/carteles/341/avatar_el_sentido_del_agua_95497.jpg",
-<<<<<<< HEAD
                     "url": "https://upstream.to/zp8sgud822q0",
-=======
-                    "url": "https://upstream.to/a281uwc8ci1m",
->>>>>>> 9b0380130ce0e1d8eb7f2dac87d70f1e8068fb65
-                    "isHost":"true" 
+			 "isHost": "true"
 		         },{  
 	                 "name": "A todo tren 2 (2022) CAM",
                     "image": "https://www.elseptimoarte.net/carteles/341/a_todo_tren_2_95442.jpg",
