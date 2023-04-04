@@ -51,9 +51,9 @@
                     "url": "https://upstream.to/e2nv8s08y7l3",
                     "isHost":"true" 
 		         },{  
-                        "name": "Momias (2023) (Latino) TS",
+                        "name": "Momias (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/momias_96533.jpg",
-                    "url": "https://upstream.to/tna1h6zym6rh",
+                    "url": "https://upstream.to/12c9z7copq0x",
                     "isHost":"true" 
 		         },{  
 	                  "name": "Astérix y Obélix: El Reino Medio (2023) TS",
@@ -108,7 +108,11 @@
 		         },{ 
 	               "name": "Avatar: El sentido del agua (2022)",
                     "image": "https://www.elseptimoarte.net/carteles/341/avatar_el_sentido_del_agua_95497.jpg",
+<<<<<<< HEAD
                     "url": "https://upstream.to/zp8sgud822q0",
+=======
+                    "url": "https://upstream.to/a281uwc8ci1m",
+>>>>>>> 9b0380130ce0e1d8eb7f2dac87d70f1e8068fb65
                     "isHost":"true" 
 		         },{  
 	                 "name": "A todo tren 2 (2022) CAM",
