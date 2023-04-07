@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada al 06-04-2023)",
+    "author": "chuky (Actualiada al 07-04-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukycine",
@@ -3994,6 +3994,11 @@
                         "name": "El secreto de Adaline (2015)",
                     "image": "https://pics.filmaffinity.com/the_age_of_adaline-258365000-mmed.jpg",
                     "url": "https://dood.yt/d/8s5a97wmie1w",
+                    "isHost":"true" 
+                          },{ 
+                        "name": "Ben-Hur (1959)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/ben-hur_34973.jpg",
+                    "url": "https://upstream.to/id7jr7uqwzw2",
                     "isHost":"true" 
                      }] 
             }]   
