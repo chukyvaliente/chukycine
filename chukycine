@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                           "name": "Scream VI (2023) TS LATINO",
+                    "image": "https://www.elseptimoarte.net/carteles/341/scream_vi_96537.jpg",
+                    "url": "https://upstream.to/2g151u6vhuey",
+                    "isHost":"true"
+                         },{  
                          "name": "Super Mario Bros: La película (2023) TS LATINO",
                     "image": "https://www.elseptimoarte.net/carteles/341/super_mario_bros_la_pelicula_96667.jpg",
                     "url": "https://upstream.to/lvpaosjrpwyg",
