@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada al 07-04-2023)",
+    "author": "chuky (Actualiada al 08-04-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukycine",
@@ -4014,6 +4014,11 @@
                         "name": "Intemperie (2019)",
                     "image": "https://www.elseptimoarte.net/carteles/341/intemperie_77384.jpg",
                     "url": "https://upstream.to/6mua6p041kz6",
+                    "isHost":"true" 
+                          },{ 
+                        "name": "La ola (2008)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/la_ola_57846.jpg",
+                    "url": "https://ok.ru/video/2371935406794",
                     "isHost":"true" 
                      }] 
             }]   
