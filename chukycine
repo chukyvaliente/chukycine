@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                        "name": "¡Shazam! La furia de los dioses (2023)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/shazam_la_furia_de_los_dioses_96547.jpg",
+                    "url": "https://upstream.to/au12si9b3hsk",
+                    "isHost":"true"
+                         },{   
                            "name": "Scream VI (2023) TS LATINO",
                     "image": "https://www.elseptimoarte.net/carteles/341/scream_vi_96537.jpg",
                     "url": "https://upstream.to/2g151u6vhuey",
@@ -46,9 +51,9 @@
                     "url": "https://dood.yt/d/fg2pd9dk2kww",
                     "isHost":"true"
                          },{  
-                          "name": "65 (2023)TS LATINO",
+                          "name": "65 (2023) LATINO",
                     "image": "https://www.elseptimoarte.net/carteles/341/65_96122.jpg",
-                    "url": "https://upstream.to/mv6zgjppi8ya",
+                    "url": "https://upstream.to/v0b4em0gywze",
                     "isHost":"true"
                          },{  
                         "name": "El último baile de Magic Mike (2023)",
@@ -66,9 +71,9 @@
                     "url": "https://upstream.to/gdj5un49c13r",
                     "isHost":"true" 
 		         },{  
-                       "name": "La niña de la comunión (2022) TS",
+                       "name": "La niña de la comunión (2022)",
                     "image": "https://www.elseptimoarte.net/carteles/341/la_nina_de_la_comunion_96402.jpg",
-                    "url": "https://upstream.to/e2nv8s08y7l3",
+                    "url": "https://upstream.to/7693iyidgni7",
                     "isHost":"true" 
 		         },{  
                         "name": "Momias (2023)",
