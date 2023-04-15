@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                         "name": "La resurrección de la momia (2023) LATINO",
+                    "image": "https://pics.filmaffinity.com/the_mummy_resurrection-536640811-mmed.jpg",
+                    "url": "https://upstream.to/o1tgstvmr9me",
+                    "isHost":"true"
+                         },{   
                          "name": "Winnie the Pooh: Blood and Honey (2023) TS LATINO",
                     "image": "https://www.elseptimoarte.net/carteles/341/winnie_the_pooh_blood_and_honey_96448.jpg",
                     "url": "https://upstream.to/q1vcldyooxe0",
@@ -4060,6 +4065,16 @@
                     "image": "https://www.elseptimoarte.net/carteles/341/fuga_de_alcatraz_15722.jpg",
                     "url": "https://ok.ru/video/2553171086006",
                     "isHost":"true"
+                        },{ 
+                        "name": "Lilo & Stitch (2002)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/lilo_&_stitch_45214.jpg",
+                    "url": "https://upstream.to/zqsraet0wjdd",
+                    "isHost":"true"
+                         },{ 
+                        "name": "Scary Movie (2000)",
+                    "image": "https://pics.filmaffinity.com/scary_movie-943532513-mmed.jpg",
+                    "url": "https://upstream.to/kty63ps147n0",
+                    "isHost":"true" 
                      }] 
             }]   
         }
