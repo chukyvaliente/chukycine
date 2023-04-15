@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                         "name": "Winnie the Pooh: Blood and Honey (2023) TS LATINO",
+                    "image": "https://www.elseptimoarte.net/carteles/341/winnie_the_pooh_blood_and_honey_96448.jpg",
+                    "url": "https://upstream.to/q1vcldyooxe0",
+                    "isHost":"true"
+                         },{   
                           "name": "Air (2023) TS LATINO",
                     "image": "https://www.elseptimoarte.net/carteles/341/air_97061.jpg",
                     "url": "https://upstream.to/81241z6nhhfh",
