@@ -4,7 +4,7 @@
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukycine",
-    "url": "https://chukycine-chuky.vercel.app/chukycine",
+    "url": "https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine",
     "groups": [{
                          "name": "Lista para todo el mundo (Sin lucrarse)",
             "image": "https://lh3.googleusercontent.com/A0-KdBraWx4L-RgGlLf-EI_sc2jjpsR4vOK_CIgy8ps1BaZS_yAHPNiaXMk6QUOhcA=h500",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                          "name": "Air (2023)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/air_97061.jpg",
+                    "url": "https://upstream.to/81241z6nhhfh",
+                    "isHost":"true"
+                         },{   
                         "name": "¡Shazam! La furia de los dioses (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/shazam_la_furia_de_los_dioses_96547.jpg",
                     "url": "https://upstream.to/au12si9b3hsk",
@@ -26,9 +31,9 @@
                     "url": "https://upstream.to/2g151u6vhuey",
                     "isHost":"true"
                          },{  
-                         "name": "Super Mario Bros: La película (2023) TS LATINO",
+                         "name": "Super Mario Bros: La película (2023) LATINO",
                     "image": "https://www.elseptimoarte.net/carteles/341/super_mario_bros_la_pelicula_96667.jpg",
-                    "url": "https://upstream.to/lvpaosjrpwyg",
+                    "url": "https://upstream.to/jezxzrxepdyb",
                     "isHost":"true"
                          },{  
                           "name": "El exorcista del Papa (2023) TS LATINO",
@@ -4040,6 +4045,11 @@
                     "image": "https://www.elseptimoarte.net/carteles/341/orquidea_salvaje_84054.jpg",
                     "url": "https://opvid.online/0spavat3uld2",
                     "isHost":"true" 
+                          },{ 
+                        "name": "El guardaespaldas (1992)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_guardaespaldas_63282.jpg",
+                    "url": "https://ok.ru/video/316502837923",
+                    "isHost":"true"
                      }] 
             }]   
         }
