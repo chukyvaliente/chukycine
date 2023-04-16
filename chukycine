@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada al 15-04-2023)",
+    "author": "chuky (Actualiada al 16-04-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukycine",
@@ -4074,6 +4074,16 @@
                         "name": "Scary Movie (2000)",
                     "image": "https://pics.filmaffinity.com/scary_movie-943532513-mmed.jpg",
                     "url": "https://upstream.to/kty63ps147n0",
+                    "isHost":"true" 
+                         },{ 
+                        "name": "El apóstol (2018)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/apostle_72388.jpg",
+                    "url": "https://dood.yt/d/m43svuclydmvt4z37xwaluama5iibvut",
+                    "isHost":"true" 
+                        },{ 
+                        "name": "1917 (2019)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/1917_81364.jpg",
+                    "url": "https://dood.yt/d/g6vfi2vhikzsyz0leyzy0xpwuzp4bn0c",
                     "isHost":"true" 
                      }] 
             }]   
