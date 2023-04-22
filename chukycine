@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada al 21-04-2023)",
+    "author": "chuky (Actualiada al 22-04-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukycine",
@@ -4084,6 +4084,26 @@
                         "name": "1917 (2019)",
                     "image": "https://www.elseptimoarte.net/carteles/341/1917_81364.jpg",
                     "url": "https://dood.yt/d/4a8f87srtdme",
+                    "isHost":"true" 
+                         },{ 
+                        "name": "Guardianes de la noche (2005)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/guardianes_de_la_noche_40078.jpg",
+                    "url": "https://opvid.online/o2slfxrzjnh3",
+                    "isHost":"true" 
+                         },{ 
+                        "name": "Pulse (Conexión) (2006)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/pulse_conexion_58185.jpg",
+                    "url": "https://upstream.to/d16xvu8irhno",
+                    "isHost":"true" 
+                       },{ 
+                        "name": "Dragonfly (La sombra de la libélula) (2002)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/dragonfly_la_sombra_de_la_libelula_45417.jpg",
+                    "url": "https://upstream.to/fd3oa7rcvskq",
+                    "isHost":"true" 
+                         },{ 
+                        "name": "El francotirador de Dombás (2022)",
+                    "image": "https://pics.filmaffinity.com/sniper_the_white_raven-384675061-mmed.jpg",
+                    "url": "https://upstream.to/dmza8s5nc24q",
                     "isHost":"true" 
                      }] 
             }]   
