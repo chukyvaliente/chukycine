@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                           "name": "Ghosting (2023)",
+                    "image": "https://pics.filmaffinity.com/ghosted-893719442-mmed.jpg",
+                    "url": "https://upstream.to/5415p57po8qn",
+                    "isHost":"true"
+                         },{   
                          "name": "La resurrección de la momia (2023) LATINO",
                     "image": "https://pics.filmaffinity.com/the_mummy_resurrection-536640811-mmed.jpg",
                     "url": "https://upstream.to/o1tgstvmr9me",
@@ -4088,7 +4093,7 @@
                          },{ 
                         "name": "Guardianes de la noche (2005)",
                     "image": "https://www.elseptimoarte.net/carteles/341/guardianes_de_la_noche_40078.jpg",
-                    "url": "https://opvid.online/o2slfxrzjnh3",
+                    "url": "https://upvid.biz/o2slfxrzjnh3",
                     "isHost":"true" 
                          },{ 
                         "name": "Pulse (Conexión) (2006)",
