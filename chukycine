@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                        "name": "El hotel de los líos (2023) TS",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_hotel_de_los_lios_96774.jpg",
+                    "url": "https://upstream.to/f09mhau2thup",
+                    "isHost":"true"
+                         },{   
                           "name": "Suzume (2022) LATINO",
                     "image": "https://www.elseptimoarte.net/carteles/341/suzume_97318.jpg",
                     "url": "https://upstream.to/dbl3zqxktbb0",
@@ -4154,6 +4159,11 @@
                         "name": "En algún lugar de la memoria (2007)",
                     "image": "https://www.elseptimoarte.net/carteles/341/en_algun_lugar_de_la_memoria_59075.jpg",
                     "url": "https://ok.ru/video/2224532556428",
+                    "isHost":"true" 
+                         },{ 
+                        "name": "El hotel de los líos (1938)",
+                    "image": "https://pics.filmaffinity.com/room_service-896791509-mmed.jpg",
+                    "url": "https://ok.ru/video/1184295684669",
                     "isHost":"true" 
                      }] 
             }]   
