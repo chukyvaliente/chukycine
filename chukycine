@@ -1065,7 +1065,22 @@
                  "name": "Rmbo V (2019)",
 			"image": "https://pics.filmaffinity.com/rambo_last_blood-756933079-msmall.jpg",
 			"url" : "https://upstream.to/n8q6lqfp85r8",
-              "isHost" : "true"  
+              "isHost" : "true" 
+                  },{
+                    "name": "Regreso al futuro (1985)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/regreso_al_futuro_26479.jpg",
+                    "url": "https://upstream.to/2azghdfe6g0m",
+                    "isHost":"true"
+                },{
+                    "name": "Regreso al futuro II (1989)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/regreso_al_futuro_parte_2_26485.jpg",
+                    "url": "https://upstream.to/3qfokc634h88",
+                    "isHost":"true"
+                },{
+                    "name": "Regreso al futuro III (1990)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/regreso_al_futuro_iii_85024.jpg",
+                    "url": "https://ok.ru/video/1633536379525",
+                    "isHost":"true" 
                 },{
                     "name": "Resacon en Las Vegas",
                     "image": "https://www.elseptimoarte.net/carteles/341/resacon_en_las_vegas_55560.jpg",
