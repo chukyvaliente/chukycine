@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada al 22-04-2023)",
+    "author": "chuky (Actualiada al 23-04-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukycine",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                          "name": "Suzume (2022) LATINO",
+                    "image": "https://www.elseptimoarte.net/carteles/341/suzume_97318.jpg",
+                    "url": "https://upstream.to/dbl3zqxktbb0",
+                    "isHost":"true"
+                         },{   
                            "name": "Ghosting (2023)",
                     "image": "https://pics.filmaffinity.com/ghosted-893719442-mmed.jpg",
                     "url": "https://upstream.to/5415p57po8qn",
