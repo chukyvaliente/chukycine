@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada al 23-04-2023)",
+    "author": "chuky (Actualiada al 29-04-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukycine",
@@ -4204,6 +4204,11 @@
                         "name": "The Belko Experiment (2017)",
                     "image": "https://www.elseptimoarte.net/carteles/341/the_belko_experiment_63115.jpg",
                     "url": "https://upstream.to/pqj7p66q2dlb",
+                    "isHost":"true"
+                        },{ 
+                        "name": "The Nutty Professor (El profesor chiflado) (1996)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_profesor_chiflado_62328.jpg",
+                    "url": "https://upstream.to/jc6loklfyhxs",
                     "isHost":"true"
                      }] 
             }]   
