@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                        "name": "Alias (2023)",
+                    "image": "https://pics.filmaffinity.com/aka-460996914-mmed.jpg",
+                    "url": "https://upstream.to/e9xq311f47mz",
+                    "isHost":"true"
+                         },{  
                           "name": "Peter Pan y Wendy (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/peter_pan_y_wendy_96938.jpg",
                     "url": "https://upstream.to/5sf4fa1w31zy",
