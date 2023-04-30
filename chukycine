@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                          "name": "Peter Pan y Wendy (2023)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/peter_pan_y_wendy_96938.jpg",
+                    "url": "https://upstream.to/5sf4fa1w31zy",
+                    "isHost":"true"
+                         },{   
                          "name": "Los caballeros del zodiaco (2023) TS Latino",
                     "image": "https://www.elseptimoarte.net/carteles/341/los_caballeros_del_zodiaco_97520.jpg",
                     "url": "https://upstream.to/yqs60fjulzj5",
