@@ -1,9 +1,9 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada al 29-04-2023)",
+    "author": "chuky (Actualiada al 30-04-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
-    "telegram": "chukycine",
+    "telegram": "chukyhood",
     "url": "https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine",
     "groups": [{
                          "name": "Lista para todo el mundo (Sin lucrarse)",
@@ -4234,6 +4234,11 @@
                         "name": "(Barquero)Los forajidos de Río Bravo (1970)",
                     "image": "https://pics.filmaffinity.com/barquero-910877778-mmed.jpg",
                     "url": "https://upstream.to/qviur1htu1wy",
+                    "isHost":"true"
+                       },{ 
+                        "name": "V de Vendetta (2005)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/v_de_vendetta_74553.jpg",
+                    "url": "https://upstream.to/pxlnmfozikg1",
                     "isHost":"true"
                      }] 
             }]   
