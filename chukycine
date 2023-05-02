@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada al 30-04-2023)",
+    "author": "chuky (Actualiada al 01-05-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukyhood",
@@ -4249,6 +4249,11 @@
                         "name": "V de Vendetta (2005)",
                     "image": "https://www.elseptimoarte.net/carteles/341/v_de_vendetta_74553.jpg",
                     "url": "https://upstream.to/pxlnmfozikg1",
+                    "isHost":"true"
+                       },{ 
+                        "name": "TÁR (2022)",
+                    "image": "https://pics.filmaffinity.com/tar-530526120-mmed.jpg",
+                    "url": "https://upstream.to/5y01cbik2e85",
                     "isHost":"true"
                      }] 
             }]   
