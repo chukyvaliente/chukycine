@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                          "name": "Irati (2023)",
+                    "image": "https://pics.filmaffinity.com/irati-412669481-mmed.jpg",
+                    "url": "https://upstream.to/snzy9krs7sbt",
+                    "isHost":"true"
+                         },{
                          "name": "Guardianes de la Galaxia: Volumen 3 (2023) TS Latino",
                     "image": "https://www.elseptimoarte.net/carteles/341/guardianes_de_la_galaxia_volumen_3_97316.jpg",
                     "url": "https://upstream.to/iytu1spoyirc",
