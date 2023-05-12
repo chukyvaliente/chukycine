@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada al 10-05-2023)",
+    "author": "chuky (Actualiada al 12-05-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukyhood",
@@ -4324,6 +4324,26 @@
                         "name": "The Doors (1991)",
                     "image": "https://pics.filmaffinity.com/the_doors-542286540-mmed.jpg",
                     "url": "https://upstream.to/070qqey4m6oc",
+                    "isHost":"true" 
+                           },{ 
+                        "name": "Novecento (1900) (1976)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/novecento_30696.jpg",
+                    "url": "https://ok.ru/video/340243384913",
+                    "isHost":"true" 
+                          },{ 
+                        "name": "Casino (1995)",
+                    "image": "https://pics.filmaffinity.com/casino-348445329-mmed.jpg",
+                    "url": "https://upstream.to/fuc9kyenhrkq",
+                    "isHost":"true" 
+                          },{ 
+                        "name": "Cerdita (2022)",
+                    "image": "https://pics.filmaffinity.com/cerdita-167665190-mmed.jpg",
+                    "url": "https://upstream.to/pjsrdu0vqvcb",
+                    "isHost":"true" 
+                         },{ 
+                        "name": "Viaje al paraíso (2022)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/viaje_al_paraiso_94450.jpg",
+                    "url": "https://upstream.to/yiw7md24q00e",
                     "isHost":"true" 
                      }] 
             }]   
