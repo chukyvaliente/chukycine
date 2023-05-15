@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada al 12-05-2023)",
+    "author": "chuky (Actualiada al 15-05-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukyhood",
@@ -91,9 +91,9 @@
                     "url": "https://upstream.to/buu0459svcwc",
                     "isHost":"true"
                          },{  
-                         "name": "Super Mario Bros: La película (2023) LATINO",
+                         "name": "Super Mario Bros: La película (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/super_mario_bros_la_pelicula_96667.jpg",
-                    "url": "https://upstream.to/jezxzrxepdyb",
+                    "url": "https://upstream.to/jh8ioo2ajea5",
                     "isHost":"true"
                          },{  
                           "name": "El exorcista del Papa (2023) LATINO",
@@ -230,6 +230,51 @@
                     "image": "https://www.elseptimoarte.net/carteles/341/animales_fantasticos_los_secretos_de_dumbledore_92664.jpeg",
                     "url": "https://upstream.to/iearllivmsnt",
                     "isHost":"true"
+                     },{
+                    "name": "A todo gas (2001)",
+                    "image": "https://pics.filmaffinity.com/the_fast_and_the_furious-493327751-msmall.jpg",
+                    "url": "https://dood.yt/d/6j9vzeu54b1t",
+                    "isHost":"true"  
+                       },{
+                    "name": "A todo gas 2 (2003)",
+                    "image": "https://pics.filmaffinity.com/2_fast_2_furious_aka_the_fast_and_the_furious_2-199382456-msmall.jpg",
+                    "url": "https://dood.yt/d/6beuxqdjo5z6",
+                    "isHost":"true" 
+                      },{
+                    "name": "A todo gas: Tokyo Race (A todo gas 3) (2006)",
+                    "image": "https://pics.filmaffinity.com/the_fast_and_the_furious_tokyo_drift-349229245-msmall.jpg",
+                    "url": "https://dood.yt/d/mrl60s4xfcx7",
+                    "isHost":"true" 
+                       },{
+                    "name": "Fast & Furious: Aún más rápido (A todo gas 4) (2009)",
+                    "image": "https://pics.filmaffinity.com/fast_and_furious_4-818035556-msmall.jpg",
+                    "url": "https://dood.yt/d/lokrjeoz3j2z",
+                    "isHost":"true" 
+                       },{
+                    "name": "Fast & Furious 5 (A todo gas 5) (2011)",
+                    "image": "https://pics.filmaffinity.com/fast_five_the_fast_and_the_furious_5-355651909-msmall.jpg",
+                    "url": "https://dood.yt/d/qialhdf0w1sm",
+                    "isHost":"true" 
+                       },{
+                    "name": "Fast & Furious 6 (A todo gas 6) (2013)",
+                    "image": "https://pics.filmaffinity.com/fast_furious_6_fast_and_furious_6-240822945-msmall.jpg",
+                    "url": "https://dood.yt/d/a1xuo2p5a375",
+                    "isHost":"true" 
+                       },{
+                    "name": "Fast & Furious 7 (A todo gas 7) (2015)",
+                    "image": "https://pics.filmaffinity.com/furious_7_fast_furious_7-904800766-msmall.jpg",
+                    "url": "https://upstream.to/qximhiyo70fi",
+                    "isHost":"true" 
+                      },{
+                    "name": "Fast & Furious 8 (2017)",
+                    "image": "https://pics.filmaffinity.com/the_fate_of_the_furious-720946563-msmall.jpg",
+                    "url": "https://dood.yt/d/isdwc02fbhct",
+                    "isHost":"true" 
+                       },{
+                    "name": "Fast & Furious 9 (2021)",
+                    "image": "https://pics.filmaffinity.com/fast_furious_9-833854731-msmall.jpg",
+                    "url": "https://dood.yt/d/wty1uh8zxful",
+                    "isHost":"true" 
                    },{
                     "name": "Arma letal (1987)",
                     "image": "https://www.elseptimoarte.net/carteles/341/arma_letal_6878.jpg",
@@ -4350,6 +4395,16 @@
                     "image": "https://www.elseptimoarte.net/carteles/341/invasion_59737.jpg",
                     "url": "https://upstream.to/gmsrkzjbh1zs",
                     "isHost":"true" 
+                          },{ 
+                        "name": "Distrito 13 (2004)",
+                    "image": "https://pics.filmaffinity.com/banlieue_13-669876967-msmall.jpg",
+                    "url": "https://upstream.to/667pzfyc5d1k",
+                    "isHost":"true" 
+                        },{ 
+                        "name": "Distrito 13 Ultimatum (2009)",
+                    "image": "https://pics.filmaffinity.com/b13_u_banlieue_13_ultimatum-379269675-msmall.jpg",
+                    "url": "https://upstream.to/osukyuczl9ej",
+                    "isHost":"true"  
                      }] 
             }]   
         }
