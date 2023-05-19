@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada al 18-05-2023)",
+    "author": "chuky (Actualiada al 19-05-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukyhood",
@@ -4404,6 +4404,11 @@
                         "name": "Distrito 13 Ultimatum (2009)",
                     "image": "https://pics.filmaffinity.com/b13_u_banlieue_13_ultimatum-379269675-msmall.jpg",
                     "url": "https://upstream.to/osukyuczl9ej",
+                    "isHost":"true"  
+                          },{ 
+                        "name": "Dune (2021)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/dune_90626.jpeg",
+                    "url": "https://upstream.to/t1iyhbbow8hy",
                     "isHost":"true"  
                      }] 
             }]   
