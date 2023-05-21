@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada al 20-05-2023)",
+    "author": "chuky (Actualiada al 21-05-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukyhood",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                         "name": "Asedio (2023) TS",
+                    "image": "https://www.elseptimoarte.net/carteles/341/asedio_96876.jpeg",
+                    "url": "https://upstream.to/j9i0b6kyodh0",
+                    "isHost":"true"
+                         },{  
                         "name": "Cráter (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/crater_97463.jpg",
                     "url": "https://upstream.to/dgl7s9ybiqmf",
@@ -1779,11 +1784,6 @@
                       "name": "Masters del universo (1987)",
                     "image": "https://pics.filmaffinity.com/masters_of_the_universe-890203447-mmed.jpg",
                     "url": "https://upstream.to/kdtb5p43bwzw",
-                    "isHost":"true"
-                                             },{
-                      "name": "Desafío total  (1990)",
-                    "image": "https://pics.filmaffinity.com/total_recall-265009430-mmed.jpg",
-                    "url": "https://upstream.to/gicoo8yz7e7q.html",
                     "isHost":"true"
                       },{
                       "name": "Demolition Man (1993)",
@@ -4420,6 +4420,36 @@
                     "image": "https://www.elseptimoarte.net/carteles/341/dune_90626.jpeg",
                     "url": "https://upstream.to/t1iyhbbow8hy",
                     "isHost":"true"  
+                          },{ 
+                        "name": "Los productores (2005)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/los_productores_37248.jpg",
+                    "url": "https://upstream.to/o32wwgfqsqx5",
+                    "isHost":"true"  
+                         },{ 
+                        "name": "El triángulo de la tristeza (2022) Latino",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_triangulo_de_la_tristeza_95004.jpg",
+                    "url": "https://upstream.to/jn0b0cpcy7wv",
+                    "isHost":"true" 
+                          },{ 
+                        "name": "Perseguido (1987)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/perseguido_68312.jpg",
+                    "url": "https://upstream.to/o25hn4daxefb",
+                    "isHost":"true" 
+                          },{
+                      "name": "Desafío total (1990)",
+                    "image": "https://pics.filmaffinity.com/total_recall-265009430-mmed.jpg",
+                    "url": "https://upstream.to/93z785ggs3kf",
+                    "isHost":"true"
+                        },{
+                      "name": "La naranja mecánica (1971)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/la_naranja_mecanica_11935.jpg",
+                    "url": "https://upstream.to/0rxlgtwtitu0",
+                    "isHost":"true"
+                        },{
+                      "name": "Atrapado por su pasado (1993)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/atrapado_por_su_pasado_63093.jpg",
+                    "url": "https://upstream.to/qknuj266zdc1",
+                    "isHost":"true"
                      }] 
             }]   
         }
