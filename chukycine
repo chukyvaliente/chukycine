@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                        "name": "Maravilloso desastre (2023) TS Latino",
+                    "image": "https://www.elseptimoarte.net/carteles/341/maravilloso_desastre_96703.jpg",
+                    "url": "https://upstream.to/ndd6tp74bz7z",
+                    "isHost":"true"
+                         },{  
                          "name": "Asedio (2023) TS",
                     "image": "https://www.elseptimoarte.net/carteles/341/asedio_96876.jpeg",
                     "url": "https://upstream.to/j9i0b6kyodh0",
