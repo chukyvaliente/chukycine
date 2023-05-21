@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                        "name": "Cráter (2023)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/crater_97463.jpg",
+                    "url": "https://upstream.to/dgl7s9ybiqmf",
+                    "isHost":"true"
+                         },{  
                          "name": "Fast & Furious X (2023) TS Latino",
                     "image": "https://www.elseptimoarte.net/carteles/341/fast_and_furious_10_97112.jpg",
                     "url": "https://upstream.to/z1s7odib2b8g",
@@ -31,9 +36,9 @@
                     "url": "https://upstream.to/iytu1spoyirc",
                     "isHost":"true"
                          },{
-                      "name": "Sisu (2022) TS",
+                      "name": "Sisu (2022) BrScreen",
                     "image": "https://www.elseptimoarte.net/carteles/341/sisu_97243.jpg",
-                    "url": "https://dood.yt/d/50o3xyvvgw1u",
+                    "url": "https://upstream.to/2kcyj6m55kvj",
                     "isHost":"true"
                          },{  
                           "name": "Nadando en libertad (2022)",
@@ -633,12 +638,12 @@
                  },{
                   "name": "Harry Potter y la cámara secreta (2002)",
                     "image": "https://www.elseptimoarte.net/carteles/341/harry_potter_y_la_camara_secreta_35624.jpg",
-                    "url": "https://upstream.to/eu569j1oapvs",
+                    "url": "https://upstream.to/q687ku8wpcx7",
                     "isHost":"true"
                  },{
                  "name": "Harry Potter y el prisionero de Azkaban (2004)",
                     "image": "https://www.elseptimoarte.net/carteles/341/harry_potter_y_el_prisionero_de_azkaban_41626.jpg",
-                    "url": "https://upstream.to/g3q6n1deoxgv",
+                    "url": "https://upstream.to/dwp0blpyi1wf",
                     "isHost":"true"
                  },{
                  "name": "Harry Potter y el cáliz de fuego (2005)",
@@ -668,7 +673,7 @@
                                         },{ 
                       "name": "Harry Potter: Regreso a Hogwarts (2022)",
                     "image": "https://pics.filmaffinity.com/harry_potter_20th_anniversary_return_to_hogwarts-882305767-mmed.jpg",
-                    "url": "https://upstream.to/7r7hre94msz6",
+                    "url": "https://upstream.to/7s3f5xe4l1rh",
                     "isHost":"true" 
                  },{
                 "name": "Invicto (2002)",
