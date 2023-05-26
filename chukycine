@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada al 21-05-2023)",
+    "author": "chuky (Actualiada al 26-05-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukyhood",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                       "name": "La sirenita (2023) TS Latino",
+                    "image": "https://www.elseptimoarte.net/carteles/341/la_sirenita_97114.jpg",
+                    "url": "https://upstream.to/6zfipub17cvd",
+                    "isHost":"true"
+                         },{  
                         "name": "Maravilloso desastre (2023) TS Latino",
                     "image": "https://www.elseptimoarte.net/carteles/341/maravilloso_desastre_96703.jpg",
                     "url": "https://upstream.to/ndd6tp74bz7z",
@@ -151,9 +156,9 @@
                     "url": "https://upstream.to/2fqx77sgr6dz",
                     "isHost":"true" 
 		         },{  
-                         "name": "John Wick 4 (2023) LATINO",
+                         "name": "John Wick 4 (2023) BrScreen",
                     "image": "https://www.elseptimoarte.net/carteles/341/john_wick_4_96095.jpg",
-                    "url": "https://upstream.to/ffh3ql6sras1",
+                    "url": "https://upstream.to/dsk05gu9aq9i",
                     "isHost":"true" 
 		         },{  
                        "name": "La niña de la comunión (2022)",
