@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada al 26-05-2023)",
+    "author": "chuky (Actualiada al 27-05-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukyhood",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                      "name": "Fenómenas (2023)",
+                    "image": "https://pics.filmaffinity.com/fenomenas-452592836-mmed.jpg",
+                    "url": "https://upstream.to/c9xjh0hrt5dd",
+                    "isHost":"true"
+                        },{   
                        "name": "La sirenita (2023) TS Latino",
                     "image": "https://www.elseptimoarte.net/carteles/341/la_sirenita_97114.jpg",
                     "url": "https://upstream.to/6zfipub17cvd",
@@ -4469,7 +4474,7 @@
                       "name": "Jujutsu Kaisen 0 (1999)",
                     "image": "https://pics.filmaffinity.com/gekijouban_jujutsu_kaisen_0-601223183-mmed.jpg",
                     "url": "https://upstream.to/b9u8ibgmk79p",
-                    "isHost":"true"
+                    "isHost":"true" 
                      }] 
             }]   
         }
