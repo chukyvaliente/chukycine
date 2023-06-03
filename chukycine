@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada al 01-06-2023)",
+    "author": "chuky (Actualiada al 03-06-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukyhood",
@@ -16,12 +16,32 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                       "name": "Spider-Man: Cruzando el multiverso (2023) TS Latino",
+                    "image": "https://www.elseptimoarte.net/carteles/341/spider-man_cruzando_el_multiverso_97688.jpg",
+                    "url": "https://upstream.to/7jpd1piwivac",
+                    "isHost":"true"
+                        },{  
+                        "name": "Posesión infernal: El despertar (2023)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/posesion_infernal_el_despertar_96337.jpg",
+                    "url": "https://upstream.to/z9gihf8d73qw",
+                    "isHost":"true"
+                        },{   
+                        "name": "¡Vaya vacaciones! (2023) TS",
+                    "image": "https://pics.filmaffinity.com/vaya_vacaciones-957309987-mmed.jpg",
+                    "url": "https://upstream.to/07q6l9u2c1mp",
+                    "isHost":"true"
+                        },{   
+                         "name": "Renfield (2023) TS",
+                    "image": "https://pics.filmaffinity.com/renfield-758566468-mmed.jpg",
+                    "url": "https://upstream.to/9t3ae6b9l1p3",
+                    "isHost":"true"
+                        },{   
                       "name": "Fenómenas (2023)",
                     "image": "https://pics.filmaffinity.com/fenomenas-452592836-mmed.jpg",
                     "url": "https://upstream.to/c9xjh0hrt5dd",
                     "isHost":"true"
                         },{   
-                       "name": "La sirenita (2023) TS Latino",
+                       "name": "La sirenita (2023) Latino",
                     "image": "https://www.elseptimoarte.net/carteles/341/la_sirenita_97114.jpg",
                     "url": "https://dood.yt/d/4tdb3ybqfhag",
                     "isHost":"true"
@@ -4471,10 +4491,25 @@
                     "url": "https://ok.ru/video/415045847686",
                     "isHost":"true"
                         },{
-                      "name": "Jujutsu Kaisen 0 (1999)",
+                      "name": "Jujutsu Kaisen 0 (2021)",
                     "image": "https://pics.filmaffinity.com/gekijouban_jujutsu_kaisen_0-601223183-mmed.jpg",
                     "url": "https://upstream.to/b9u8ibgmk79p",
                     "isHost":"true" 
+                         },{
+                      "name": "Outlander (2008)",
+                    "image": "https://pics.filmaffinity.com/outlander-511259104-mmed.jpg",
+                    "url": "https://upstream.to/ib9evbwvfboz",
+                    "isHost":"true" 
+                           },{
+                      "name": "El mar del Norte (2021)",
+                    "image": "https://pics.filmaffinity.com/nordsjoen_north_sea-116276481-mmed.jpg",
+                    "url": "https://upstream.to/ndkleylmpscr",
+                    "isHost":"true" 
+                           },{
+                      "name": "¡¡¡Caverrrrnícola!!! (2004)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/caverrrrnicola_38271.jpg",
+                    "url": "https://dood.yt/d/6mlbljpawiye",
+                    "isHost":"true"
                      }] 
             }]   
         }
