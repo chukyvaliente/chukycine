@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada al 03-06-2023)",
+    "author": "chuky (Actualiada al 05-06-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukyhood",
@@ -4509,6 +4509,11 @@
                       "name": "¡¡¡Caverrrrnícola!!! (2004)",
                     "image": "https://www.elseptimoarte.net/carteles/341/caverrrrnicola_38271.jpg",
                     "url": "https://dood.yt/d/6mlbljpawiye",
+                    "isHost":"true"
+                           },{
+                      "name": "Mulán (2020)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/mulan_81156.jpg",
+                    "url": "https://upstream.to/77lr2a790due",
                     "isHost":"true"
                      }] 
             }]   
