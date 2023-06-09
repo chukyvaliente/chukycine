@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada al 08-06-2023)",
+    "author": "chuky (Actualiada al 09-06-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukyhood",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                         "name": "El hotel de los líos (2023) TS",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_hotel_de_los_lios_96774.jpg",
+                    "url": "https://vidmoly.me/w/1ht0yil987l4",
+                    "isHost":"true"
+                        },{   
                        "name": "Spider-Man: Cruzando el multiverso (2023) TS Latino",
                     "image": "https://www.elseptimoarte.net/carteles/341/spider-man_cruzando_el_multiverso_97688.jpg",
                     "url": "https://upstream.to/7jpd1piwivac",
