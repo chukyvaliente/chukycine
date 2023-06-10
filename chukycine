@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada al 09-06-2023)",
+    "author": "chuky (Actualiada al 10-06-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukyhood",
@@ -4529,6 +4529,11 @@
                       "name": "El pacto de los lobos (2001)",
                     "image": "https://www.elseptimoarte.net/carteles/341/el_pacto_de_los_lobos_96438.jpg",
                     "url": "https://upstream.to/n0d570x7sr30",
+                    "isHost":"true"
+                          },{
+                      "name": "Buho gris (1999)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/buho_gris_51355.jpg",
+                    "url": "https://ok.ru/video/1844842597018",
                     "isHost":"true"
                      }] 
             }]   
