@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada al 12-06-2023)",
+    "author": "chuky (Actualiada al 13-06-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukyhood",
@@ -354,6 +354,21 @@
                     "name": "Arma letal 4 (1998)",
                     "image": "https://www.elseptimoarte.net/carteles/341/arma_letal_4_53008.jpg",
                     "url": "https://upstream.to/qjehw4m8mf90",
+                    "isHost":"true"
+                         },{ 
+                      "name": "Blade (1998)",
+                    "image": "https://pics.filmaffinity.com/blade-397609933-msmall.jpg",
+                    "url": "https://vidmoly.me/w/1dio1dyc2zex",
+                    "isHost":"true"
+                           },{ 
+                      "name": "Blade II (2002)",
+                    "image": "https://pics.filmaffinity.com/blade_ii_blade_2-730287165-msmall.jpg",
+                    "url": "https://vidmoly.me/w/nxy9oerzp0tc",
+                    "isHost":"true"
+                        },{ 
+                      "name": "Blade III (2004)",
+                    "image": "https://pics.filmaffinity.com/blade_trinity_blade_3-956890691-mmed.jpg",
+                    "url": "https://vidmoly.me/w/sj5bb44na5ns",
                     "isHost":"true"
                       },{ 
                       "name": "Cube (1997)",
@@ -4544,6 +4559,11 @@
                       "name": "Alien: Covenant (2017)",
                     "image": "https://www.elseptimoarte.net/carteles/341/alien_covenant_65053.jpg",
                     "url": "https://upstream.to/tohr5bet49gz",
+                    "isHost":"true"
+                               },{
+                      "name": "Demolition Man (1993)",
+                    "image": "https://pics.filmaffinity.com/demolition_man-768903735-mmed.jpg",
+                    "url": "http://vidmoly.me/w/gotl2yduol7b",
                     "isHost":"true"
                      }] 
             }]   
