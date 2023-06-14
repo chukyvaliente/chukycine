@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada al 13-06-2023)",
+    "author": "chuky (Actualiada al 14-06-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukyhood",
@@ -773,7 +773,7 @@
                 },{
                 "name": "John Wick: Capítulo 3 - Parabellum (2019)",
                     "image": "https://www.elseptimoarte.net/carteles/341/john_wick_capitulo_3_parabellum_76811.jpg",
-                    "url": "https://upstream.to/h9m4057mgxce",
+                    "url": "http://vidmoly.me/w/rhg6way28dg6",
                     "isHost":"true"
                 },{
                     "name": "Jumanji",
@@ -2819,6 +2819,16 @@
                          "name": "El fabuloso viaje de Barbie (2022)",
                     "image": "https://pics.filmaffinity.com/barbie_epic_road_trip-715005781-mmed.jpg",
                     "url": "https://upstream.to/zeanrt7a57cb",
+                    "isHost":"true" 
+                           },{   
+	                 "name": "Las aventuras de Tadeo Jones (2012)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/las_aventuras_de_tadeo_jones_14384.jpg",
+                    "url": "https://upstream.to/ex5k30wj2xpx",
+                    "isHost":"true"
+                          },{   
+	                 "name": "Tadeo Jones 2. El secreto del rey Midas (2017)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/tadeo_jones_2_66088.jpg",
+                    "url": "https://upstream.to/z2cjpl68rzk9",
                     "isHost":"true" 
                          },{   
 	                 "name": "Tadeo Jones 3. La tabla esmeralda (2022)",
