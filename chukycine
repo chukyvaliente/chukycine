@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                    "name": "Transformers: El despertar de las bestias (2023) TS-Latino",
+                    "image": "https://www.elseptimoarte.net/carteles/341/transformers_el_despertar_de_las_bestias_97599.jpg",
+                    "url": "https://upstream.to/y1m2g9ypzsca",
+                    "isHost":"true"
+                        },{
                         "name": "El triángulo de la tristeza (2022)",
                     "image": "https://www.elseptimoarte.net/carteles/341/el_triangulo_de_la_tristeza_95004.jpg",
                     "url": "https://vidmoly.to/w/v3ym4yshrbu9",
@@ -1279,6 +1284,31 @@
                     "name": "Toy Story 4 (2019)",
                     "image": "https://www.elseptimoarte.net/carteles/341/toy_story_4_76143.jpg",
                     "url": "https://upstream.to/zxiy9vpxx1e1",
+                    "isHost":"true"
+                          },{
+                    "name": "Transformers (2007)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/transformers_59136.jpg",
+                    "url": "https://upstream.to/1t1zjyglehn2",
+                    "isHost":"true"
+                     },{
+                    "name": "Transformers: La venganza de los caídos (2009)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/transformers_la_venganza_de_los_caidos_55343.jpg",
+                    "url": "https://upstream.to/uvr3qv16hcxd",
+                    "isHost":"true"
+                     },{
+                    "name": "Transformers: El lado oscuro de la Luna (2011)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/transformers_3_9780.jpg",
+                     "url" : "https://upstream.to/m1iyrpo1rr9v",
+                    "isHost":"true"
+                     },{
+                    "name": "Transformers: La era de la extinción (2014)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/transformers_la_era_de_la_extincion_29352.jpg",
+                    "url": "https://upstream.to/bwkwlk7st4y6",
+                    "isHost":"true"
+                          },{
+                    "name": "Transformers: El último caballero (2017)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/transformers_el_ultimo_caballero_65988.jpg",
+                    "url": "https://upstream.to/d8uwh4gymp5m",
                     "isHost":"true"
                                           },{ 
                       "name": "¡Vaya Santa Claus! (1994)",
