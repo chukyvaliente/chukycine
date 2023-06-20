@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada día 18-06-2023)",
+    "author": "chuky (Actualiada día 20-06-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "chukyhood",
@@ -4635,6 +4635,11 @@
                     "image": "https://www.elseptimoarte.net/carteles/341/el_agente_70342.jpg",
                     "url": "http://185.233.16.151:8000/movie/1237/1237/147152.mp4?token=H0EMV0RQRl8UVABWAlILCwBRAAkCBwRdUQZfAVFaBgEFUVBVBllXXFVDFRZAFkBdBw48WFASDVUBAFcNURQXRhcGFmleXEZfFFALBQdWBRpKQRdYWVUVXgQBXg9RCAAHUFNIFEdRAEcMQw8AAFIQFEQGG0VRQlkFWWgCXRVRVlZGWUYUGxoLC2kFXFlSDFYaXEFTExgSXhdFFVxWFlRZH0YBDUJFWRAAFFsbBQdQARpKQQBeQV5DFkwVXBomaxcfRgYcQlJWFwxZDxsOEQ9CDERPQVhHb0UBRkMUXQJVUEFGWUYGFRRGCFcZZldcDFxdBRcKXlpDFV4XBEQUQVVaXQ0XC0RoSA0BFFtXQV8OTw==",
                     "userAgent":""
+                       },{
+                      "name": "El quinto elemento (1997)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_quinto_elemento_poster_26570.jpg",
+                    "url": "https://upstream.to/jro6d6yutu8x",
+                    "isHost":"true"
                      }] 
             }]   
         }
