@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                       "name": "Indiana Jones y el dial del destino (2023) TS",
+                    "image": "https://www.elseptimoarte.net/carteles/341/indiana_jones_y_el_dial_del_destino_98215.jpg",
+                    "url": "https://vidmoly.me/w/7ese75x4r87c",
+                    "isHost":"true"
+                        },{
                     "name": "Transformers: El despertar de las bestias (2023) TS-Latino",
                     "image": "https://www.elseptimoarte.net/carteles/341/transformers_el_despertar_de_las_bestias_97599.jpg",
                     "url": "https://upstream.to/y1m2g9ypzsca",
@@ -744,6 +749,26 @@
                       "name": "Harry Potter: Regreso a Hogwarts (2022)",
                     "image": "https://pics.filmaffinity.com/harry_potter_20th_anniversary_return_to_hogwarts-882305767-mmed.jpg",
                     "url": "https://upstream.to/7s3f5xe4l1rh",
+                    "isHost":"true" 
+                    },{
+                "name": "En busca del arca perdida (1981)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/en_busca_del_arca_perdida.jpg",
+                    "url": "https://upstream.to/b1xfe7jw1ico",
+                    "isHost":"true"
+                },{
+                 "name": "Indiana Jones y el templo maldito (1984)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/indiana_jones_y_el_templo_maldito.jpgg",
+                    "url": "https://upstream.to/5jdw4jdeqtuu",
+                    "isHost":"true"
+                },{
+                "name": "Indiana Jones y la última cruzada (1989)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/indiana_jones_y_la_ultima_cruzada_90277.jpg",
+                    "url": "https://upstream.to/l82kowmiud4x",
+                    "isHost":"true"
+                },{
+                    "name": "Indiana Jones y el reino de la calavera de cristal (2008)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/indiana_jones_y_el_reino_de_la_calavera_de_cristal_56924.jpg",
+                    "url": "https://upstream.to/ln7g44wa6k62",
                     "isHost":"true" 
                  },{
                 "name": "Invicto (2002)",
