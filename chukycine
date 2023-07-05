@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                         "name": "Ruby: Aventuras de una Kraken adolescente (2023) TS Latino",
+                    "image": "https://www.elseptimoarte.net/carteles/341/ruby_aventuras_de_una_kraken_adolescente_97918.jpg",
+                    "url": "https://upstream.to/z52xvxb9nlgf",
+                    "isHost":"true"
+                        },{
                        "name": "Indiana Jones y el dial del destino (2023) TS",
                     "image": "https://www.elseptimoarte.net/carteles/341/indiana_jones_y_el_dial_del_destino_98215.jpg",
                     "url": "https://vidmoly.me/w/7ese75x4r87c",
@@ -4730,6 +4735,11 @@
                     "image": "https://www.elseptimoarte.net/carteles/341/antebellum_84577.jpg",
                     "url": "https://vidmoly.me/w/4g2d4b1jmf55",
                     "isHost":"true"  
+                       },{
+                      "name": "La juventud (2015)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/la_juventud_45874.jpg",
+                    "url": "https://upstream.to/y9cewo4o38tp",
+                    "isHost":"true"   
                      }] 
             }]   
         }
