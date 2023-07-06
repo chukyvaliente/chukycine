@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada a 05-07-2023)",
+    "author": "chuky (Actualiada a 06-07-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -4739,7 +4739,12 @@
                       "name": "La juventud (2015)",
                     "image": "https://www.elseptimoarte.net/carteles/341/la_juventud_45874.jpg",
                     "url": "https://upstream.to/y9cewo4o38tp",
-                    "isHost":"true"   
+                    "isHost":"true"
+                        },{
+                      "name": "13 horas: Los soldados secretos de Bengasi (2016)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/13_horas_50017.jpg",
+                    "url": "https://upstream.to/1zy8l5yh43kh",
+                    "isHost":"true"      
                      }] 
             }]   
         }
