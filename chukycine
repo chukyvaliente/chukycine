@@ -201,9 +201,9 @@
                     "url": "https://upstream.to/aqrzsyd1uszy",
                     "isHost":"true"
                          },{ 
-                           "name": "Mari(dos)  (2023) TS",
+                           "name": "Mari(dos) (2023)",
                     "image": "https://pics.filmaffinity.com/mari_dos-119061049-mmed.jpg",
-                    "url": "https://upstream.to/2fqx77sgr6dz",
+                    "url": "https://upstream.to/r2tnaac1hfxc",
                     "isHost":"true" 
 		         },{  
                          "name": "John Wick 4 (2023)",
@@ -1521,6 +1521,86 @@
             "image": "https://i.ibb.co/Tm6pTgB/Acci-n.jpg",
             "info": "",
                "stations": [{
+                           "name": "13 horas: Los soldados secretos de Bengasi (2016)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/13_horas_50017.jpg",
+                    "url": "https://upstream.to/1zy8l5yh43kh",
+                    "isHost":"true"  
+                            },{
+                           "name": "El agente (2018)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_agente_70342.jpg",
+                    "url": "http://185.233.16.151:8000/movie/1237/1237/147152.mp4?token=H0EMV0RQRl8UVABWAlILCwBRAAkCBwRdUQZfAVFaBgEFUVBVBllXXFVDFRZAFkBdBw48WFASDVUBAFcNURQXRhcGFmleXEZfFFALBQdWBRpKQRdYWVUVXgQBXg9RCAAHUFNIFEdRAEcMQw8AAFIQFEQGG0VRQlkFWWgCXRVRVlZGWUYUGxoLC2kFXFlSDFYaXEFTExgSXhdFFVxWFlRZH0YBDUJFWRAAFFsbBQdQARpKQQBeQV5DFkwVXBomaxcfRgYcQlJWFwxZDxsOEQ9CDERPQVhHb0UBRkMUXQJVUEFGWUYGFRRGCFcZZldcDFxdBRcKXlpDFV4XBEQUQVVaXQ0XC0RoSA0BFFtXQV8OTw==",
+                    "userAgent":""
+                       },{
+                          "name": "El señor de la guerra (2005)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_senor_de_la_guerra_38092.jpg",
+                    "url": "https://upstream.to/0g1c49bt9gcn",
+                    "isHost":"true"
+                            },{
+                          "name": "Mulán (2020)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/mulan_81156.jpg",
+                    "url": "https://upstream.to/77lr2a790due",
+                    "isHost":"true"
+                          },{
+                          "name": "El mar del Norte (2021)",
+                    "image": "https://pics.filmaffinity.com/nordsjoen_north_sea-116276481-mmed.jpg",
+                    "url": "https://upstream.to/ndkleylmpscr",
+                    "isHost":"true" 
+                           },{
+                          "name": "Distrito 13 (2004)",
+                    "image": "https://pics.filmaffinity.com/banlieue_13-669876967-msmall.jpg",
+                    "url": "https://upstream.to/667pzfyc5d1k",
+                    "isHost":"true" 
+                        },{ 
+                        "name": "Distrito 13 Ultimatum (2009)",
+                    "image": "https://pics.filmaffinity.com/b13_u_banlieue_13_ultimatum-379269675-msmall.jpg",
+                    "url": "https://upstream.to/osukyuczl9ej",
+                    "isHost":"true" 
+                          },{ 
+                          "name": "Troya (2004)",
+                    "image": "https://pics.filmaffinity.com/troy-509263865-mmed.jpg",
+                    "url": "https://upstream.to/1qoa89ecz3nj",
+                    "isHost":"true"
+                           },{   
+                       "name": "(Barquero)Los forajidos de Río Bravo (1970)",
+                    "image": "https://pics.filmaffinity.com/barquero-910877778-mmed.jpg",
+                    "url": "https://upstream.to/gj0myl5d40gv",
+                    "isHost":"true"
+                       },{    
+                           "name": "The Belko Experiment (2017)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/the_belko_experiment_63115.jpg",
+                    "url": "https://upstream.to/pqj7p66q2dlb",
+                    "isHost":"true"
+                        },{ 
+                        "name": "La mujer rey (2022)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/la_mujer_rey_94303.jpeg",
+                    "url": "https://upstream.to/cohbd9t4y4mu",
+                    "isHost":"true" 
+                          },{ 
+                      "name": "Ben-Hur (1959)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/ben-hur_34973.jpg",
+                    "url": "https://upstream.to/id7jr7uqwzw2",
+                    "isHost":"true" 
+                          },{ 
+                        "name": "Fast & Furious 8 (2017)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/fast_and_furious_8_64353.jpg",
+                    "url": "https://upstream.to/4nf2xj1gzzlq",
+                    "isHost":"true"
+                        },{ 
+                         "name": "Transporter 2 (2005)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/transporter_2_40244.jpg",
+                    "url": "https://upstream.to/j4p612jus346",
+                    "isHost":"true"
+                     },{ 
+                         "name": "Tres reyes (1999)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/tres_reyes_6604.jpg",
+                    "url": "https://upstream.to/nw71wbfk4c2a",
+                    "isHost":"true"
+                        },{ 
+                        "name": "El furor del dragón (1972)",
+                    "image": "https://pics.filmaffinity.com/meng_long_guojiang_return_of_the_dragon-208241319-mmed.jpg",
+                    "url": "https://https://dood.yt/d/z2qukgukgj27",
+                    "isHost":"true" 
+                        },{ 
                      "name": "Trashin': Patinar o morir (1986)",
                     "image": "https://pics.filmaffinity.com/thrashin-340524106-mmed.jpg",
                     "url": "https://ok.ru/videoembed/1743491959497",
@@ -1851,6 +1931,81 @@
             "image": "https://i.ibb.co/kHgKW1d/Ciencia-Ficci-n.jpg",
             "info": "",
                "stations": [{
+                             "name": "El increíble Hulk (2008)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_increible_hulk_57033.jpg",
+                    "url": "https://upstream.to/8p3u2e528avj",
+                    "isHost":"true" 
+                       },{
+                           "name": "Ant-Man y la Avispa: Quantumanía (2023)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/ant-man_y_la_avispa_quantumania_96377.jpg",
+                    "url": "https://upstream.to/8t5xaio3d7vo",
+                    "isHost":"true"
+                        },{
+                         "name": "El quinto elemento (1997)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_quinto_elemento_poster_26570.jpg",
+                    "url": "https://upstream.to/jro6d6yutu8x",
+                    "isHost":"true"
+                        },{
+                          "name": "Prometheus (2012)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/prometheus_14206.jpg",
+                    "url": "https://upstream.to/r2cw2el92x60",
+                    "isHost":"true"
+                              },{
+                      "name": "Alien: Covenant (2017)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/alien_covenant_65053.jpg",
+                    "url": "https://upstream.to/tohr5bet49gz",
+                    "isHost":"true"
+                               },{
+                      "name": "Demolition Man (1993)",
+                    "image": "https://pics.filmaffinity.com/demolition_man-768903735-mmed.jpg",
+                    "url": "https://upstream.to/wfd3sehnay4x",
+                    "isHost":"true"
+                             },{
+                             "name": "Outlander (2008)",
+                    "image": "https://pics.filmaffinity.com/outlander-511259104-mmed.jpg",
+                    "url": "https://upstream.to/ib9evbwvfboz",
+                    "isHost":"true" 
+                           },{
+                          "name": "Perseguido (1987)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/perseguido_68312.jpg",
+                    "url": "https://upstream.to/o25hn4daxefb",
+                    "isHost":"true" 
+                          },{
+                      "name": "Desafío total (1990)",
+                    "image": "https://pics.filmaffinity.com/total_recall-265009430-mmed.jpg",
+                    "url": "https://upstream.to/93z785ggs3kf",
+                    "isHost":"true"
+                        },{ 
+                       "name": "Dune (2021)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/dune_90626.jpeg",
+                    "url": "https://upstream.to/t1iyhbbow8hy",
+                    "isHost":"true"
+                        },{ 
+                      "name": "Invasión (2007)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/invasion_59737.jpg",
+                    "url": "https://upstream.to/gmsrkzjbh1zs",
+                    "isHost":"true" 
+                        },{ 
+                       "name": "Transformers: La película (1986)",
+                    "image": "https://pics.filmaffinity.com/the_transformers_the_movie-726890247-mmed.jpg",
+                    "url": "https://ok.ru/video/3060624656940",
+                    "isHost":"true"
+                          },{ 
+                          "name": "V de Vendetta (2005)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/v_de_vendetta_74553.jpg",
+                    "url": "https://upstream.to/pxlnmfozikg1",
+                    "isHost":"true"
+                       },{ 
+                         "name": "Starfighter: La aventura comienza (1984)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/starfighter_la_aventura_comienza_70358.jpg",
+                    "url": "https://ok.ru/video/2681120623286",
+                    "isHost":"true"
+                         },{ 
+                      "name": "Iron Man 3 (2013)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/iron_man_3_20110.jpg",
+                    "url": "https://upstream.to/l76bcvqi61u3",
+                    "isHost":"true"
+                         },{ 
                     "name": "Avatar (2009)",
                     "image": "https://www.elseptimoarte.net/carteles/341/avatar.jpg",
                     "url": "https://upstream.to/bbd86di3ct0n",
@@ -2061,6 +2216,76 @@
             "image": "https://i.ibb.co/TMMp14y/Comedia.jpg",
             "info": "",
                "stations": [{
+                          "name": "Mr. Deeds (2002)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/mr_deeds_45818.jpg",
+                    "url": "https://vidmoly.me/w/ukle46kktqog",
+                    "isHost":"true" 
+                      },{
+                         "name": "Los Thornberrys: La película (2002)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/los_thornberrys_42932.jpg",
+                    "url": "https://vidmoly.me/w/vj0l0ltbv3r9",
+                    "isHost":"true"
+                              },{
+                             "name": "¡¡¡Caverrrrnícola!!! (2004)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/caverrrrnicola_38271.jpg",
+                    "url": "https://dood.yt/d/6mlbljpawiye",
+                    "isHost":"true"
+                           },{
+                            "name": "Los productores (2005)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/los_productores_37248.jpg",
+                    "url": "https://upstream.to/o32wwgfqsqx5",
+                    "isHost":"true"  
+                          },{ 
+                           "name": "Con el arma a punto (1993)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/con_el_arma_a_punto_79596.jpg",
+                    "url": "https://ok.ru/video/2772734839478",
+                    "isHost":"true"  
+                         },{ 
+                           "name": "El profesor chiflado (1996)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_profesor_chiflado_62328.jpg",
+                    "url": "https://upstream.to/jc6loklfyhxs",
+                    "isHost":"true"
+                         },{ 
+                        "name": "El profesor chiflado II: La familia Klump (2000)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_profesor_chiflado_ii_la_familia_klump_49303.jpg",
+                    "url": "https://ok.ru/video/1182128409149",
+                    "isHost":"true"
+                         },{ 
+                       "name": "El hotel de los líos (1938)",
+                    "image": "https://pics.filmaffinity.com/room_service-896791509-mmed.jpg",
+                    "url": "https://ok.ru/video/1184295684669",
+                    "isHost":"true" 
+                         },{ 
+                      "name": "Scary Movie (2000)",
+                    "image": "https://pics.filmaffinity.com/scary_movie-943532513-mmed.jpg",
+                    "url": "https://upstream.to/kty63ps147n0",
+                    "isHost":"true" 
+                         },{ 
+                        "name": "Querido intruso (1991)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/querido_intruso_83864.jpg",
+                    "url": "https://upstream.to/vtez8vvgoo14",
+                    "isHost":"true" 
+                       },{ 
+                       "name": "El buen patrón (2021)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_buen_patron_90243.jpg",
+                    "url": "https://upstream.to/39vctwo5w1dy",
+                    "isHost":"true"
+                         },{ 
+                          "name": "Aterriza como puedas (1980)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/aterriza_como_puedas_42242.jpg",
+                    "url": "https://ok.ru/video/3809240353468",
+                    "isHost":"true"
+                          },{ 
+                       "name": "El recomendado (1985)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_recomendado_43500.jpg",
+                    "url": "https://ok.ru/video/4366906493629",
+                    "isHost":"true"
+                      },{ 
+                        "name": "Una conejita en el campus (2008)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/una_conejita_en_el_campus_57608.jpg",
+                    "url": "https://ok.ru/video/38599723750",
+                    "isHost":"true"
+                     },{ 
                          "name": "Doce en casa (2003)",
                     "image": "https://www.elseptimoarte.net/carteles/341/doce_en_casa_41205.jpg",
                     "url": "https://upstream.to/62sca34m41c5",
@@ -2616,6 +2841,36 @@
             "image": "https://i.ibb.co/W3JyVfW/Infantil.jpg",
             "info": "",
                "stations": [{
+                          "name": "Space Jam: Nuevas leyendas (2021)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/space_jam_nuevas_leyendas_88995.jpg",
+                    "url": "https://upstream.to/sqqvo5qbts2o",
+                    "isHost":"true"
+                     },{
+                          "name": "Hopper, el polloliebre (2022)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/hopper_el_polloliebre_94452.jpg",
+                    "url": "https://dood.yt/d/xveqke1vw9hs",
+                    "isHost":"true"
+                         },{ 
+                          "name": "Los Goonies (1985)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/los_goonies_78256.jpg",
+                    "url": "https://upstream.to/642wo7ik50ne",
+                    "isHost":"true"
+                        },{ 
+                         "name": "El parque mágico (2019)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_parque_magico_73863.jpg",
+                    "url": "https://upstream.to/qic7iaqsz32w",
+                    "isHost":"true" 
+                          },{ 
+                        "name": "Rebelión en la granja (1999)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/rebelion_en_la_granja_49124.jpg",
+                    "url": "https://ok.ru/video/34931346015",
+                    "isHost":"true" 
+                          },{ 
+                      "name": "Lilo & Stitch (2002)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/lilo_&_stitch_45214.jpg",
+                    "url": "https://upstream.to/zqsraet0wjdd",
+                    "isHost":"true"
+                         },{ 
                      "name": "Stuart Little 2 (2002)",
                     "image": "https://www.elseptimoarte.net/carteles/341/stuart_little_2_10106.jpg",
                     "url": "https://ok.ru/video/1504153504308",
@@ -2926,6 +3181,176 @@
             "image": "https://i.ibb.co/JxG1XGc/Drama.jpg",
             "info": "",
                "stations": [{
+                        "name": "La juventud (2015)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/la_juventud_45874.jpg",
+                    "url": "https://upstream.to/y9cewo4o38tp",
+                    "isHost":"true"
+                        },{
+                           "name": "Di Di Hollywood (2010)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/di_di_hollywood_6777.jpg",
+                    "url": "https://vidmoly.me/w/vvpp6e5h5pa7",
+                    "isHost":"true"  
+                       },{
+                         "name": "El precio del poder (1983)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_precio_del_poder_11879.jpg",
+                    "url": "https://upstream.to/wyu7zo277utv",
+                    "isHost":"true"
+                      },{
+                      "name": "Lev Yashin. The Dream Goalkeeper (V.O.S.E)",
+                    "image": "https://pics.filmaffinity.com/lev_yashin_vratar_moey_mechty-503276395-mmed.jpg",
+                    "url": "https://pelisplay.io/play?id=NjkxMzI=",
+                    "isHost":"true"
+                     },{
+                           "name": "Stoned (2005)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/stoned_26693.jpg",
+                    "url": "https://ok.ru/video/5058906884715",
+                    "isHost":"true"
+                         },{
+                          "name": "Buho gris (1999)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/buho_gris_51355.jpg",
+                    "url": "https://ok.ru/video/1844842597018",
+                    "isHost":"true"
+                           },{
+                           "name": "La naranja mecánica (1971)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/la_naranja_mecanica_11935.jpg",
+                    "url": "https://upstream.to/0rxlgtwtitu0",
+                    "isHost":"true"
+                        },{
+                        "name": "Novecento (1900) (1976)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/novecento_30696.jpg",
+                    "url": "https://ok.ru/video/340243384913",
+                    "isHost":"true" 
+                          },{ 
+                        "name": "The Doors (1991)",
+                    "image": "https://pics.filmaffinity.com/the_doors-542286540-mmed.jpg",
+                    "url": "https://upstream.to/070qqey4m6oc",
+                    "isHost":"true" 
+                           },{ 
+                            "name": "close (2022)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/close_95490.jpg",
+                    "url": "https://upstream.to/m88yj5eawu58",
+                    "isHost":"true" 
+                           },{ 
+                          "name": "Sid y Nancy (1986)",
+                    "image": "https://pics.filmaffinity.com/sid_and_nancy-948800212-mmed.jpg",
+                    "url": "https://upstream.to/8rp4gqj0e8ej",
+                    "isHost":"true"
+                         },{ 
+                          "name": "TÁR (2022)",
+                    "image": "https://pics.filmaffinity.com/tar-530526120-mmed.jpg",
+                    "url": "https://vidmoly.me/w/5gm250dlb63d",
+                    "isHost":"true"
+                        },{ 
+                          "name": "La Maternal (2022)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/la_maternal_94979.jpg",
+                    "url": "https://upstream.to/wm4yf7qosduq",
+                    "isHost":"true" 
+                         },{ 
+                        "name": "En algún lugar de la memoria (2007)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/en_algun_lugar_de_la_memoria_59075.jpg",
+                    "url": "https://ok.ru/video/2224532556428",
+                    "isHost":"true" 
+                         },{ 
+                          "name": "El francotirador de Dombás (2022)",
+                    "image": "https://pics.filmaffinity.com/sniper_the_white_raven-384675061-mmed.jpg",
+                    "url": "https://upstream.to/dmza8s5nc24q",
+                    "isHost":"true" 
+                          },{ 
+                         "name": "Dragonfly (La sombra de la libélula) (2002)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/dragonfly_la_sombra_de_la_libelula_45417.jpg",
+                    "url": "https://upstream.to/fd3oa7rcvskq",
+                    "isHost":"true" 
+                         },{ 
+                         "name": "Pulse (Conexión) (2006)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/pulse_conexion_58185.jpg",
+                    "url": "https://upstream.to/d16xvu8irhno",
+                    "isHost":"true" 
+                       },{ 
+                        "name": "1917 (2019)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/1917_81364.jpg",
+                    "url": "https://dood.yt/d/4a8f87srtdme",
+                    "isHost":"true" 
+                         },{ 
+                        "name": "Fuga de Alcatraz (1979)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/fuga_de_alcatraz_15722.jpg",
+                    "url": "https://ok.ru/video/2553171086006",
+                    "isHost":"true"
+                        },{ 
+                        "name": "El guardaespaldas (1992)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_guardaespaldas_63282.jpg",
+                    "url": "https://ok.ru/video/316502837923",
+                    "isHost":"true"
+                         },{ 
+                        "name": "Orquídea salvaje (1989)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/orquidea_salvaje_84054.jpg",
+                    "url": "https://opvid.online/0spavat3uld2",
+                    "isHost":"true" 
+                          },{ 
+                          "name": "La ola (2008)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/la_ola_57846.jpg",
+                    "url": "https://ok.ru/video/2371935406794",
+                    "isHost":"true" 
+                          },{ 
+                         "name": "Intemperie (2019)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/intemperie_77384.jpg",
+                    "url": "https://upstream.to/6mua6p041kz6",
+                    "isHost":"true" 
+                          },{ 
+                         "name": "La última tentación de Cristo (1988)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/la_ultima_tentacion_de_cristo_64218.jpg",
+                    "url": "https://ok.ru/video/2331824294654",
+                    "isHost":"true" 
+                          },{ 
+                          "name": "La pasión de Cristo (2004) V.O.S.E",
+                    "image": "https://www.elseptimoarte.net/carteles/341/la_pasion_de_cristo_37417.jpg",
+                    "url": "https://upstream.to/z7sf38mf5588",
+                    "isHost":"true" 
+                          },{ 
+                        "name": "Resucitado (2016)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/resucitado_46412.jpg",
+                    "url": "https://upstream.to/2qr7kuzrh6b0",
+                    "isHost":"true" 
+                         },{ 
+                       "name": "Aftersun (2022)V.O.S.E",
+                    "image": "https://www.elseptimoarte.net/carteles/341/aftersun_95742.jpg",
+                    "url": "https://upstream.to/k8cqwys66pkr",
+                    "isHost":"true" 
+                         },{ 
+                       "name": "Rounders (1998)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/rounders_49863.jpg",
+                    "url": "https://upstream.to/nq95yxbeiuvs",
+                    "isHost":"true" 
+                            },{ 
+                      "name": "Camarón (2005)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/camaron_40457.jpg",
+                    "url": "https://vidoza.net/gjermn7ae9f9",
+                    "isHost":"true"
+                          },{ 
+                        "name": "El sueño de Jimmy Grimble (2000)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_sueno_de_jimmy_grimble_47722.jpg",
+                    "url": "https://dood.yt/d/4ltpvfu8x1lc",
+                    "isHost":"true"
+                           },{ 
+                        "name": "Anonymous (2011)",
+                    "image": "https://pics.filmaffinity.com/anonymous-135003429-mmed.jpg",
+                    "url": "https://ok.ru/video/844213848710",
+                    "isHost":"true"
+                         },{ 
+                          "name": "Purgatorio (2014)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/purgatorio_27979.jpg",
+                    "url": "https://ok.ru/video/1643527604869",
+                    "isHost":"true"
+                       },{ 
+                          "name": "Beasts of No Nation (2015)",
+                    "image": "https://pics.filmaffinity.com/beasts_of_no_nation-651652736-mmed.jpg",
+                    "url": "https://upstream.to/dirw6sz9dlce",
+                    "isHost":"true"
+                        },{  
+                         "name": "4 Dias (2020)",
+                    "image": "https://pics.filmaffinity.com/four_good_days-721425519-mmed.jpg",
+                    "url": "https://ok.ru/video/5018111380081",
+                    "isHost":"true" 
+                         },{ 
                        "name": "El río de la vida (1992)",
                     "image": "https://www.elseptimoarte.net/carteles/341/el_rio_de_la_vida_63276.jpg",
                     "url": "https://upstream.to/75l77r33i548",
@@ -3421,6 +3846,26 @@
             "image": "https://i.ibb.co/3mxXgSb/Fantas-a.jpg",
             "info": "",
                "stations": [{
+                            "name": "El pacto de los lobos (2001)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_pacto_de_los_lobos_96438.jpg",
+                    "url": "https://upstream.to/n0d570x7sr30",
+                    "isHost":"true"
+                          },{
+                           "name": "Jujutsu Kaisen 0 (2021)",
+                    "image": "https://pics.filmaffinity.com/gekijouban_jujutsu_kaisen_0-601223183-mmed.jpg",
+                    "url": "https://upstream.to/b9u8ibgmk79p",
+                    "isHost":"true" 
+                         },{
+                       "name": "Donde viven los monstruos (2009)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/donde_viven_los_monstruos_3525.jpg",
+                    "url": "https://ok.ru/video/2545895475908",
+                    "isHost":"true" 
+                          },{ 
+                         "name": "Guardianes de la noche (2005)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/guardianes_de_la_noche_40078.jpg",
+                    "url": "https://upvid.biz/o2slfxrzjnh3",
+                    "isHost":"true" 
+                         },{ 
                         "name": "El escuadrón suicida (2021)",
                     "image": "https://www.elseptimoarte.net/carteles/341/el_escuadron_suicida_89002.jpg",
                     "url": "https://upstream.to/vg32kz79x4i8",
@@ -3491,6 +3936,46 @@
             "image": "https://i.ibb.co/k8sP104/Romance.jpg",
             "info": "",
                "stations": [{
+                        "name": "El piano (1993)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_piano_79471.jpg",
+                    "url": "https://upstream.to/q3k2wu4tpawu",
+                    "isHost":"true"  
+                             },{
+                          "name": "Viaje al paraíso (2022)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/viaje_al_paraiso_94450.jpg",
+                    "url": "https://upstream.to/yiw7md24q00e",
+                    "isHost":"true" 
+                        },{ 
+                          "name": "Te amaré toda la vida (2017)",
+                    "image": "https://pics.filmaffinity.com/aci_tatli_eksi-979808715-mmed.jpg",
+                    "url": "https://ok.ru/video/1200078457382",
+                    "isHost":"true" 
+                          },{ 
+                         "name": "Antes de ti (2016)",
+                    "image": "https://pics.filmaffinity.com/me_before_you-594538815-mmed.jpg",
+                    "url": "https://dood.yt/d/57iai8djh7i1",
+                    "isHost":"true"
+                          },{ 
+                         "name": "Bajo el sol de la Toscana (2003)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/bajo_el_sol_de_la_toscana_41181.jpg",
+                    "url": "https://upstream.to/wv891hqpvj24",
+                    "isHost":"true" 
+                          },{ 
+                           "name": "La casa del lago (2006)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/la_casa_del_lago_38127.jpg",
+                    "url": "https://ok.ru/video/427734141501",
+                    "isHost":"true" 
+                         },{ 
+                          "name": "El hilo rojo (2016)",
+                    "image": "https://pics.filmaffinity.com/el_hilo_rojo-604418174-mmed.jpg",
+                    "url": "https://ok.ru/video/350384556675",
+                    "isHost":"true" 
+                         },{ 
+                       "name": "El secreto de Adaline (2015)",
+                    "image": "https://pics.filmaffinity.com/the_age_of_adaline-258365000-mmed.jpg",
+                    "url": "https://dood.yt/d/8s5a97wmie1w",
+                    "isHost":"true" 
+                          },{ 
                        "name": "Titanic (1997)",
                     "image": "https://www.elseptimoarte.net/carteles/341/titanic_11797.jpg",
                     "url": "https://upstream.to/irgaadeqs21c",
@@ -3611,6 +4096,41 @@
             "image": "https://i.ibb.co/VMnhDjb/Suspense.jpg",
             "info": "",
                "stations": [{
+                            "name": "Uno de los nuestros (1990)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/uno_de_los_nuestros_85026.jpg",
+                    "url": "https://dood.yt/d/o82za8rbje15",
+                    "isHost":"true"
+                            },{
+                        "name": "Atrapado por su pasado (1993)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/atrapado_por_su_pasado_63093.jpg",
+                    "url": "https://upstream.to/qknuj266zdc1",
+                    "isHost":"true"
+                        },{
+                        "name": "Cerdita (2022)",
+                    "image": "https://pics.filmaffinity.com/cerdita-167665190-mmed.jpg",
+                    "url": "https://upstream.to/pjsrdu0vqvcb",
+                    "isHost":"true" 
+                         },{ 
+                            "name": "Casino (1995)",
+                    "image": "https://pics.filmaffinity.com/casino-348445329-mmed.jpg",
+                    "url": "https://upstream.to/fuc9kyenhrkq",
+                    "isHost":"true" 
+                          },{ 
+                        "name": "Imperium (2016)",
+                    "image": "https://pics.filmaffinity.com/imperium-827531065-mmed.jpg",
+                    "url": "https://upstream.to/0mm1rg4uiu3g",
+                    "isHost":"true"
+                         },{ 
+                        "name": "Glass (Cristal) (2019)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/glass_71842.jpg",
+                    "url": "https://upstream.to/2mp4af480moa",
+                    "isHost":"true" 
+                           },{  
+                         "name": "Día de entrenamiento (2001)",
+                    "image": "https://pics.filmaffinity.com/training_day-607055595-mmed.jpg",
+                    "url": "https://upstream.to/im8mm1y7i6q1",
+                    "isHost":"true"
+                        },{ 
                         "name": "Crimen perfecto (1954)",
                     "image": "https://www.elseptimoarte.net/carteles/341/crimen_perfecto_14726.jpg",
                     "url": "https://uqload.co/odd8hsxfj3u9",
@@ -3926,6 +4446,71 @@
             "image": "https://i.ibb.co/qJdrj5D/Terror.jpg",
             "info": "",
                "stations": [{
+                            "name": "Nosotros (2019)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/nosotros_75134.jpg",
+                    "url": "https://upstream.to/m1ct0my5qzil",
+                    "isHost":"true"  
+                       },{
+                      "name": "Antebellum (2020)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/antebellum_84577.jpg",
+                    "url": "https://vidmoly.me/w/4g2d4b1jmf55",
+                    "isHost":"true"  
+                       },{
+                          "name": "Terrifier 2 (2022)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/terrifier_2_96604.jpg",
+                    "url": "https://upstream.to/ddxwkd88u8hg",
+                    "isHost":"true"
+                          },{
+                      "name": "Llaman a la puerta (2023)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/llaman_a_la_puerta_95797.jpg",
+                    "url": "https://upstream.to/z7c89xm8qask",
+                    "isHost":"true"
+                         },{
+                        "name": "El diablo metió la mano (1999)",
+                    "image": "https://pics.filmaffinity.com/idle_hands-505801253-mmed.jpg",
+                    "url": "https://ok.ru/video/415045847686",
+                    "isHost":"true"
+                        },{
+                         "name": "La noche de Halloween (2018)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/la_noche_de_halloween_72842.jpg",
+                    "url": "https://upstream.to/42kqi2e130m5",
+                    "isHost":"true"
+                        },{ 
+                       "name": "Aterrados (2017) Latino",
+                    "image": "https://www.elseptimoarte.net/carteles/341/aterrados_72937.jpg",
+                    "url": "https://ok.ru/video/961715374606",
+                    "isHost":"true" 
+                           },{ 
+                        "name": "El apóstol (2018)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/apostle_72388.jpg",
+                    "url": "https://dood.yt/d/g67kzll5lstx",
+                    "isHost":"true" 
+                        },{ 
+                       "name": "Scream (2022)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/scream_91542.jpeg",
+                    "url": "https://upstream.to/2pm2prwj3zde",
+                    "isHost":"true" 
+                           },{ 
+                       "name": "Critters ¡Al ataque! (2019)",
+                    "image": "https://pics.filmaffinity.com/critters_attack-854547931-mmed.jpg",
+                    "url": "https://upstream.to/9bp23zz453vl",
+                    "isHost":"true"
+                          },{   
+                         "name": "Las Furias (The Furies) (2019)",
+                    "image": "https://pics.filmaffinity.com/the_furies-444903187-mmed.jpg",
+                    "url": "https://upstream.to/sjhn63wk9xfa",
+                    "isHost":"true"
+                       },{ 
+                        "name": "Ojos de fuego (1984)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/ojos_de_fuego_80072.jpg",
+                    "url": "https://ok.ru/video/1120440879677",
+                    "isHost":"true"
+                        },{    
+                         "name": "13 exorcismos (2022)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/13_exorcismos_95270.jpg",
+                    "url": "https://upstream.to/zlmf44a6c7yz",
+                    "isHost":"true" 
+                        },{ 
                         "name": "Te veo (2019)",
                     "image": "https://www.elseptimoarte.net/carteles/341/i_see_you_80218.jpg",
                     "url": "https://upstream.to/3vydmd1ie0ip",
@@ -4166,591 +4751,6 @@
             "image": "https://i.ibb.co/7WXCFKF/Peticiones.jpg",
             "info": "",
                "stations": [{
-                        "name": "El furor del dragón (1972)",
-                    "image": "https://pics.filmaffinity.com/meng_long_guojiang_return_of_the_dragon-208241319-mmed.jpg",
-                    "url": "https://https://dood.yt/d/z2qukgukgj27",
-                    "isHost":"true" 
-                        },{ 
-                        "name": "4 Dias (2020)",
-                    "image": "https://pics.filmaffinity.com/four_good_days-721425519-mmed.jpg",
-                    "url": "https://ok.ru/video/5018111380081",
-                    "isHost":"true" 
-                         },{ 
-                        "name": "13 exorcismos (2022)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/13_exorcismos_95270.jpg",
-                    "url": "https://upstream.to/zlmf44a6c7yz",
-                    "isHost":"true" 
-                        },{ 
-                        "name": "Iron Man 3 (2013)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/iron_man_3_20110.jpg",
-                    "url": "https://upstream.to/l76bcvqi61u3",
-                    "isHost":"true"
-                         },{ 
-                        "name": "Beasts of No Nation (2015)",
-                    "image": "https://pics.filmaffinity.com/beasts_of_no_nation-651652736-mmed.jpg",
-                    "url": "https://upstream.to/dirw6sz9dlce",
-                    "isHost":"true"
-                        },{ 
-                        "name": "Tres reyes (1999)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/tres_reyes_6604.jpg",
-                    "url": "https://upstream.to/nw71wbfk4c2a",
-                    "isHost":"true"
-                        },{ 
-                        "name": "Ojos de fuego (1984)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/ojos_de_fuego_80072.jpg",
-                    "url": "https://ok.ru/video/1120440879677",
-                    "isHost":"true"
-                        },{ 
-                        "name": "Día de entrenamiento (2001)",
-                    "image": "https://pics.filmaffinity.com/training_day-607055595-mmed.jpg",
-                    "url": "https://upstream.to/im8mm1y7i6q1",
-                    "isHost":"true"
-                        },{ 
-                        "name": "Starfighter: La aventura comienza (1984)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/starfighter_la_aventura_comienza_70358.jpg",
-                    "url": "https://ok.ru/video/2681120623286",
-                    "isHost":"true"
-                         },{ 
-                        "name": "Transporter 2 (2005)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/transporter_2_40244.jpg",
-                    "url": "https://upstream.to/j4p612jus346",
-                    "isHost":"true"
-                     },{ 
-                        "name": "Una conejita en el campus (2008)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/una_conejita_en_el_campus_57608.jpg",
-                    "url": "https://ok.ru/video/38599723750",
-                    "isHost":"true"
-                     },{ 
-                        "name": "Las Furias (The Furies) (2019)",
-                    "image": "https://pics.filmaffinity.com/the_furies-444903187-mmed.jpg",
-                    "url": "https://upstream.to/sjhn63wk9xfa",
-                    "isHost":"true"
-                       },{ 
-                        "name": "Purgatorio (2014)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/purgatorio_27979.jpg",
-                    "url": "https://ok.ru/video/1643527604869",
-                    "isHost":"true"
-                       },{ 
-                        "name": "El recomendado (1985)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/el_recomendado_43500.jpg",
-                    "url": "https://ok.ru/video/4366906493629",
-                    "isHost":"true"
-                      },{ 
-                        "name": "Anonymous (2011)",
-                    "image": "https://pics.filmaffinity.com/anonymous-135003429-mmed.jpg",
-                    "url": "https://ok.ru/video/844213848710",
-                    "isHost":"true"
-                         },{ 
-                        "name": "Aterriza como puedas (1980)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/aterriza_como_puedas_42242.jpg",
-                    "url": "https://ok.ru/video/3809240353468",
-                    "isHost":"true"
-                          },{ 
-                        "name": "Critters ¡Al ataque! (2019)",
-                    "image": "https://pics.filmaffinity.com/critters_attack-854547931-mmed.jpg",
-                    "url": "https://upstream.to/9bp23zz453vl",
-                    "isHost":"true"
-                          },{ 
-                        "name": "El sueño de Jimmy Grimble (2000)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/el_sueno_de_jimmy_grimble_47722.jpg",
-                    "url": "https://dood.yt/d/4ltpvfu8x1lc",
-                    "isHost":"true"
-                           },{ 
-                        "name": "Fast & Furious 8 (2017)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/fast_and_furious_8_64353.jpg",
-                    "url": "https://upstream.to/4nf2xj1gzzlq",
-                    "isHost":"true"
-                        },{ 
-                        "name": "El buen patrón (2021)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/el_buen_patron_90243.jpg",
-                    "url": "https://upstream.to/39vctwo5w1dy",
-                    "isHost":"true"
-                         },{ 
-                        "name": "Camarón (2005)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/camaron_40457.jpg",
-                    "url": "https://vidoza.net/gjermn7ae9f9",
-                    "isHost":"true"
-                          },{ 
-                        "name": "Rounders (1998)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/rounders_49863.jpg",
-                    "url": "https://upstream.to/nq95yxbeiuvs",
-                    "isHost":"true" 
-                            },{ 
-                        "name": "Scream (2022)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/scream_91542.jpeg",
-                    "url": "https://upstream.to/2pm2prwj3zde",
-                    "isHost":"true" 
-                           },{ 
-                        "name": "Querido intruso (1991)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/querido_intruso_83864.jpg",
-                    "url": "https://upstream.to/vtez8vvgoo14",
-                    "isHost":"true" 
-                       },{ 
-                        "name": "Aftersun (2022)V.O.S.E",
-                    "image": "https://www.elseptimoarte.net/carteles/341/aftersun_95742.jpg",
-                    "url": "https://upstream.to/k8cqwys66pkr",
-                    "isHost":"true" 
-                         },{ 
-                        "name": "Resucitado (2016)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/resucitado_46412.jpg",
-                    "url": "https://upstream.to/2qr7kuzrh6b0",
-                    "isHost":"true" 
-                         },{ 
-                        "name": "La pasión de Cristo (2004) V.O.S.E",
-                    "image": "https://www.elseptimoarte.net/carteles/341/la_pasion_de_cristo_37417.jpg",
-                    "url": "https://upstream.to/z7sf38mf5588",
-                    "isHost":"true" 
-                          },{ 
-                        "name": "El secreto de Adaline (2015)",
-                    "image": "https://pics.filmaffinity.com/the_age_of_adaline-258365000-mmed.jpg",
-                    "url": "https://dood.yt/d/8s5a97wmie1w",
-                    "isHost":"true" 
-                          },{ 
-                        "name": "Ben-Hur (1959)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/ben-hur_34973.jpg",
-                    "url": "https://upstream.to/id7jr7uqwzw2",
-                    "isHost":"true" 
-                          },{ 
-                        "name": "La última tentación de Cristo (1988)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/la_ultima_tentacion_de_cristo_64218.jpg",
-                    "url": "https://ok.ru/video/2331824294654",
-                    "isHost":"true" 
-                          },{ 
-                        "name": "Intemperie (2019)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/intemperie_77384.jpg",
-                    "url": "https://upstream.to/6mua6p041kz6",
-                    "isHost":"true" 
-                          },{ 
-                        "name": "La ola (2008)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/la_ola_57846.jpg",
-                    "url": "https://ok.ru/video/2371935406794",
-                    "isHost":"true" 
-                          },{ 
-                        "name": "El hilo rojo (2016)",
-                    "image": "https://pics.filmaffinity.com/el_hilo_rojo-604418174-mmed.jpg",
-                    "url": "https://ok.ru/video/350384556675",
-                    "isHost":"true" 
-                         },{ 
-                        "name": "Glass (Cristal) (2019)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/glass_71842.jpg",
-                    "url": "https://upstream.to/2mp4af480moa",
-                    "isHost":"true" 
-                           },{ 
-                        "name": "Orquídea salvaje (1989)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/orquidea_salvaje_84054.jpg",
-                    "url": "https://opvid.online/0spavat3uld2",
-                    "isHost":"true" 
-                          },{ 
-                        "name": "El guardaespaldas (1992)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/el_guardaespaldas_63282.jpg",
-                    "url": "https://ok.ru/video/316502837923",
-                    "isHost":"true"
-                         },{ 
-                        "name": "Fuga de Alcatraz (1979)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/fuga_de_alcatraz_15722.jpg",
-                    "url": "https://ok.ru/video/2553171086006",
-                    "isHost":"true"
-                        },{ 
-                        "name": "Lilo & Stitch (2002)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/lilo_&_stitch_45214.jpg",
-                    "url": "https://upstream.to/zqsraet0wjdd",
-                    "isHost":"true"
-                         },{ 
-                        "name": "Scary Movie (2000)",
-                    "image": "https://pics.filmaffinity.com/scary_movie-943532513-mmed.jpg",
-                    "url": "https://upstream.to/kty63ps147n0",
-                    "isHost":"true" 
-                         },{ 
-                        "name": "El apóstol (2018)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/apostle_72388.jpg",
-                    "url": "https://dood.yt/d/g67kzll5lstx",
-                    "isHost":"true" 
-                        },{ 
-                        "name": "1917 (2019)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/1917_81364.jpg",
-                    "url": "https://dood.yt/d/4a8f87srtdme",
-                    "isHost":"true" 
-                         },{ 
-                        "name": "Guardianes de la noche (2005)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/guardianes_de_la_noche_40078.jpg",
-                    "url": "https://upvid.biz/o2slfxrzjnh3",
-                    "isHost":"true" 
-                         },{ 
-                        "name": "Pulse (Conexión) (2006)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/pulse_conexion_58185.jpg",
-                    "url": "https://upstream.to/d16xvu8irhno",
-                    "isHost":"true" 
-                       },{ 
-                        "name": "Dragonfly (La sombra de la libélula) (2002)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/dragonfly_la_sombra_de_la_libelula_45417.jpg",
-                    "url": "https://upstream.to/fd3oa7rcvskq",
-                    "isHost":"true" 
-                         },{ 
-                        "name": "El francotirador de Dombás (2022)",
-                    "image": "https://pics.filmaffinity.com/sniper_the_white_raven-384675061-mmed.jpg",
-                    "url": "https://upstream.to/dmza8s5nc24q",
-                    "isHost":"true" 
-                          },{ 
-                        "name": "Rebelión en la granja (1999)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/rebelion_en_la_granja_49124.jpg",
-                    "url": "https://ok.ru/video/34931346015",
-                    "isHost":"true" 
-                          },{ 
-                        "name": "Aterrados (2017) Latino",
-                    "image": "https://www.elseptimoarte.net/carteles/341/aterrados_72937.jpg",
-                    "url": "https://ok.ru/video/961715374606",
-                    "isHost":"true" 
-                           },{ 
-                        "name": "Donde viven los monstruos (2009)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/donde_viven_los_monstruos_3525.jpg",
-                    "url": "https://ok.ru/video/2545895475908",
-                    "isHost":"true" 
-                          },{ 
-                        "name": "La Maternal (2022)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/la_maternal_94979.jpg",
-                    "url": "https://upstream.to/wm4yf7qosduq",
-                    "isHost":"true" 
-                         },{ 
-                        "name": "En algún lugar de la memoria (2007)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/en_algun_lugar_de_la_memoria_59075.jpg",
-                    "url": "https://ok.ru/video/2224532556428",
-                    "isHost":"true" 
-                         },{ 
-                        "name": "El hotel de los líos (1938)",
-                    "image": "https://pics.filmaffinity.com/room_service-896791509-mmed.jpg",
-                    "url": "https://ok.ru/video/1184295684669",
-                    "isHost":"true" 
-                         },{ 
-                        "name": "La casa del lago (2006)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/la_casa_del_lago_38127.jpg",
-                    "url": "https://ok.ru/video/427734141501",
-                    "isHost":"true" 
-                         },{ 
-                        "name": "Bajo el sol de la Toscana (2003)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/bajo_el_sol_de_la_toscana_41181.jpg",
-                    "url": "https://upstream.to/wv891hqpvj24",
-                    "isHost":"true" 
-                          },{ 
-                        "name": "El parque mágico (2019)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/el_parque_magico_73863.jpg",
-                    "url": "https://upstream.to/qic7iaqsz32w",
-                    "isHost":"true" 
-                          },{ 
-                        "name": "La mujer rey (2022)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/la_mujer_rey_94303.jpeg",
-                    "url": "https://upstream.to/cohbd9t4y4mu",
-                    "isHost":"true" 
-                          },{ 
-                        "name": "The Belko Experiment (2017)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/the_belko_experiment_63115.jpg",
-                    "url": "https://upstream.to/pqj7p66q2dlb",
-                    "isHost":"true"
-                        },{ 
-                        "name": "El profesor chiflado (1996)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/el_profesor_chiflado_62328.jpg",
-                    "url": "https://upstream.to/jc6loklfyhxs",
-                    "isHost":"true"
-                         },{ 
-                        "name": "El profesor chiflado II: La familia Klump (2000)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/el_profesor_chiflado_ii_la_familia_klump_49303.jpg",
-                    "url": "https://ok.ru/video/1182128409149",
-                    "isHost":"true"
-                         },{ 
-                        "name": "Los Goonies (1985)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/los_goonies_78256.jpg",
-                    "url": "https://upstream.to/642wo7ik50ne",
-                    "isHost":"true"
-                        },{ 
-                        "name": "La noche de Halloween (2018)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/la_noche_de_halloween_72842.jpg",
-                    "url": "https://upstream.to/42kqi2e130m5",
-                    "isHost":"true"
-                        },{ 
-                        "name": "(Barquero)Los forajidos de Río Bravo (1970)",
-                    "image": "https://pics.filmaffinity.com/barquero-910877778-mmed.jpg",
-                    "url": "https://upstream.to/gj0myl5d40gv",
-                    "isHost":"true"
-                       },{ 
-                        "name": "V de Vendetta (2005)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/v_de_vendetta_74553.jpg",
-                    "url": "https://upstream.to/pxlnmfozikg1",
-                    "isHost":"true"
-                       },{ 
-                        "name": "TÁR (2022)",
-                    "image": "https://pics.filmaffinity.com/tar-530526120-mmed.jpg",
-                    "url": "https://vidmoly.me/w/5gm250dlb63d",
-                    "isHost":"true"
-                        },{ 
-                        "name": "Hopper, el polloliebre (2022)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/hopper_el_polloliebre_94452.jpg",
-                    "url": "https://dood.yt/d/xveqke1vw9hs",
-                    "isHost":"true"
-                         },{ 
-                        "name": "Transformers: La película (1986)",
-                    "image": "https://pics.filmaffinity.com/the_transformers_the_movie-726890247-mmed.jpg",
-                    "url": "https://ok.ru/video/3060624656940",
-                    "isHost":"true"
-                          },{ 
-                        "name": "Imperium (2016)",
-                    "image": "https://pics.filmaffinity.com/imperium-827531065-mmed.jpg",
-                    "url": "https://upstream.to/0mm1rg4uiu3g",
-                    "isHost":"true"
-                         },{ 
-                        "name": "Troya (2004)",
-                    "image": "https://pics.filmaffinity.com/troy-509263865-mmed.jpg",
-                    "url": "https://upstream.to/1qoa89ecz3nj",
-                    "isHost":"true"
-                           },{ 
-                        "name": "Sid y Nancy (1986)",
-                    "image": "https://pics.filmaffinity.com/sid_and_nancy-948800212-mmed.jpg",
-                    "url": "https://upstream.to/8rp4gqj0e8ej",
-                    "isHost":"true"
-                         },{ 
-                        "name": "Antes de ti (2016)",
-                    "image": "https://pics.filmaffinity.com/me_before_you-594538815-mmed.jpg",
-                    "url": "https://dood.yt/d/57iai8djh7i1",
-                    "isHost":"true"
-                          },{ 
-                        "name": "Con el arma a punto (1993)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/con_el_arma_a_punto_79596.jpg",
-                    "url": "https://ok.ru/video/2772734839478",
-                    "isHost":"true"  
-                         },{ 
-                        "name": "close (2022)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/close_95490.jpg",
-                    "url": "https://upstream.to/m88yj5eawu58",
-                    "isHost":"true" 
-                           },{ 
-                        "name": "Te amaré toda la vida (2017)",
-                    "image": "https://pics.filmaffinity.com/aci_tatli_eksi-979808715-mmed.jpg",
-                    "url": "https://ok.ru/video/1200078457382",
-                    "isHost":"true" 
-                          },{ 
-                        "name": "The Doors (1991)",
-                    "image": "https://pics.filmaffinity.com/the_doors-542286540-mmed.jpg",
-                    "url": "https://upstream.to/070qqey4m6oc",
-                    "isHost":"true" 
-                           },{ 
-                        "name": "Novecento (1900) (1976)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/novecento_30696.jpg",
-                    "url": "https://ok.ru/video/340243384913",
-                    "isHost":"true" 
-                          },{ 
-                        "name": "Casino (1995)",
-                    "image": "https://pics.filmaffinity.com/casino-348445329-mmed.jpg",
-                    "url": "https://upstream.to/fuc9kyenhrkq",
-                    "isHost":"true" 
-                          },{ 
-                        "name": "Cerdita (2022)",
-                    "image": "https://pics.filmaffinity.com/cerdita-167665190-mmed.jpg",
-                    "url": "https://upstream.to/pjsrdu0vqvcb",
-                    "isHost":"true" 
-                         },{ 
-                        "name": "Viaje al paraíso (2022)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/viaje_al_paraiso_94450.jpg",
-                    "url": "https://upstream.to/yiw7md24q00e",
-                    "isHost":"true" 
-                        },{ 
-                        "name": "Invasión (2007)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/invasion_59737.jpg",
-                    "url": "https://upstream.to/gmsrkzjbh1zs",
-                    "isHost":"true" 
-                          },{ 
-                        "name": "Distrito 13 (2004)",
-                    "image": "https://pics.filmaffinity.com/banlieue_13-669876967-msmall.jpg",
-                    "url": "https://upstream.to/667pzfyc5d1k",
-                    "isHost":"true" 
-                        },{ 
-                        "name": "Distrito 13 Ultimatum (2009)",
-                    "image": "https://pics.filmaffinity.com/b13_u_banlieue_13_ultimatum-379269675-msmall.jpg",
-                    "url": "https://upstream.to/osukyuczl9ej",
-                    "isHost":"true"  
-                          },{ 
-                        "name": "Dune (2021)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/dune_90626.jpeg",
-                    "url": "https://upstream.to/t1iyhbbow8hy",
-                    "isHost":"true"  
-                          },{ 
-                        "name": "Los productores (2005)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/los_productores_37248.jpg",
-                    "url": "https://upstream.to/o32wwgfqsqx5",
-                    "isHost":"true"  
-                          },{ 
-                        "name": "Perseguido (1987)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/perseguido_68312.jpg",
-                    "url": "https://upstream.to/o25hn4daxefb",
-                    "isHost":"true" 
-                          },{
-                      "name": "Desafío total (1990)",
-                    "image": "https://pics.filmaffinity.com/total_recall-265009430-mmed.jpg",
-                    "url": "https://upstream.to/93z785ggs3kf",
-                    "isHost":"true"
-                        },{
-                      "name": "La naranja mecánica (1971)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/la_naranja_mecanica_11935.jpg",
-                    "url": "https://upstream.to/0rxlgtwtitu0",
-                    "isHost":"true"
-                        },{
-                      "name": "Atrapado por su pasado (1993)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/atrapado_por_su_pasado_63093.jpg",
-                    "url": "https://upstream.to/qknuj266zdc1",
-                    "isHost":"true"
-                        },{
-                      "name": "El diablo metió la mano (1999)",
-                    "image": "https://pics.filmaffinity.com/idle_hands-505801253-mmed.jpg",
-                    "url": "https://ok.ru/video/415045847686",
-                    "isHost":"true"
-                        },{
-                      "name": "Jujutsu Kaisen 0 (2021)",
-                    "image": "https://pics.filmaffinity.com/gekijouban_jujutsu_kaisen_0-601223183-mmed.jpg",
-                    "url": "https://upstream.to/b9u8ibgmk79p",
-                    "isHost":"true" 
-                         },{
-                      "name": "Outlander (2008)",
-                    "image": "https://pics.filmaffinity.com/outlander-511259104-mmed.jpg",
-                    "url": "https://upstream.to/ib9evbwvfboz",
-                    "isHost":"true" 
-                           },{
-                      "name": "El mar del Norte (2021)",
-                    "image": "https://pics.filmaffinity.com/nordsjoen_north_sea-116276481-mmed.jpg",
-                    "url": "https://upstream.to/ndkleylmpscr",
-                    "isHost":"true" 
-                           },{
-                      "name": "¡¡¡Caverrrrnícola!!! (2004)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/caverrrrnicola_38271.jpg",
-                    "url": "https://dood.yt/d/6mlbljpawiye",
-                    "isHost":"true"
-                           },{
-                      "name": "Mulán (2020)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/mulan_81156.jpg",
-                    "url": "https://upstream.to/77lr2a790due",
-                    "isHost":"true"
-                          },{
-                      "name": "Uno de los nuestros (1990)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/uno_de_los_nuestros_85026.jpg",
-                    "url": "https://dood.yt/d/o82za8rbje15",
-                    "isHost":"true"
-                            },{
-                      "name": "El pacto de los lobos (2001)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/el_pacto_de_los_lobos_96438.jpg",
-                    "url": "https://upstream.to/n0d570x7sr30",
-                    "isHost":"true"
-                          },{
-                      "name": "Buho gris (1999)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/buho_gris_51355.jpg",
-                    "url": "https://ok.ru/video/1844842597018",
-                    "isHost":"true"
-                           },{
-                      "name": "Prometheus (2012)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/prometheus_14206.jpg",
-                    "url": "https://upstream.to/r2cw2el92x60",
-                    "isHost":"true"
-                              },{
-                      "name": "Alien: Covenant (2017)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/alien_covenant_65053.jpg",
-                    "url": "https://upstream.to/tohr5bet49gz",
-                    "isHost":"true"
-                               },{
-                      "name": "Demolition Man (1993)",
-                    "image": "https://pics.filmaffinity.com/demolition_man-768903735-mmed.jpg",
-                    "url": "https://upstream.to/wfd3sehnay4x",
-                    "isHost":"true"
-                             },{
-                      "name": "Los Thornberrys: La película (2002)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/los_thornberrys_42932.jpg",
-                    "url": "https://vidmoly.me/w/vj0l0ltbv3r9",
-                    "isHost":"true"
-                              },{
-                      "name": "El señor de la guerra (2005)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/el_senor_de_la_guerra_38092.jpg",
-                    "url": "https://upstream.to/0g1c49bt9gcn",
-                    "isHost":"true"
-                            },{
-                      "name": "Terrifier 2 (2022)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/terrifier_2_96604.jpg",
-                    "url": "https://upstream.to/ddxwkd88u8hg",
-                    "isHost":"true"
-                          },{
-                      "name": "Llaman a la puerta (2023)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/llaman_a_la_puerta_95797.jpg",
-                    "url": "https://upstream.to/z7c89xm8qask",
-                    "isHost":"true"
-                         },{
-                      "name": "Stoned (2005)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/stoned_26693.jpg",
-                    "url": "https://ok.ru/video/5058906884715",
-                    "isHost":"true"
-                         },{
-                      "name": "El agente (2018)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/el_agente_70342.jpg",
-                    "url": "http://185.233.16.151:8000/movie/1237/1237/147152.mp4?token=H0EMV0RQRl8UVABWAlILCwBRAAkCBwRdUQZfAVFaBgEFUVBVBllXXFVDFRZAFkBdBw48WFASDVUBAFcNURQXRhcGFmleXEZfFFALBQdWBRpKQRdYWVUVXgQBXg9RCAAHUFNIFEdRAEcMQw8AAFIQFEQGG0VRQlkFWWgCXRVRVlZGWUYUGxoLC2kFXFlSDFYaXEFTExgSXhdFFVxWFlRZH0YBDUJFWRAAFFsbBQdQARpKQQBeQV5DFkwVXBomaxcfRgYcQlJWFwxZDxsOEQ9CDERPQVhHb0UBRkMUXQJVUEFGWUYGFRRGCFcZZldcDFxdBRcKXlpDFV4XBEQUQVVaXQ0XC0RoSA0BFFtXQV8OTw==",
-                    "userAgent":""
-                       },{
-                      "name": "El quinto elemento (1997)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/el_quinto_elemento_poster_26570.jpg",
-                    "url": "https://upstream.to/jro6d6yutu8x",
-                    "isHost":"true"
-                        },{
-                      "name": "Ant-Man y la Avispa: Quantumanía (2023)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/ant-man_y_la_avispa_quantumania_96377.jpg",
-                    "url": "https://upstream.to/8t5xaio3d7vo",
-                    "isHost":"true"
-                        },{
-                      "name": "El precio del poder (1983)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/el_precio_del_poder_11879.jpg",
-                    "url": "https://upstream.to/wyu7zo277utv",
-                    "isHost":"true"
-                      },{
-                      "name": "Lev Yashin. The Dream Goalkeeper (V.O.S.E)",
-                    "image": "https://pics.filmaffinity.com/lev_yashin_vratar_moey_mechty-503276395-mmed.jpg",
-                    "url": "https://pelisplay.io/play?id=NjkxMzI=",
-                    "isHost":"true"
-                     },{
-                      "name": "Space Jam: Nuevas leyendas (2021)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/space_jam_nuevas_leyendas_88995.jpg",
-                    "url": "https://upstream.to/sqqvo5qbts2o",
-                    "isHost":"true"
-                     },{
-                      "name": "Mr. Deeds (2002)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/mr_deeds_45818.jpg",
-                    "url": "https://vidmoly.me/w/ukle46kktqog",
-                    "isHost":"true" 
-                      },{
-                      "name": "El increíble Hulk (2008)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/el_increible_hulk_57033.jpg",
-                    "url": "https://upstream.to/8p3u2e528avj",
-                    "isHost":"true" 
-                       },{
-                      "name": "Di Di Hollywood (2010)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/di_di_hollywood_6777.jpg",
-                    "url": "https://vidmoly.me/w/vvpp6e5h5pa7",
-                    "isHost":"true"  
-                       },{
-                      "name": "Nosotros (2019)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/nosotros_75134.jpg",
-                    "url": "https://upstream.to/m1ct0my5qzil",
-                    "isHost":"true"  
-                       },{
-                      "name": "Antebellum (2020)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/antebellum_84577.jpg",
-                    "url": "https://vidmoly.me/w/4g2d4b1jmf55",
-                    "isHost":"true"  
-                       },{
-                      "name": "La juventud (2015)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/la_juventud_45874.jpg",
-                    "url": "https://upstream.to/y9cewo4o38tp",
-                    "isHost":"true"
-                        },{
-                      "name": "13 horas: Los soldados secretos de Bengasi (2016)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/13_horas_50017.jpg",
-                    "url": "https://upstream.to/1zy8l5yh43kh",
-                    "isHost":"true"  
-                            },{
-                      "name": "El piano (1993)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/el_piano_79471.jpg",
-                    "url": "https://upstream.to/q3k2wu4tpawu",
-                    "isHost":"true"  
-                             },{
                       "name": "Híncame el diente (2010)",
                     "image": "https://www.elseptimoarte.net/carteles/341/hincame_el_diente_6411.jpg",
                     "url": "https://ok.ru/video/40750418590",
