@@ -16,6 +16,16 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                         "name": "Asteroid City (2023) Latino",
+                    "image": "https://www.elseptimoarte.net/carteles/341/asteroid_city_97922.jpg",
+                    "url": "https://vidmoly.me/w/5b58kyjsqxl3",
+                    "isHost":"true"
+                        },{
+                         "name": "Los tres mosqueteros: D'Artagnan (2023)",
+                    "image": "https://pics.filmaffinity.com/les_trois_mousquetaires_d_artagnan-370301361-mmed.jpg",
+                    "url": "https://upstream.to/44vihbyzhn3m",
+                    "isHost":"true"
+                        },{
                          "name": "Ruby: Aventuras de una Kraken adolescente (2023) TS Latino",
                     "image": "https://www.elseptimoarte.net/carteles/341/ruby_aventuras_de_una_kraken_adolescente_97918.jpg",
                     "url": "https://upstream.to/z52xvxb9nlgf",
@@ -246,9 +256,9 @@
                     "url": "https://upstream.to/enzfhy715z44",
                     "isHost":"true" 
 		         },{  
-	                "name": "Dragon Ball Super: Super Hero (2022) LATINO",
+	                "name": "Dragon Ball Super: Super Hero (2022)",
                     "image": "https://www.elseptimoarte.net/carteles/341/dragon_ball_super_super_hero_94135.jpg",
-                    "url": "https://uqload.com/2bwqri1pvrxz",
+                    "url": "https://vidmoly.me/w/7ipnmn2nmot4",
                     "isHost":"true" 
 		         },{  
 	                  "name": "Fall (2022)",
