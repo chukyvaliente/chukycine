@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada a 12-07-2023)",
+    "author": "chuky (Actualiada a 13-07-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -4749,6 +4749,11 @@
                       "name": "El piano (1993)",
                     "image": "https://www.elseptimoarte.net/carteles/341/el_piano_79471.jpg",
                     "url": "https://upstream.to/q3k2wu4tpawu",
+                    "isHost":"true"  
+                             },{
+                      "name": "Híncame el diente (2010)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/hincame_el_diente_6411.jpg",
+                    "url": "https://ok.ru/video/40750418590",
                     "isHost":"true"       
                      }] 
             }]   
