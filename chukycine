@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada a 13-07-2023)",
+    "author": "chuky (Actualiada a 14-07-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,16 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                          "name": "Flash (2023)TS Latino",
+                    "image":"https://www.elseptimoarte.net/carteles/341/flash_97557.jpg",
+                    "url": "https://upstream.to/ko8jr81dlk04",
+                    "isHost":"true"
+                        },{
+                           "name": "Misión Imposible: Sentencia mortal - Parte 1 (2023)TS Latino",
+                    "image":"https://www.elseptimoarte.net/carteles/341/mision_imposible_sentencia_mortal_parte_i_97963.jpg",
+                    "url": "https://upstream.to/qio4r1dnkr3c",
+                    "isHost":"true"
+                        },{
                          "name": "Asteroid City (2023) Latino",
                     "image": "https://www.elseptimoarte.net/carteles/341/asteroid_city_97922.jpg",
                     "url": "https://vidmoly.me/w/5b58kyjsqxl3",
