@@ -4779,7 +4779,12 @@
 	                 "name": "Alien: Resurrección (1997)",
                     "image": "https://www.elseptimoarte.net/carteles/341/alien_resurreccion_60916.jpg",
                     "url": "https://upstream.to/28aidqr89itl",
-                    "isHost":"true"       
+                    "isHost":"true"   
+                           },{  
+	                 "name": "La pantera rosa (2006)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/la_pantera_rosa_36999.jpg",
+                    "url": "https://upstream.to/z4c5si1a5rcg",
+                    "isHost":"true"      
                      }] 
             }]   
         }
