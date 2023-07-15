@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada a 14-07-2023)",
+    "author": "chuky (Actualiada a 15-07-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -4774,6 +4774,11 @@
                       "name": "Híncame el diente (2010)",
                     "image": "https://www.elseptimoarte.net/carteles/341/hincame_el_diente_6411.jpg",
                     "url": "https://ok.ru/video/40750418590",
+                    "isHost":"true" 
+                           },{  
+	                 "name": "Alien: Resurrección (1997)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/alien_resurreccion_60916.jpg",
+                    "url": "https://upstream.to/28aidqr89itl",
                     "isHost":"true"       
                      }] 
             }]   
