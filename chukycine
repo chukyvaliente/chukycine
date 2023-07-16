@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada a 15-07-2023)",
+    "author": "chuky (Actualiada a 16-07-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -4784,7 +4784,37 @@
 	                 "name": "La pantera rosa (2006)",
                     "image": "https://www.elseptimoarte.net/carteles/341/la_pantera_rosa_36999.jpg",
                     "url": "https://upstream.to/z4c5si1a5rcg",
-                    "isHost":"true"      
+                    "isHost":"true" 
+                          },{
+                    "name": "Mission: Impossible (1996)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/mision_imposible_15716.jpg",
+                    "url": "https://upstream.to/u4v9g4mwj00o",
+                    "isHost":"true"
+                      },{
+                    "name": "Misión: Imposible 2 (2000)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/mision_imposible_2_15717.jpg",
+                    "url": "https://upstream.to/0uwtaz7o9dhf",
+                    "isHost":"true"
+                       },{
+                    "name": "Misión: Imposible III (2006)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/mision_imposible_iii.jpg",
+                    "url": "https://upstream.to/mjvt94qbrb2b",
+                    "isHost":"true"
+                      },{
+                    "name": "Misión: Imposible. Protocolo Fantasma (2011)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/mision_imposible_protocolo_fantasma_11603.jpg",
+                    "url": "https://upstream.to/kb88mv0ir9ld",
+                    "isHost":"true"
+                    },{
+                    "name": "Misión: Imposible - Nación secreta (2015)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/mision_imposible_nacion_secreta_39798.jpg",
+                    "url": "https://upstream.to/8tv2jvna9n96",
+                    "isHost":"true"
+                      },{
+                    "name": "Misión: Imposible - Fallout (2018)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/mision_imposible._fallout_71178.jpg",
+                    "url": "https://upstream.to/koy5dyuf6gnx",
+                    "isHost":"true"     
                      }] 
             }]   
         }
