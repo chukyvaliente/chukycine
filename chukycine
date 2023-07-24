@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Actualiada a 16-07-2023)",
+    "author": "chuky (Actualiada a 24-07-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -4814,7 +4814,12 @@
                     "name": "Misión: Imposible - Fallout (2018)",
                     "image": "https://www.elseptimoarte.net/carteles/341/mision_imposible._fallout_71178.jpg",
                     "url": "https://upstream.to/koy5dyuf6gnx",
-                    "isHost":"true"     
+                    "isHost":"true"
+                     },{
+                    "name": "El francotirador de Dombás (2022)",
+                    "image": "https://pics.filmaffinity.com/sniper_the_white_raven-384675061-mmed.jpg",
+                    "url": "https://upstream.to/2lg2gwioyaww",
+                    "isHost":"true"       
                      }] 
             }]   
         }
