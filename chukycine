@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                        "name": "The Devil Conspiracy (2023)",
+                    "image":"https://www.elseptimoarte.net/carteles/341/the_devil_conspiracy_95743.jpg",
+                    "url": "https://upstream.to/an13zp4uclqa",
+                    "isHost":"true"
+                        },{ 
                           "name": "Barbie (2023)TS Latino",
                     "image":"https://pics.filmaffinity.com/barbie-295661697-mmed.jpg",
                     "url": "https://upstream.to/xvchlevfkjda",
