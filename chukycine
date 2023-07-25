@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                      "name": "65 (2023)",
+                    "image":"https://www.elseptimoarte.net/carteles/341/65_96122.jpg",
+                    "url": "https://upstream.to/4ad13y3nzpx8",
+                    "isHost":"true"
+                        },{ 
                         "name": "The Devil Conspiracy (2023)",
                     "image":"https://www.elseptimoarte.net/carteles/341/the_devil_conspiracy_95743.jpg",
                     "url": "https://upstream.to/an13zp4uclqa",
