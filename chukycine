@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 24-07-2023)",
+    "author": "chuky (Haz-Tu-Liada a 25-07-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -4839,7 +4839,12 @@
                     "name": "The Quiet Girl (2022)",
                     "image": "https://pics.filmaffinity.com/an_cailin_ciuin-249816155-mmed.jpg",
                     "url": "https://upstream.to/urwo0g38e2pj",
-                    "isHost":"true"          
+                    "isHost":"true"  
+                      },{
+                    "name": "American Gangster (2007)",
+                    "image": "https://pics.filmaffinity.com/american_gangster-362440268-mmed.jpg",
+                    "url": "https://upstream.to/iaq75jie1nfv",
+                    "isHost":"true"            
                      }] 
             }]   
         }
