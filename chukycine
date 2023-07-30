@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 29-07-2023)",
+    "author": "chuky (Haz-Tu-Liada a 30-07-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                        "name": "Como Dios manda (2023)",
+                    "image":"https://pics.filmaffinity.com/como_dios_manda-396503421-mmed.jpg",
+                    "url": "https://upstream.to/y2hpgbuk5r78",
+                    "isHost":"true"
+                        },{ 
                          "name": "Llaman a la puerta (2023)",
                     "image":"https://www.elseptimoarte.net/carteles/341/llaman_a_la_puerta_95797.jpg",
                     "url": "https://upstream.to/r2481khxuibs",
@@ -4859,7 +4864,17 @@
                     "name": "8 Millas (2002)",
                     "image": "https://www.elseptimoarte.net/carteles/341/8_millas_42765.jpg",
                     "url": "https://upstream.to/svampgg2fdot",
-                    "isHost":"true"      
+                    "isHost":"true"  
+                        },{
+                    "name": "Jackass Presents: Bad Grandpa .5 (2014)",
+                    "image": "https://pics.filmaffinity.com/jackass_presents_bad_grandpa_5-370775711-mmed.jpg",
+                    "url": "https://opvid.online/o57enduig48o.html",
+                    "isHost":"true"
+                         },{
+                    "name": "Get Rich Or Die Tryin' (2005)",
+                    "image": "https://pics.filmaffinity.com/get_rich_or_die_tryin-800065171-mmed.jpg",
+                    "url": "https://upstream.to/ro6n9n3xyc0r",
+                    "isHost":"true"         
                      }] 
             }]   
         }
