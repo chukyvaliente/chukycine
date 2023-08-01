@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 30-07-2023)",
+    "author": "chuky (Haz-Tu-Liada a 01-08-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -4874,7 +4874,33 @@
                     "name": "Get Rich Or Die Tryin' (2005)",
                     "image": "https://pics.filmaffinity.com/get_rich_or_die_tryin-800065171-mmed.jpg",
                     "url": "https://upstream.to/ro6n9n3xyc0r",
-                    "isHost":"true"         
+                    "isHost":"true"   
+                         },{
+                    "name": "Carta blanca (2011)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/carta_blanca_8169.jpg",
+                    "url": "https://upstream.to/7w0aq2wwv6kn",
+                    "isHost":"true"  
+                         },{
+                    "name": "Zohan: Licencia para peinar (2008)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/zohan:_licencia_para_peinar_57376.jpg",
+                    "url": "https://upstream.to/qh00imq0u13g",
+                    "isHost":"true"
+                        },{
+                    "name": "Niños grandes (2010)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/ninos_grandes_4344.jpg",
+                    "url": "https://upstream.to/enes79hyu1d4",
+                    "isHost":"true"  
+                         },{
+                    "name": "Niños grandes 2 (2013)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/ninos_grandes_2_22350.jpg",
+                    "url": "https://upstream.to/ej0q7u5l2u25",
+                    "isHost":"true"  
+                          },{
+                    "name": "Aquaman (2018)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/aquaman_73877.jpg",
+                    "url": "https://upstream.to/1s04sigrpsrh",
+                    "isHost":"true"
+                            
                      }] 
             }]   
         }
