@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 01-08-2023)",
+    "author": "chuky (Haz-Tu-Liada a 02-08-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -4899,6 +4899,11 @@
                     "name": "Aquaman (2018)",
                     "image": "https://www.elseptimoarte.net/carteles/341/aquaman_73877.jpg",
                     "url": "https://upstream.to/1s04sigrpsrh",
+                    "isHost":"true"
+                        },{
+                    "name": "¡Liberad a Willy! (1993)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/liberad_a_willy_40667.jpg",
+                    "url": "https://upstream.to/rrysccqvjmi0",
                     "isHost":"true"
                             
                      }] 
