@@ -4919,6 +4919,11 @@
                     "name": "60 segundos (2000)",
                     "image": "https://www.elseptimoarte.net/carteles/341/60_segundos_24519.jpg",
                     "url": "https://upstream.to/e8ps8q8ppme9",
+                    "isHost":"true" 
+                          },{
+                    "name": "Morir (2017)",
+                    "image": "https://pics.filmaffinity.com/morir-481752544-mmed.jpg",
+                    "url": "https://ok.ru/video/531338365574",
                     "isHost":"true"      
                      }] 
             }]   
