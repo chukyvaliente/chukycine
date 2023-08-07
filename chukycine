@@ -4929,7 +4929,12 @@
                     "name": "La invitación (2022)",
                     "image": "https://pics.filmaffinity.com/the_invitation-416835854-mmed.jpg",
                     "url": "https://upstream.to/3i845zkmskyc",
-                    "isHost":"true"       
+                    "isHost":"true"
+                          },{
+                    "name": "L.O.L. Surprise: La película (2021)",
+                    "image": "https://pics.filmaffinity.com/l_o_l_surprise_the_movie-265717883-mmed.jpg",
+                    "url": "http://vidmoly.me/w/7kz88io8sp5b",
+                    "isHost":"true"             
                      }] 
             }]   
         }
