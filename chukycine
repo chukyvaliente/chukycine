@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 06-08-2023)",
+    "author": "chuky (Haz-Tu-Liada a 08-08-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -4924,7 +4924,12 @@
                     "name": "Morir (2017)",
                     "image": "https://pics.filmaffinity.com/morir-481752544-mmed.jpg",
                     "url": "https://ok.ru/video/531338365574",
-                    "isHost":"true"      
+                    "isHost":"true"  
+                          },{
+                    "name": "La invitación (2022)",
+                    "image": "https://pics.filmaffinity.com/the_invitation-416835854-mmed.jpg",
+                    "url": "https://upstream.to/3i845zkmskyc",
+                    "isHost":"true"       
                      }] 
             }]   
         }
