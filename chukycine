@@ -4934,7 +4934,12 @@
                     "name": "L.O.L. Surprise: La película (2021)",
                     "image": "https://pics.filmaffinity.com/l_o_l_surprise_the_movie-265717883-mmed.jpg",
                     "url": "http://vidmoly.me/w/7kz88io8sp5b",
-                    "isHost":"true"             
+                    "isHost":"true"  
+                       },{
+                    "name": "Critters 2 (1998)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/critters_2_75604.jpg",
+                    "url": "http://vidmoly.me/w/xjsb4jjcaglo",
+                    "isHost":"true"              
                      }] 
             }]   
         }
