@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 08-08-2023)",
+    "author": "chuky (Haz-Tu-Liada a 10-08-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                        "name": "Megalodón 2: La fosa (2023)Latino TS",
+                    "image":"https://www.elseptimoarte.net/carteles/341/megalodon_2_97707.jpg",
+                    "url": "https://vidmoly.me/w/idtxyf2r1h34",
+                    "isHost":"true"
+                        },{  
                         "name": "Como Dios manda (2023)",
                     "image":"https://pics.filmaffinity.com/como_dios_manda-396503421-mmed.jpg",
                     "url": "https://upstream.to/y2hpgbuk5r78",
@@ -4939,7 +4944,7 @@
                     "name": "Critters 2 (1998)",
                     "image": "https://www.elseptimoarte.net/carteles/341/critters_2_75604.jpg",
                     "url": "http://vidmoly.me/w/xjsb4jjcaglo",
-                    "isHost":"true"              
+                    "isHost":"true"            
                      }] 
             }]   
         }
