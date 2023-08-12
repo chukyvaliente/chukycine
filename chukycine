@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 10-08-2023)",
+    "author": "chuky (Haz-Tu-Liada a 12-08-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -4949,7 +4949,17 @@
                     "name": "Hooligan (2007)",
                     "image": "https://pics.filmaffinity.com/rise_of_the_footsoldier-549388345-mmed.jpg",
                     "url": "https://www.tokyvideo.com/es/video/the-rise-of-the-footsoldier-1-2007-hooligan-pelicula-en-castellano",
-                    "isHost":"true"          
+                    "isHost":"true" 
+                       },{
+                    "name": "Es por tu bien (2017)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/es_por_tu_bien_62628.jpg",
+                    "url": "https://upstream.to/idxl476xgto3",
+                    "isHost":"true"  
+                       },{
+                    "name": "Tori y Lokita (2022)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/tori_y_lokita_95523.jpg",
+                    "url": "https://upstream.to/rc0vat8thaid",
+                    "isHost":"true"         
                      }] 
             }]   
         }
