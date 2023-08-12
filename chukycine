@@ -4964,7 +4964,12 @@
                     "name": "Girasoles silvestres (2022)",
                     "image": "https://www.elseptimoarte.net/carteles/341/girasoles_silvestres_94406.jpg",
                     "url": "https://upstream.to/l24wcgucc6wx",
-                    "isHost":"true"       
+                    "isHost":"true" 
+                        },{
+                    "name": "Crueles intenciones (1999)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/crueles_intenciones_51351.jpg",
+                    "url": "https://upstream.to/pf9ogi4a75d3",
+                    "isHost":"true"          
                      }] 
             }]   
         }
