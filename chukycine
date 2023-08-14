@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                        "name": "Elemental (2023)Latino",
+                    "image":"https://www.elseptimoarte.net/carteles/341/elemental_97965.jpg",
+                    "url": "https://upstream.to/bhc68hin1eod",
+                    "isHost":"true"
+                        },{  
                         "name": "Megalodón 2: La fosa (2023)Latino TS",
                     "image":"https://www.elseptimoarte.net/carteles/341/megalodon_2_97707.jpg",
                     "url": "https://vidmoly.me/w/idtxyf2r1h34",
