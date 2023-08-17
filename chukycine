@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                        "name": "Sound of Freedom (2022)TS Latino",
+                    "image":"https://www.elseptimoarte.net/carteles/341/sound_of_freedom_98288.jpg",
+                    "url": "https://upstream.to/5n6h24imkjo4",
+                    "isHost":"true"
+                        },{ 
                         "name": "Elemental (2023)",
                     "image":"https://www.elseptimoarte.net/carteles/341/elemental_97965.jpg",
                     "url": "https://upstream.to/gq8rboyrcrk6",
@@ -4994,7 +4999,12 @@
                    "name": "The Ring (El círculo) (1998)",
                     "image": "https://pics.filmaffinity.com/ringu_the_ring-816319242-mmed.jpg",
                     "url": "https://opvid.org/wm8sbhtblvis.html",
-                    "isHost":"true"         
+                    "isHost":"true"
+                        },{
+                   "name": "El acusado (2021)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_acusado_94784.jpg",
+                    "url": "https://upstream.to/41iddsc3honz",
+                    "isHost":"true"          
                      }] 
             }]   
         }
