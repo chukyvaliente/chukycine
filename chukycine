@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 17-08-2023)",
+    "author": "chuky (Haz-Tu-Liada a 20-08-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -5004,7 +5004,22 @@
                    "name": "El acusado (2021)",
                     "image": "https://www.elseptimoarte.net/carteles/341/el_acusado_94784.jpg",
                     "url": "https://upstream.to/41iddsc3honz",
-                    "isHost":"true"          
+                    "isHost":"true"  
+                       },{
+                   "name": "Tu vida en 65' (2006)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/tu_vida_en_65_minutos_38179.jpg",
+                    "url": "https://opvid.org/j0xy1v4r0trk.html",
+                    "isHost":"true" 
+                      },{
+                   "name": "Rising Fear (2016)",
+                    "image": "https://pics.filmaffinity.com/rising_fear-663682609-mmed.jpg",
+                    "url": "https://opvid.org/yfpgcsnkugna.html",
+                    "isHost":"true" 
+                       },{
+                   "name": "Inteligencia artificial (2001)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/inteligencia_artificial_7774.jpg",
+                    "url": "https://upstream.to/5n6h24imkjo4",
+                    "isHost":"true"      
                      }] 
             }]   
         }
