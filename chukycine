@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 21-08-2023)",
+    "author": "chuky (Haz-Tu-Liada a 22-08-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                         "name": "Terror on the Prairie (2022)DVDScreen Latino",
+                    "image":"https://pics.filmaffinity.com/terror_on_the_prairie-185583861-mmed.jpg",
+                    "url": "https://upstream.to/ceekwhp2m58x",
+                    "isHost":"true"
+                        },{ 
                         "name": "Sound of Freedom (2022)TS Latino",
                     "image":"https://www.elseptimoarte.net/carteles/341/sound_of_freedom_98288.jpg",
                     "url": "https://upstream.to/5n6h24imkjo4",
@@ -5034,6 +5039,21 @@
                    "name": "Sangre y arena(1989)",
                     "image": "https://pics.filmaffinity.com/sangre_y_arena_aka_blood_and_sand-717598763-mmed.jpg",
                     "url": "https://ok.ru/video/2810509200007",
+                    "isHost":"true" 
+                      },{
+                   "name": "Babylon (2022)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/babylon_96046.jpg",
+                    "url": "https://upstream.to/4msgn0qoexvi",
+                    "isHost":"true" 
+                       },{
+                   "name": "Los lobos (2019)Latino",
+                    "image": "https://www.elseptimoarte.net/carteles/341/los_lobos_84258.jpg",
+                    "url": "https://ok.ru/video/2517008976537",
+                    "isHost":"true" 
+                       },{
+                   "name": "La sombra del diablo (1997)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/la_sombra_del_diablo_60158.jpg",
+                    "url": "https://upstream.to/pzlykqp7uzv7",
                     "isHost":"true" 
                      }] 
             }]   
