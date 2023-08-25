@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 22-08-2023)",
+    "author": "chuky (Haz-Tu-Liada a 25-08-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -5054,6 +5054,31 @@
                    "name": "La sombra del diablo (1997)",
                     "image": "https://www.elseptimoarte.net/carteles/341/la_sombra_del_diablo_60158.jpg",
                     "url": "https://upstream.to/pzlykqp7uzv7",
+                    "isHost":"true" 
+                      },{
+                   "name": "La sombra del diablo (1997)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/la_sombra_del_diablo_60158.jpg",
+                    "url": "https://upstream.to/pzlykqp7uzv7",
+                    "isHost":"true"  
+                     },{
+                   "name": "American Pie (1999)",
+                    "image": "https://pics.filmaffinity.com/american_pie-192121266-msmall.jpg",
+                    "url": "https://upstream.to/ouu728soazxe",
+                    "isHost":"true"  
+                    },{
+                   "name": "Ese es mi hijo (2012)",
+                    "image": "https://pics.filmaffinity.com/that_s_my_boy-140974412-mmed.jpg",
+                    "url": "https://upstream.to/adsq1vltrmqa",
+                    "isHost":"true"
+                     },{
+                   "name": "De Caperucita a loba (2023)",
+                    "image": "https://pics.filmaffinity.com/de_caperucita_a_loba-105292989-mmed.jpg",
+                    "url": "https://upstream.to/0tgbhf7gi68t",
+                    "isHost":"true"
+                      },{
+                   "name": "Cerdita (2022)",
+                    "image": "https://pics.filmaffinity.com/cerdita-167665190-mmed.jpg",
+                    "url": "https://upstream.to/qljprgj6a1do",
                     "isHost":"true" 
                      }] 
             }]   
