@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 31-08-2023)",
+    "author": "chuky (Haz-Tu-Liada a 03-09-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -5115,6 +5115,16 @@
                     "image": "https://pics.filmaffinity.com/south_park_post_covid_the_return_of_covid-563056947-mmed.jpg",
                     "url": "https://upstream.to/la5rcg46j37i",
                     "isHost":"true"
+                        },{
+                   "name": "La fractura (2021)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/la_fractura_94329.jpg",
+                    "url": "https://upstream.to/la5rcg46j37",
+                    "isHost":"true"
+                        },{
+                   "name": "Alta costura (2021)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/alta_costura_94233.jpg",
+                    "url": "https://upstream.to/la5rcg46j37",
+                    "isHost":"true" 
                      }] 
             }]   
         }
