@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                         "name": "Oppenheimer (2023) TS Latino",
+                    "image":"https://www.elseptimoarte.net/carteles/341/oppenheimer_98461.jpg",
+                    "url": "https://upstream.to/9plrwdiy6n8b",
+                    "isHost":"true"
+                        },{ 
                          "name": "Terror on the Prairie (2022)DVDScreen Latino",
                     "image":"https://pics.filmaffinity.com/terror_on_the_prairie-185583861-mmed.jpg",
                     "url": "https://upstream.to/ceekwhp2m58x",
