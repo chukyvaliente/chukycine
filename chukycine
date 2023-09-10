@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                         "name": "Las nadadoras (2023)",
+                    "image":"https://pics.filmaffinity.com/the_swimmers-319132424-mmed.jpg",
+                    "url": "https://mixdrop.co/e/3ngjw7n0umk3q1n",
+                    "isHost":"true"
+                        },{ 
                          "name": "Oppenheimer (2023) TS Latino",
                     "image":"https://www.elseptimoarte.net/carteles/341/oppenheimer_98461.jpg",
                     "url": "https://upstream.to/9plrwdiy6n8b",
@@ -319,22 +324,7 @@
 	                "name": "Matilda, de Roald Dahl: El musical (2022)",
                     "image": "https://www.elseptimoarte.net/carteles/341/matilda_93936.jpeg",
                     "url": "https://upstream.to/4coib3p97eej",
-                    "isHost":"true" 
-		         },{ 
-	                 "name": "Mundo extraño (2022)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/mundo_extrano_95349.jpg",
-                    "url": "https://upstream.to/wcsu8mnhs6jx",
-                    "isHost":"true" 
-		         },{ 
-	                 "name": "Black Panther: Wakanda Forever (2022)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/black_panther_wakanda_forever_95189.jpeg",
-                    "url": "https://upstream.to/nug64buzi78i",
-                    "isHost":"true" 
-		         },{ 
-	               "name": "Avatar: El sentido del agua (2022)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/avatar_el_sentido_del_agua_95497.jpg",
-                    "url": "https://upstream.to/zp8sgud822q0",
-			 "isHost": "true"                            
+                    "isHost":"true"                         
                 }]
                   },{
             "name": "Ciclos y Sagas",
@@ -430,6 +420,16 @@
                     "image": "https://www.elseptimoarte.net/carteles/341/arma_letal_4_53008.jpg",
                     "url": "https://upstream.to/qjehw4m8mf90",
                     "isHost":"true"
+                         },{ 
+                    "name": "Avatar (2009)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/avatar.jpg",
+                    "url": "https://upstream.to/bbd86di3ct0n",
+                    "isHost":"true" 
+                           },{ 
+	               "name": "Avatar: El sentido del agua (2022)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/avatar_el_sentido_del_agua_95497.jpg",
+                    "url": "https://upstream.to/ixne0oh8d3kt",
+			 "isHost": "true"
                          },{ 
                       "name": "Blade (1998)",
                     "image": "https://pics.filmaffinity.com/blade-397609933-msmall.jpg",
@@ -2075,6 +2075,11 @@
                     "image": "https://www.elseptimoarte.net/carteles/341/avatar.jpg",
                     "url": "https://upstream.to/bbd86di3ct0n",
                     "isHost":"true" 
+                           },{ 
+	               "name": "Avatar: El sentido del agua (2022)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/avatar_el_sentido_del_agua_95497.jpg",
+                    "url": "https://upstream.to/ixne0oh8d3kt",
+			 "isHost": "true"
                      },{ 
                         "name": "Animales fantásticos: Los secretos de Dumbledore (2022)",
                     "image": "https://www.elseptimoarte.net/carteles/341/animales_fantasticos_los_secretos_de_dumbledore_92664.jpeg",
@@ -2275,6 +2280,11 @@
                     "image": "https://www.elseptimoarte.net/carteles/341/predator_la_presa_94341.jpeg",
                     "url": "https://upstream.to/jqx6apt0etsa",
                     "isHost":"true"
+                          },{ 
+	                 "name": "Black Panther: Wakanda Forever (2022)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/black_panther_wakanda_forever_95189.jpeg",
+                    "url": "https://upstream.to/qp4972s0286n",
+                    "isHost":"true" 
                          }] 
                     },{  
             "name": "Comedia",
@@ -3239,7 +3249,12 @@
 	                 "name": "Lilo, mi amigo el cocodrilo (2022)",
                     "image": "https://www.elseptimoarte.net/carteles/341/lilo_mi_amigo_el_cocodrilo_95071.jpg",
                     "url": "https://vtube.to/p6eqgzmnkc11#_",
-                    "isHost":"true"  
+                    "isHost":"true" 
+                           },{ 
+	                 "name": "Mundo extraño (2022)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/mundo_extrano_95349.jpg",
+                    "url": "https://upstream.to/u58v99zri950",
+                    "isHost":"true"   
                          }] 
                      },{  
             "name": "Drama",
