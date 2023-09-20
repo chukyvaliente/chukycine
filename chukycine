@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 13-09-2023)",
+    "author": "chuky (Haz-Tu-Liada a 20-09-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -5170,6 +5170,16 @@
                     "image": "https://pics.filmaffinity.com/ansatsu_kyoshitsu_sotsugyo_hen-398775773-mmed.jpg",
                     "url": "https://upstream.to/p5e7xoqlldhz",
                     "isHost":"true"
+                         },{
+                   "name": "¡Movida bajo el mar! (2006)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/movida_bajo_el_mar_59582.jpg",
+                    "url": "https://ok.ru/video/1738931440260",
+                    "isHost":"true" 
+                         },{
+                   "name": "Pídele cuentas al rey (1999)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/pidele_cuentas_al_rey_48456.jpg",
+                    "url": "https://ok.ru/video/2894940670599",
+                    "isHost":"true" 
                      }] 
             }]   
         }
