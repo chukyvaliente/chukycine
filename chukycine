@@ -16,10 +16,16 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                       "name": "El hombre del saco (2023)",
+                    "image":"https://www.elseptimoarte.net/carteles/341/el_hombre_del_saco_98291.jpg",
+                    "url": "https://upstream.to/m28d92plsqtr",
+                    "isHost":"true"
+                         },{
                        "name": "Sin malos rollos (2023)",
                     "image":"https://www.elseptimoarte.net/carteles/341/sin_malos_rollos_97549.jpg",
                     "url": "https://upstream.to/aqycv5kwqyuh",
                     "isHost":"true"
+                      },{
                          "name": "Las nadadoras (2023)",
                     "image":"https://pics.filmaffinity.com/the_swimmers-319132424-mmed.jpg",
                     "url": "https://upstream.to/yyq8g9dzr848",
