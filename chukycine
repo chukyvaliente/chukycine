@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 23-09-2023)",
+    "author": "chuky (Haz-Tu-Liada a 25-09-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,10 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                       "name": "Sin malos rollos (2023)",
+                    "image":"https://www.elseptimoarte.net/carteles/341/sin_malos_rollos_97549.jpg",
+                    "url": "https://upstream.to/aqycv5kwqyuh",
+                    "isHost":"true"
                          "name": "Las nadadoras (2023)",
                     "image":"https://pics.filmaffinity.com/the_swimmers-319132424-mmed.jpg",
                     "url": "https://upstream.to/yyq8g9dzr848",
@@ -5184,6 +5188,11 @@
                    "name": "La guerra (1994)",
                     "image": "https://pics.filmaffinity.com/the_war-955671330-mmed.jpg",
                     "url": "https://ok.ru/video/2308886301438",
+                    "isHost":"true" 
+                      },{
+                   "name": "La voluntaria (2022)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/la_voluntaria_92927.jpg",
+                    "url": "https://upstream.to/i2gn5kusipiu",
                     "isHost":"true" 
                      }] 
             }]   
