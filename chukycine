@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 25-09-2023)",
+    "author": "chuky (Haz-Tu-Liada a 26-09-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                          "name": "Blue Beetle (2023)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/blue_beetle_98385.jpg",
+                    "url": "https://upstream.to/4suoorfd9q4f",
+                    "isHost":"true"
+                         },{ 
                        "name": "El hombre del saco (2023)",
                     "image":"https://www.elseptimoarte.net/carteles/341/el_hombre_del_saco_98291.jpg",
                     "url": "https://upstream.to/m28d92plsqtr",
@@ -5199,6 +5204,11 @@
                    "name": "La voluntaria (2022)",
                     "image": "https://www.elseptimoarte.net/carteles/341/la_voluntaria_92927.jpg",
                     "url": "https://upstream.to/i2gn5kusipiu",
+                    "isHost":"true" 
+                     },{
+                   "name": "Torque: rodando al límite (2004)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/torque_rodando_al_limite_27954.jpg",
+                    "url": "https://upstream.to/lrt2eulc09wa",
                     "isHost":"true" 
                      }] 
             }]   
