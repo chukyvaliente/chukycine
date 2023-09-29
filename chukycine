@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                        "name": "Gran Turismo (2023)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/gran_turismo_97700.jpg",
+                    "url": "https://upstream.to/1j1m701toqzh",
+                    "isHost":"true"
+                         },{ 
                           "name": "Blue Beetle (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/blue_beetle_98385.jpg",
                     "url": "https://upstream.to/4suoorfd9q4f",
