@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 02-10-2023)",
+    "author": "chuky (Haz-Tu-Liada a 08-10-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -5234,6 +5234,11 @@
                    "name": "Torque: rodando al límite (2004)",
                     "image": "https://www.elseptimoarte.net/carteles/341/torque_rodando_al_limite_27954.jpg",
                     "url": "https://upstream.to/lrt2eulc09wa",
+                    "isHost":"true" 
+                      },{
+                   "name": "Mine (2016)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/mine_61740.jpg",
+                    "url": "https://opvid.biz/xoyr6qgrb1jh",
                     "isHost":"true" 
                      }] 
             }]   
