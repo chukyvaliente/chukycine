@@ -5240,6 +5240,11 @@
                    "name": "El crack (1981)",
                     "image": "https://www.elseptimoarte.net/carteles/341/el_crack_29311.jpg",
                     "url": "https://opvid.org/n8bv990h3ltb",
+                    "isHost":"true"   
+                       },{
+                   "name": "Pena de muerte (1995)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/pena_de_muerte_61579.jpg",
+                    "url": "https://ok.ru/video/2003272862269",
                     "isHost":"true"    
                      }] 
             }]   
