@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 13-10-2023)",
+    "author": "chuky (Haz-Tu-Liada a 15-10-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -5250,7 +5250,12 @@
                    "name": "New Jack City (1991)",
                     "image": "https://www.elseptimoarte.net/carteles/341/new_jack_city_70234.jpeg",
                     "url": "https://opvid.org/uj5ernha1h7d",
-                    "isHost":"true"     
+                    "isHost":"true"  
+                        },{
+                   "name": "Ultimátum a la Tierra (2008)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/ultimatum_a_la_tierra_57963.jpg",
+                    "url": "https://upstream.to/mgr48u2hs9bv",
+                    "isHost":"true"      
                      }] 
             }]   
         }
