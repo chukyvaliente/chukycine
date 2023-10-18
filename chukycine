@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 16-10-2023)",
+    "author": "chuky (Haz-Tu-Liada a 18-10-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -5259,6 +5259,16 @@
                    "name": "Aprende como puedas (1996)",
                     "image": "https://www.elseptimoarte.net/carteles/341/aprende_como_puedas_60443.jpg",
                     "url": "https://opvid.org/eq0wi9hs3pnh",
+                    "isHost":"true"   
+                        },{
+                   "name": "Me llaman Radio (2003)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/me_llaman_radio_38360.jpg",
+                    "url": "https://upstream.to/smmg8sagdzy4",
+                    "isHost":"true"
+                       },{
+                   "name": "El rito (2011)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_rito_7460.jpg",
+                    "url": "https://upstream.to/oftws71etebr",
                     "isHost":"true"        
                      }] 
             }]   
