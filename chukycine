@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 18-10-2023)",
+    "author": "chuky (Haz-Tu-Liada a 19-10-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,10 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                         "name": "The Equalizer 3 (2023)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/the_equalizer_3_98440.jpg",
+                    "url": "https://upstream.to/rr12dz1zftp4",
+                    "isHost":"true"
                         "name": "Gran Turismo (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/gran_turismo_97700.jpg",
                     "url": "https://upstream.to/gc34xlxsbayq",
@@ -5269,7 +5273,17 @@
                    "name": "El rito (2011)",
                     "image": "https://www.elseptimoarte.net/carteles/341/el_rito_7460.jpg",
                     "url": "https://upstream.to/oftws71etebr",
-                    "isHost":"true"        
+                    "isHost":"true"    
+                       },{
+                   "name": "El bebé jefazo (2017)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_bebe_jefazo_64934.jpg",
+                    "url": "https://upstream.to/vgcd5wux41tc",
+                    "isHost":"true"
+                       },{
+                   "name": "El bebé jefazo: Negocios de familia (2021))",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_bebe_jefazo_negocios_de_familia_86392.jpg",
+                    "url": "https://upstream.to/mgagh8awv2ip",
+                    "isHost":"true"      
                      }] 
             }]   
         }
