@@ -16,9 +16,14 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                        "name": "De perdidos a Río (2023)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/de_perdidos_a_rio_98229.jpg",
+                    "url": "https://upstream.to/t328kpei9ovd",
+                    "isHost":"true"
+                         },{
                          "name": "The Equalizer 3 (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/the_equalizer_3_98440.jpg",
-                    "url": "https://upstream.to/rr12dz1zftp4",
+                    "url": "https://highstream.tv/fzpplp7qmip6/Equalizer_3.mp4.html",
                     "isHost":"true"
                          },{
                         "name": "Gran Turismo (2023)",
