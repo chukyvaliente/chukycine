@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                         "name": "Mi soledad tiene alas (2023)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/mi_soledad_tiene_alas_98635.jpg",
+                    "url": "https://upstream.to/tvmbc2eymsnd",
+                    "isHost":"true"
+                         },{
                         "name": "De perdidos a Río (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/de_perdidos_a_rio_98229.jpg",
                     "url": "https://upstream.to/t328kpei9ovd",
