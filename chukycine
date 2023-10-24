@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 22-10-2023)",
+    "author": "chuky (Haz-Tu-Liada a 24-10-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -5304,7 +5304,22 @@
                    "name": "Las vueltas de la vida (2007)",
                     "image": "https://www.elseptimoarte.net/carteles/341/las_vueltas_de_la_vida_58947.jpg",
                     "url": "https://highstream.tv/nr9n0diy9jsu/Ver_Las_vueltas_de_la_vida_Online_Castellano_Latino_Subtitul.mp4.html",
-                    "isHost":"true"         
+                    "isHost":"true" 
+                     },{
+                   "name": "¡Shazam! (2019)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/shazam_74162.jpg",
+                    "url": "https://upstream.to/kh359danhjld",
+                    "isHost":"true"   
+                      },{
+                   "name": "Cómo entrenar a tu dragón 3 (2019)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/como_entrenar_a_tu_dragon_3_73750.jpg",
+                    "url": "https://upstream.to/ae8sbpec8z9s",
+                    "isHost":"true"  
+                       },{
+                   "name": "Guardianes de la Galaxia Vol. 2 (2017)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/guardianes_de_la_galaxia_vol._2_64428.jpg",
+                    "url": "https://upstream.to/c397ivs3rmss",
+                    "isHost":"true"       
                      }] 
             }]   
         }
