@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                         "name": "El exorcista: Creyente (2023)Latino",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_exorcista_creyente_98821.jpg",
+                    "url": "https://upstream.to/u3gx2y9bf0yp",
+                    "isHost":"true"
+                         },{
                          "name": "Mi soledad tiene alas (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/mi_soledad_tiene_alas_98635.jpg",
                     "url": "https://upstream.to/tvmbc2eymsnd",
