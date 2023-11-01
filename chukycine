@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 29-10-2023)",
+    "author": "chuky (Haz-Tu-Liada a 01-11-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,26 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                          "name": "Encierro (2023)",
+                    "image": "https://pics.filmaffinity.com/locked_in-846133689-mmed.jpg",
+                    "url": "https://upstream.to/klh937wlsw5w",
+                    "isHost":"true"
+                         },{
+                          "name": "La Patrulla Canina: La superpelícula (2023)",
+                    "image": "https://pics.filmaffinity.com/paw_patrol_the_mighty_movie-340727255-mmed.jpg",
+                    "url": "https://upstream.to/klh937wlsw5w",
+                    "isHost":"true"
+                         },{
+                         "name": "Misterio en Venecia (2023)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/misterio_en_venecia_98622.jpg",
+                    "url": "https://upstream.to/44ysc1nla091",
+                    "isHost":"true"
+                         },{
+                          "name": "Saw X (2023)Latino",
+                    "image": "https://www.elseptimoarte.net/carteles/341/saw_x_98581.jpg",
+                    "url": "https://upstream.to/0rrmclxdwtsk",
+                    "isHost":"true"
+                         },{
                          "name": "El exorcista: Creyente (2023)Latino",
                     "image": "https://www.elseptimoarte.net/carteles/341/el_exorcista_creyente_98821.jpg",
                     "url": "https://highstream.tv/smwhjki7entt/El_exorcista_El_creyente_[By_chuky].mp4.html",
@@ -5339,7 +5359,12 @@
                    "name": "Mirada de ángel (2001)",
                     "image": "https://www.elseptimoarte.net/carteles/341/mirada_de_angel_48007.jpg",
                     "url": "https://opvid.org/5xyblsamq2y2",
-                    "isHost":"true"        
+                    "isHost":"true"    
+                      },{
+                   "name": "El lobo de Wall Street (2013)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_lobo_de_wall_street_25432.jpg",
+                    "url": "https://upstream.to/makd09j5avho",
+                    "isHost":"true"       
                      }] 
             }]   
         }
