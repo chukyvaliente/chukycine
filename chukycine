@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 05-11-2023)",
+    "author": "chuky (Haz-Tu-Liada a 08-11-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -5384,7 +5384,12 @@
                    "name": "Háblame (2022)Latino",
                     "image": "https://www.elseptimoarte.net/carteles/341/hablame_97828.jpg",
                     "url": "https://upstream.to/0s0kc8kuv44a",
-                    "isHost":"true"    
+                    "isHost":"true"  
+                      },{
+                   "name": "Dragon, la vida de Bruce Lee (1993)",
+                    "image": "https://pics.filmaffinity.com/dragon_the_bruce_lee_story-739596862-mmed.jpg",
+                    "url": "https://upstream.to/a60mlstq18f8",
+                    "isHost":"true"     
                      }] 
             }]   
         }
