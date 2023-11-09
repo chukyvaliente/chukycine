@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 08-11-2023)",
+    "author": "chuky (Haz-Tu-Liada a 09-11-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                         "name": "Los mercen4rios (2023)Latino",
+                    "image": "https://www.elseptimoarte.net/carteles/341/los_mercen4rios_98482.jpg",
+                    "url": "https://upstream.to/qz0cw6d7ae1x",
+                    "isHost":"true"
+                         },{
                          "name": "Vacaciones de verano (2023)",
                     "image": "https://pics.filmaffinity.com/vacaciones_de_verano-915162329-mmed.jpg",
                     "url": "https://vidmoly.to/73phvrn2ail4",
@@ -91,9 +96,9 @@
                     "url": "https://upstream.to/yyq8g9dzr848",
                     "isHost":"true"
                         },{ 
-                         "name": "Oppenheimer (2023) TS Latino",
+                         "name": "Oppenheimer (2023)",
                     "image":"https://www.elseptimoarte.net/carteles/341/oppenheimer_98461.jpg",
-                    "url": "https://upstream.to/9plrwdiy6n8b",
+                    "url": "https://vidmoly.to/vl4bd4kqymat",
                     "isHost":"true"
                         },{ 
                          "name": "Terror on the Prairie (2022)DVDScreen Latino",
@@ -5389,7 +5394,12 @@
                    "name": "Dragon, la vida de Bruce Lee (1993)",
                     "image": "https://pics.filmaffinity.com/dragon_the_bruce_lee_story-739596862-mmed.jpg",
                     "url": "https://upstream.to/a60mlstq18f8",
-                    "isHost":"true"     
+                    "isHost":"true" 
+                      },{
+                   "name": "John Q. (2002)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/john_q_44612.jpg",
+                    "url": "https://ok.ru/video/415122917949",
+                    "isHost":"true"      
                      }] 
             }]   
         }
