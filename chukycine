@@ -5409,7 +5409,12 @@
                    "name": "La cumbre escarlata (2015)",
                     "image": "https://www.elseptimoarte.net/carteles/341/la_cumbre_escarlata_41060.jpg",
                     "url": "https://upstream.to/tii1wkb3x8bx",
-                    "isHost":"true"       
+                    "isHost":"true" 
+                      },{
+                   "name": "Snatch: Cerdos y diamantes (2000)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/snatch_cerdos_y_diamantes_49609.jpg",
+                    "url": "https://upstream.to/k5rizq23skse",
+                    "isHost":"true"        
                      }] 
             }]   
         }
