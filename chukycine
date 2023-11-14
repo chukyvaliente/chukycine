@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 12-11-2023)",
+    "author": "chuky (Haz-Tu-Liada a 14-11-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -5414,7 +5414,22 @@
                    "name": "Snatch: Cerdos y diamantes (2000)",
                     "image": "https://www.elseptimoarte.net/carteles/341/snatch_cerdos_y_diamantes_49609.jpg",
                     "url": "https://upstream.to/k5rizq23skse",
-                    "isHost":"true"        
+                    "isHost":"true"  
+                      },{
+                   "name": "Los Simpson: La película (2007)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/los_simpson_la_pelicula_59116.jpg",
+                    "url": "https://upstream.to/rp7cikkeaqyh",
+                    "isHost":"true"  
+                       },{
+                   "name": "Bad Teacher (2011)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/bad_teacher_9789.jpg",
+                    "url": "https://highstream.tv/nnscd43qwifq/Mala_profesora_(2011)._Bad_Teacher_(2011)..mp4.html",
+                    "isHost":"true" 
+                       },{
+                   "name": "The Doorman (2020)",
+                    "image": "https://pics.filmaffinity.com/the_doorman-415868432-mmed.jpg",
+                    "url": "https://highstream.tv/qw4hsbkmibee/The_Doorman.mp4.html",
+                    "isHost":"true"       
                      }] 
             }]   
         }
