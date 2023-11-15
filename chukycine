@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 14-11-2023)",
+    "author": "chuky (Haz-Tu-Liada a 15-11-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                         "name": "Los mercen4rios (2023)V.O.S.E",
+                    "image": "https://www.elseptimoarte.net/carteles/341/los_mercen4rios_98482.jpg",
+                    "url": "https://upstream.to/6a0j84yhos9p",
+                    "isHost":"true"
+                         },{  
                          "name": "Los mercen4rios (2023)Latino",
                     "image": "https://www.elseptimoarte.net/carteles/341/los_mercen4rios_98482.jpg",
                     "url": "https://upstream.to/qz0cw6d7ae1x",
