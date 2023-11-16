@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 15-11-2023)",
+    "author": "chuky (Haz-Tu-Liada a 16-11-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                         "name": "Trolls 3: Todos juntos (2023)Latino",
+                    "image": "https://www.elseptimoarte.net/carteles/341/trolls_3_todos_juntos_99193.jpg",
+                    "url": "https://upstream.to/3xbwbwtkt8c9",
+                    "isHost":"true"
+                         },{ 
                          "name": "Los mercen4rios (2023)V.O.S.E",
                     "image": "https://www.elseptimoarte.net/carteles/341/los_mercen4rios_98482.jpg",
                     "url": "https://upstream.to/6a0j84yhos9p",
@@ -2215,11 +2220,6 @@
                     "image": "https://www.elseptimoarte.net/carteles/341/aliens_vs_predator_2_56177.jpg",
                     "url": "https://upstream.to/bqfer043vhkx",
                     "isHost":"true"
-                                                   },{ 
-                      "name": "RRR (2022) V.O.S.E",
-                    "image": "https://www.elseptimoarte.net/carteles/341/rrr_91697.jpg",
-                   			"url" : "https://upstream.to/fo6g7i4160lh",
-			"isHost": "true"
                                                         },{ 
                       "name": "The Terminator (1984)",
                     "image": "https://www.elseptimoarte.net/carteles/341/terminator.jpg",
@@ -3440,11 +3440,6 @@
                     "image": "https://www.elseptimoarte.net/carteles/341/el_precio_del_poder_11879.jpg",
                     "url": "https://upstream.to/wyu7zo277utv",
                     "isHost":"true"
-                      },{
-                      "name": "Lev Yashin. The Dream Goalkeeper (V.O.S.E)",
-                    "image": "https://pics.filmaffinity.com/lev_yashin_vratar_moey_mechty-503276395-mmed.jpg",
-                    "url": "https://pelisplay.io/play?id=NjkxMzI=",
-                    "isHost":"true"
                      },{
                            "name": "Stoned (2005)",
                     "image": "https://www.elseptimoarte.net/carteles/341/stoned_26693.jpg",
@@ -3544,21 +3539,11 @@
                          "name": "La última tentación de Cristo (1988)",
                     "image": "https://www.elseptimoarte.net/carteles/341/la_ultima_tentacion_de_cristo_64218.jpg",
                     "url": "https://ok.ru/video/2331824294654",
-                    "isHost":"true" 
-                          },{ 
-                          "name": "La pasión de Cristo (2004) V.O.S.E",
-                    "image": "https://www.elseptimoarte.net/carteles/341/la_pasion_de_cristo_37417.jpg",
-                    "url": "https://upstream.to/z7sf38mf5588",
-                    "isHost":"true" 
+                    "isHost":"true"  
                           },{ 
                         "name": "Resucitado (2016)",
                     "image": "https://www.elseptimoarte.net/carteles/341/resucitado_46412.jpg",
                     "url": "https://upstream.to/2qr7kuzrh6b0",
-                    "isHost":"true" 
-                         },{ 
-                       "name": "Aftersun (2022)V.O.S.E",
-                    "image": "https://www.elseptimoarte.net/carteles/341/aftersun_95742.jpg",
-                    "url": "https://upstream.to/k8cqwys66pkr",
                     "isHost":"true" 
                          },{ 
                        "name": "Rounders (1998)",
@@ -3750,11 +3735,6 @@
                     "image": "https://www.elseptimoarte.net/carteles/341/tucker_un_hombre_y_su_sueno_64277.jpg",
                     "url": "https://upstream.to/5mylqn47sjcx",
                     "isHost":"true" 
-                        },{
-                      "name": "Reality Bites (Bocados de realidad) (1994)V.O.S.E",
-                    "image": "https://www.elseptimoarte.net/carteles/341/bocados_de_realidad_78803.jpg",
-                    "url": "https://ok.ru/videoembed/843303881350",
-                    "isHost":"true" 
                                               },{
                       "name": "Hustle & Flow (2005)(Latino)",
                     "image": "https://www.elseptimoarte.net/carteles/341/hustle_&_flow_38029.jpg",
@@ -3814,11 +3794,6 @@
                       "name": "El padre (2020)",
                     "image": "https://www.elseptimoarte.net/carteles/341/el_padre_86568.jpg",
                     "url": "https://upstream.to/ho5fqv3s08yj",
-                    "isHost":"true"
-                                                   },{
-                      "name": "La gran estafa (El desagravio)[V.O.S.E] (1989)",
-                    "image": "https://image.tmdb.org/t/p/w500/aLmAG96GVFAK47xw4oci8b4Y8YI.jpg",
-                    "url": "https://upstream.to/npu0u9l36uzi",
                     "isHost":"true"
                                                     },{
                       "name": "La milla verde (1999)",
@@ -5135,11 +5110,6 @@
                     "image": "https://www.elseptimoarte.net/carteles/341/el_resplandor_35013.jpg",
                     "url": "https://upstream.to/0vqfvw0sk5by",
                     "isHost":"true"  
-                                                },{
-                      "name": "Silent Hill: Revelation 3D (2012) (V.O.S.E)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/silent_hill_revelation_3d_15218.jpg",
-                    "url": "https://upstream.to/q45avd8nlvlw",
-                    "isHost":"true" 
                                            },{
                       "name": "Encontré al diablo (2010)",
                     "image": "https://www.elseptimoarte.net/carteles/341/encontre_al_diablo_9067.jpg",
@@ -5281,6 +5251,51 @@
                     "url": "https://opvid.org/wm8sbhtblvis.html",
                     "isHost":"true"
                                 }] 
+                       },{  
+            "name": "Películas en V-O-S-E",
+            "image": "https://i.ibb.co/K5WVqLq/V-O-S-E.jpg",
+            "info": "",
+               "stations": [{  
+                   "name": "Los mercen4rios (2023)V.O.S.E",
+                    "image": "https://www.elseptimoarte.net/carteles/341/los_mercen4rios_98482.jpg",
+                    "url": "https://upstream.to/6a0j84yhos9p",
+                    "isHost":"true"
+                      },{
+                  "name": "RRR (2022) V.O.S.E",
+                    "image": "https://www.elseptimoarte.net/carteles/341/rrr_91697.jpg",
+                   			"url" : "https://upstream.to/fo6g7i4160lh",
+			"isHost": "true" 
+                      },{
+                      "name": "Lev Yashin. The Dream Goalkeeper (V.O.S.E)",
+                    "image": "https://pics.filmaffinity.com/lev_yashin_vratar_moey_mechty-503276395-mmed.jpg",
+                    "url": "https://pelisplay.io/play?id=NjkxMzI=",
+                    "isHost":"true"  
+                       },{ 
+                          "name": "La pasión de Cristo (2004) V.O.S.E",
+                    "image": "https://www.elseptimoarte.net/carteles/341/la_pasion_de_cristo_37417.jpg",
+                    "url": "https://upstream.to/z7sf38mf5588",
+                    "isHost":"true"
+                       },{ 
+                       "name": "Aftersun (2022)V.O.S.E",
+                    "image": "https://www.elseptimoarte.net/carteles/341/aftersun_95742.jpg",
+                    "url": "https://upstream.to/k8cqwys66pkr",
+                    "isHost":"true" 
+                        },{
+                      "name": "Reality Bites (Bocados de realidad) (1994)V.O.S.E",
+                    "image": "https://www.elseptimoarte.net/carteles/341/bocados_de_realidad_78803.jpg",
+                    "url": "https://ok.ru/videoembed/843303881350",
+                    "isHost":"true"    
+                         },{
+                      "name": "La gran estafa (El desagravio)[V.O.S.E] (1989)",
+                    "image": "https://image.tmdb.org/t/p/w500/aLmAG96GVFAK47xw4oci8b4Y8YI.jpg",
+                    "url": "https://upstream.to/npu0u9l36uzi",
+                    "isHost":"true" 
+                        },{
+                      "name": "Silent Hill: Revelation 3D (2012) (V.O.S.E)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/silent_hill_revelation_3d_15218.jpg",
+                    "url": "https://upstream.to/q45avd8nlvlw",
+                    "isHost":"true"          
+                     }] 
                   },{  
             "name": "Peticiones(Se mantendrán aqui un mes)",
             "image": "https://i.ibb.co/7WXCFKF/Peticiones.jpg",
@@ -5434,8 +5449,12 @@
                    "name": "The Doorman (2020)",
                     "image": "https://pics.filmaffinity.com/the_doorman-415868432-mmed.jpg",
                     "url": "https://highstream.tv/qw4hsbkmibee/The_Doorman.mp4.html",
+                    "isHost":"true"  
+                    },{
+                   "name": "Los ojos del mal (2006)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/los_ojos_del_mal_59580.jpg",
+                    "url": "https://ok.ru/video/2125306661623",
                     "isHost":"true"       
                      }] 
             }]   
-        }
    }
