@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                          "name": "Única superviviente (2022)",
+                    "image": "https://pics.filmaffinity.com/odna-940412659-msmall.jpg",
+                    "url": "https://upstream.to/eqhdmo5vmkva",
+                    "isHost":"true"
+                         },{ 
                          "name": "Trolls 3: Todos juntos (2023)Latino",
                     "image": "https://www.elseptimoarte.net/carteles/341/trolls_3_todos_juntos_99193.jpg",
                     "url": "https://upstream.to/3xbwbwtkt8c9",
