@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 20-11-2023)",
+    "author": "chuky (Haz-Tu-Liada a 21-11-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -5464,7 +5464,12 @@
                    "name": "Una Cenicienta moderna (2004)",
                     "image": "https://www.elseptimoarte.net/carteles/341/una_cenicienta_moderna_6608.jpg",
                     "url": "https://upstream.to/4b9tgvcuyd6s",
-                    "isHost":"true"       
+                    "isHost":"true"  
+                      },{
+                   "name": "Dobermann (1997)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/dobermann_60612.jpg",
+                    "url": "https://upstream.to/3gsloq9x3ns6",
+                    "isHost":"true"         
                      }] 
             }]   
    }
