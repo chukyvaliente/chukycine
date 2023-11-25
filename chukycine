@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                         "name": "The Creator (2023)",
+                    "image": "https://pics.filmaffinity.com/the_creator-470808400-mmed.jpg",
+                    "url": "https://opvid.org/ve586vcif1od",
+                    "isHost":"true"
+                         },{ 
                           "name": "Única superviviente (2022)",
                     "image": "https://pics.filmaffinity.com/odna-940412659-msmall.jpg",
                     "url": "https://upstream.to/eqhdmo5vmkva",
@@ -198,37 +203,37 @@
                      },{
                     "name": "A todo gas (2001)",
                     "image": "https://pics.filmaffinity.com/the_fast_and_the_furious-493327751-msmall.jpg",
-                    "url": "https://dood./d/6j9vzeu54b1t",
+                    "url": "https://opvid.org/hhod7inyywy4",
                     "isHost":"true"  
                        },{
                     "name": "A todo gas 2 (2003)",
                     "image": "https://pics.filmaffinity.com/2_fast_2_furious_aka_the_fast_and_the_furious_2-199382456-msmall.jpg",
-                    "url": "https://dood./d/6beuxqdjo5z6",
+                    "url": "https://opvid.org/5u4rtuooiasf",
                     "isHost":"true" 
                       },{
                     "name": "A todo gas: Tokyo Race (A todo gas 3) (2006)",
                     "image": "https://pics.filmaffinity.com/the_fast_and_the_furious_tokyo_drift-349229245-msmall.jpg",
-                    "url": "https://dood./d/mrl60s4xfcx7",
+                    "url": "https://opvid.org/t3s3132oyduk",
                     "isHost":"true" 
                        },{
                     "name": "Fast & Furious: Aún más rápido (A todo gas 4) (2009)",
                     "image": "https://pics.filmaffinity.com/fast_and_furious_4-818035556-msmall.jpg",
-                    "url": "https://dood./d/lokrjeoz3j2z",
+                    "url": "https://opvid.org/7itbr1raeg6b",
                     "isHost":"true" 
                        },{
                     "name": "Fast & Furious 5 (A todo gas 5) (2011)",
                     "image": "https://pics.filmaffinity.com/fast_five_the_fast_and_the_furious_5-355651909-msmall.jpg",
-                    "url": "https://dood./d/qialhdf0w1sm",
+                    "url": "https://opvid.org/ftlhbz6t88dc",
                     "isHost":"true" 
                        },{
                     "name": "Fast & Furious 6 (A todo gas 6) (2013)",
                     "image": "https://pics.filmaffinity.com/fast_furious_6_fast_and_furious_6-240822945-msmall.jpg",
-                    "url": "https://dood./d/a1xuo2p5a375",
+                    "url": "https://opvid.org/0unfp1fd5sht",
                     "isHost":"true" 
                        },{
                     "name": "Fast & Furious 7 (A todo gas 7) (2015)",
                     "image": "https://pics.filmaffinity.com/furious_7_fast_furious_7-904800766-msmall.jpg",
-                    "url": "https://upstream.to/qximhiyo70fi",
+                    "url": "https://opvid.org/eumepj1z5htm",
                     "isHost":"true" 
                       },{
                     "name": "Fast & Furious 8 (2017)",
