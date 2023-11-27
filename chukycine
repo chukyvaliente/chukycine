@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 26-11-2023)",
+    "author": "chuky (Haz-Tu-Liada a 27-11-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,9 +16,19 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                         "name": "Wish: El poder de los deseos (2023)TS",
+                    "image": "https://www.elseptimoarte.net/carteles/341/wish_el_poder_de_los_deseos_99431.jpg",
+                    "url": "https://highstream.tv/jycigtmltmp2/document_5120940380908422570.mp4.html",
+                    "isHost":"true"
+                         },{  
                          "name": "The Creator (2023)",
                     "image": "https://pics.filmaffinity.com/the_creator-470808400-mmed.jpg",
                     "url": "https://opvid.org/ve586vcif1od",
+                    "isHost":"true"
+                         },{ 
+                          "name": "The Creator (2023) V.O.S.E",
+                    "image": "https://pics.filmaffinity.com/the_creator-470808400-mmed.jpg",
+                    "url": "https://upstream.to/6f3ic5xss5jo",
                     "isHost":"true"
                          },{ 
                           "name": "Única superviviente (2022)",
