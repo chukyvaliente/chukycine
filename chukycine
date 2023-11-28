@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 27-11-2023)",
+    "author": "chuky (Haz-Tu-Liada a 28-11-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -248,17 +248,17 @@
                       },{
                     "name": "Fast & Furious 8 (2017)",
                     "image": "https://pics.filmaffinity.com/the_fate_of_the_furious-720946563-msmall.jpg",
-                    "url": "https://dood./d/isdwc02fbhct",
+                    "url": "https://dood.so/d/isdwc02fbhct",
                     "isHost":"true" 
                        },{
                     "name": "Fast & Furious 9 (2021)",
                     "image": "https://pics.filmaffinity.com/fast_furious_9-833854731-msmall.jpg",
-                    "url": "https://dood./d/wty1uh8zxful",
+                    "url": "https://dood.so/d/wty1uh8zxful",
                     "isHost":"true" 
                      },{  
                          "name": "Fast & Furious X (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/fast_and_furious_10_97112.jpg",
-                    "url": "https://dood./d/x80khor2sj5a",
+                    "url": "https://dood.so/d/x80khor2sj5a",
                     "isHost":"true"
                      },{
                     "name": "Futurama: El gran golpe de Bender(2007)",
@@ -358,13 +358,13 @@
                           },{ 
                       "name": "El legado de Bourne (2012)",
                     "image": "https://www.elseptimoarte.net/carteles/341/el_legado_de_bourne_12780.jpg",
-                    "url": "https://dood.so/d/eg00tgiz1a2j",
-                    "isHost":"true"
+                    "url": "https://dood.yt/d/eg00tgiz1a2j",
+                   "isHost":"true"
                          },{ 
                       "name": "Jason Bourne (2016)",
                     "image": "https://www.elseptimoarte.net/carteles/341/jason_bourne_52989.jpg",
-                    "url": "https://dood.so/d/ppl77xyg4hdf",
-                    "isHost":"true"
+                    "url": "https://dood.yt/d/ppl77xyg4hdf",
+                     "isHost":"true"
                         },{ 
                  "name": "El corredor del laberinto (2014)",
                     "image": "https://www.elseptimoarte.net/carteles/341/el_corredor_del_laberinto_30816.jpg",
@@ -2309,7 +2309,7 @@
                              "name": "¡¡¡Caverrrrnícola!!! (2004)",
                     "image": "https://www.elseptimoarte.net/carteles/341/caverrrrnicola_38271.jpg",
                     "url": "https://dood.yt/d/6mlbljpawiye",
-                    "isHost":"true"
+                    "userAgent":"navigator"
                            },{
                             "name": "Los productores (2005)",
                     "image": "https://www.elseptimoarte.net/carteles/341/los_productores_37248.jpg",
@@ -2434,7 +2434,7 @@
                       "name": "Todo a la vez en todas partes (2022)",
                     "image": "https://www.elseptimoarte.net/carteles/341/todo_a_la_vez_en_todas_partes_93729.jpeg",
                     "url": "https://dood.yt/d/7wctsa2e5tpo",
-                    "isHost":"true"    
+                    "userAgent":"navigator"    
 		          },{ 
                       "name": "Esta casa es una ruina (1986)",
                     "image": "https://www.elseptimoarte.net/carteles/341/esta_casa_es_una_ruina_41395.jpg",
@@ -3084,7 +3084,7 @@
                           "name": "Hopper, el polloliebre (2022)",
                     "image": "https://www.elseptimoarte.net/carteles/341/hopper_el_polloliebre_94452.jpg",
                     "url": "https://dood.yt/d/xveqke1vw9hs",
-                    "isHost":"true"
+                    "userAgent":"navigator"
                          },{ 
                           "name": "Los Goonies (1985)",
                     "image": "https://www.elseptimoarte.net/carteles/341/los_goonies_78256.jpg",
@@ -3534,7 +3534,7 @@
                         "name": "1917 (2019)",
                     "image": "https://www.elseptimoarte.net/carteles/341/1917_81364.jpg",
                     "url": "https://dood.yt/d/4a8f87srtdme",
-                    "isHost":"true" 
+                    "userAgent":"navigator" 
                          },{ 
                         "name": "Fuga de Alcatraz (1979)",
                     "image": "https://www.elseptimoarte.net/carteles/341/fuga_de_alcatraz_15722.jpg",
@@ -3584,7 +3584,7 @@
                         "name": "El sueño de Jimmy Grimble (2000)",
                     "image": "https://www.elseptimoarte.net/carteles/341/el_sueno_de_jimmy_grimble_47722.jpg",
                     "url": "https://dood.yt/d/4ltpvfu8x1lc",
-                    "isHost":"true"
+                    "userAgent":"navigator"
                            },{ 
                         "name": "Anonymous (2011)",
                     "image": "https://pics.filmaffinity.com/anonymous-135003429-mmed.jpg",
@@ -3624,7 +3624,7 @@
                      "name": "Family Man (2000)",
                     "image": "https://www.elseptimoarte.net/carteles/341/family_man_46332.jpg",
                     "url": "https://dood.yt/d/otq5zcwgxrg1",
-                    "isHost":"true" 
+                    "userAgent":"navigator"
 		       },{ 
                          "name": "Billy Elliot (Quiero bailar) (2000)",
                     "image": "https://www.elseptimoarte.net/carteles/341/billy_elliot_quiero_bailar_10118.jpg",
