@@ -249,17 +249,17 @@
                     "name": "Fast & Furious 8 (2017)",
                     "image": "https://pics.filmaffinity.com/the_fate_of_the_furious-720946563-msmall.jpg",
                     "url": "https://dood.so/d/isdwc02fbhct",
-                    "isHost":"true" 
+                    "userAgent":"navigator" 
                        },{
                     "name": "Fast & Furious 9 (2021)",
                     "image": "https://pics.filmaffinity.com/fast_furious_9-833854731-msmall.jpg",
                     "url": "https://dood.so/d/wty1uh8zxful",
-                    "isHost":"true" 
+                    "userAgent":"navigator" 
                      },{  
                          "name": "Fast & Furious X (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/fast_and_furious_10_97112.jpg",
                     "url": "https://dood.so/d/x80khor2sj5a",
-                    "isHost":"true"
+                    "userAgent":"navigator"
                      },{
                     "name": "Futurama: El gran golpe de Bender(2007)",
                     "image": "https://pics.filmaffinity.com/futurama_bender_s_big_score_aka_the_futurama_movie-173810010-msmall.jpg",
@@ -359,12 +359,12 @@
                       "name": "El legado de Bourne (2012)",
                     "image": "https://www.elseptimoarte.net/carteles/341/el_legado_de_bourne_12780.jpg",
                     "url": "https://dood.yt/d/eg00tgiz1a2j",
-                   "isHost":"true"
+                  "userAgent":"navigator"
                          },{ 
                       "name": "Jason Bourne (2016)",
                     "image": "https://www.elseptimoarte.net/carteles/341/jason_bourne_52989.jpg",
                     "url": "https://dood.yt/d/ppl77xyg4hdf",
-                     "isHost":"true"
+                     "userAgent":"navigator"
                         },{ 
                  "name": "El corredor del laberinto (2014)",
                     "image": "https://www.elseptimoarte.net/carteles/341/el_corredor_del_laberinto_30816.jpg",
@@ -449,7 +449,7 @@
                   "name": "Expediente Warren: El caso Enfield (2016)",
                     "image": "https://www.elseptimoarte.net/carteles/341/expediente_warren_el_caso_enfield_53763.jpg",
                     "url": "https://dood.yt/d/x7hc98gdg3xj",
-                    "isHost":"true"
+                   "userAgent":"navigator"
                 },{ 
                       "name": "Expediente Warren: Obligado por el demonio (2021)",
                     "image": "https://www.elseptimoarte.net/carteles/341/expediente_warren_obligado_por_el_demonio_88107.jpg",
@@ -574,7 +574,7 @@
                 "name": "El rey león (2019)",
                     "image": "https://www.elseptimoarte.net/carteles/341/el_rey_leon_77688.jpg",
                     "url": "https://dood.so/e/kcjbu3jofgg7",
-                    "isHost":"true"
+                    "userAgent":"navigator"
                 },{
                  "name": "Crepúsculo",
                     "image": "https://www.elseptimoarte.net/carteles/341/crepusculo_57987.jpg",
@@ -1579,7 +1579,7 @@
                         "name": "El furor del dragón (1972)",
                     "image": "https://pics.filmaffinity.com/meng_long_guojiang_return_of_the_dragon-208241319-mmed.jpg",
                     "url": "https://https://dood.yt/d/z2qukgukgj27",
-                    "isHost":"true" 
+                   "userAgent":"navigator" 
                         },{ 
                      "name": "Trashin': Patinar o morir (1986)",
                     "image": "https://pics.filmaffinity.com/thrashin-340524106-mmed.jpg",
@@ -3864,7 +3864,7 @@
                       "name": "La gran evasión (1963)",
                     "image": "https://pics.filmaffinity.com/the_great_escape-691080602-mmed.jpg",
                     "url": "https://dood.so/e/dpc76969pjot",
-                    "isHost":"true" 
+                    "userAgent":"navigator"
                                                   },{
                       "name": "El crimen del padre Amaro (2002)(Latino)",
                     "image": "https://www.elseptimoarte.net/carteles/341/el_crimen_del_padre_amaro_46022.jpg",
@@ -4094,7 +4094,7 @@
                           "name": "Creed III (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/creed_iii_96670.jpg",
                     "url": "https://dood.yt/d/wj3yys1fjid4",
-                    "isHost":"true" 
+                    "userAgent":"navigator"
                          },{   
                           "name": "Air (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/air_97061.jpg",
@@ -4169,7 +4169,7 @@
                     "name": "Tori y Lokita (2022.)",
                     "image": "https://www.elseptimoarte.net/carteles/341/tori_y_lokita_95523.jpg",
                     "url": "https://dood.yt/d/ib0skf3pqbz5",
-                    "isHost":"true" 
+                   "userAgent":"navigator"
                        },{
                     "name": "Girasoles silvestres (2022)",
                     "image": "https://www.elseptimoarte.net/carteles/341/girasoles_silvestres_94406.jpg",
@@ -4404,7 +4404,7 @@
                          "name": "Antes de ti (2016)",
                     "image": "https://pics.filmaffinity.com/me_before_you-594538815-mmed.jpg",
                     "url": "https://dood.yt/d/57iai8djh7i1",
-                    "isHost":"true"
+                   "userAgent":"navigator"
                           },{ 
                          "name": "Bajo el sol de la Toscana (2003)",
                     "image": "https://www.elseptimoarte.net/carteles/341/bajo_el_sol_de_la_toscana_41181.jpg",
@@ -4424,7 +4424,7 @@
                        "name": "El secreto de Adaline (2015)",
                     "image": "https://pics.filmaffinity.com/the_age_of_adaline-258365000-mmed.jpg",
                     "url": "https://dood.yt/d/8s5a97wmie1w",
-                    "isHost":"true" 
+                    "userAgent":"navigator" 
                           },{ 
                        "name": "Titanic (1997)",
                     "image": "https://www.elseptimoarte.net/carteles/341/titanic_11797.jpg",
@@ -4559,7 +4559,7 @@
                             "name": "Uno de los nuestros (1990)",
                     "image": "https://www.elseptimoarte.net/carteles/341/uno_de_los_nuestros_85026.jpg",
                     "url": "https://dood.yt/d/o82za8rbje15",
-                    "isHost":"true"
+                    "userAgent":"navigator"
                             },{
                         "name": "Atrapado por su pasado (1993)",
                     "image": "https://www.elseptimoarte.net/carteles/341/atrapado_por_su_pasado_63093.jpg",
@@ -4889,7 +4889,7 @@
                        "name": "La bestia (2022)",
                     "image": "https://www.elseptimoarte.net/carteles/341/la_bestia_94215.jpg",
                     "url": "https://dood.so/e/sej7e9f69i86",
-                    "isHost":"true"  
+                   "userAgent":"navigator"
                          },{  
 	                "name": "As Bestas (2022)",
                     "image": "https://www.elseptimoarte.net/carteles/341/as_bestas_95335.jpg",
@@ -4974,7 +4974,7 @@
                         "name": "El apóstol (2018)",
                     "image": "https://www.elseptimoarte.net/carteles/341/apostle_72388.jpg",
                     "url": "https://dood.yt/d/g67kzll5lstx",
-                    "isHost":"true" 
+                    "userAgent":"navigator"
                         },{ 
                        "name": "Scream (2022)",
                     "image": "https://www.elseptimoarte.net/carteles/341/scream_91542.jpeg",
