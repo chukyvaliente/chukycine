@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 28-11-2023)",
+    "author": "chuky (Haz-Tu-Liada a 29-11-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                         "name": "Five Nights at Freddy's (2023)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/five_nights_at_freddys_98903.jpg",
+                   			     "url" :  "https://polimor.club/movies/five.mp4",
+			 "userAgent":"navigator"
+                         },{ 
                          "name": "Wish: El poder de los deseos (2023)TS",
                     "image": "https://www.elseptimoarte.net/carteles/341/wish_el_poder_de_los_deseos_99431.jpg",
                     "url": "https://highstream.tv/jycigtmltmp2/document_5120940380908422570.mp4.html",
