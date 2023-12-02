@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 29-11-2023)",
+    "author": "chuky (Haz-Tu-Liada a 02-12-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -5504,7 +5504,12 @@
                    "name": "El fundador (2016)",
                     "image": "https://www.elseptimoarte.net/carteles/341/el_fundador_63973.jpg",
                     "url": "https://opvid.org/w43x3mrwnoy3",
-                    "isHost":"true"         
+                    "isHost":"true"  
+                       },{
+                   "name": "Aliens, el Regreso (1986)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/aliens_39525.jpg",
+                    "url": "https://upstream.to/vysvrpz3pqav",
+                    "isHost":"true"        
                      }] 
             }]   
    }
