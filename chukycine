@@ -5524,7 +5524,17 @@
                    "name": "Hostel (2005)",
                     "image": "https://www.elseptimoarte.net/carteles/341/hostel_35794.jpg",
                     "url": "https://ok.ru/video/78712146590",
-                    "isHost":"true"          
+                    "isHost":"true"
+                       },{
+                   "name": "Reflejos en un ojo dorado (1967)",
+                    "image": "https://pics.filmaffinity.com/reflections_in_a_golden_eye-252527500-mmed.jpg",
+                    "url": "https://upstream.to/bp8f1vd0r672",
+                    "isHost":"true" 
+                      },{
+                   "name": "Los secuestros de Cleveland (2015)",
+                    "image": "https://pics.filmaffinity.com/cleveland_abduction_tv-935294483-mmed.jpg",
+                    "url": "https://opvid.org/mwwd2yaars4k",
+                    "isHost":"true"            
                      }] 
             }]   
    }
