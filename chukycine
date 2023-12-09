@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                         "name": "Dejar el mundo atrás (2023)",
+                    "image": "https://www.elseptimoarte.net/carteles/dejar_el_mundo_atras_99485.jpg",
+                   	"url" :  "https://upstream.to/cm8is92bmsxi",
+			 "isHost":"true"
+                         },{ 
                           "name": "Mi querido monstruo (2022)",
                     "image": "https://www.elseptimoarte.net/carteles/341/mi_querido_monstruo_96555.jpg",
                    	"url" :  "https://vidmoly.to/mtj7hfjz9lw2",
