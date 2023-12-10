@@ -1541,6 +1541,11 @@
             "image": "https://i.ibb.co/Tm6pTgB/Acci-n.jpg",
             "info": "",
                "stations": [{
+                            "name": "Torque: rodando al límite (2004)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/torque_rodando_al_limite_27954.jpg",
+                    "url": "https://upstream.to/lrt2eulc09wa",
+                    "isHost":"true" 
+                      },{
                            "name": "13 horas: Los soldados secretos de Bengasi (2016)",
                     "image": "https://www.elseptimoarte.net/carteles/341/13_horas_50017.jpg",
                     "url": "https://upstream.to/1zy8l5yh43kh",
@@ -2014,6 +2019,16 @@
                    "name": "El potro (2005)",
                     "image": "https://pics.filmaffinity.com/the_colt_tv-140226392-mmed.jpg",
                     "url": "https://opvid.org/ux4mmiepevr5.html",
+                    "isHost":"true"  
+                         },{
+                   "name": "Dragon, la vida de Bruce Lee (1993)",
+                    "image": "https://pics.filmaffinity.com/dragon_the_bruce_lee_story-739596862-mmed.jpg",
+                    "url": "https://upstream.to/a60mlstq18f8",
+                    "isHost":"true" 
+                          },{
+                   "name": "The Doorman (2020)",
+                    "image": "https://pics.filmaffinity.com/the_doorman-415868432-mmed.jpg",
+                    "url": "https://highstream.tv/qw4hsbkmibee/The_Doorman.mp4.html",
                     "isHost":"true"   
                             }] 
                     },{  
@@ -2329,6 +2344,21 @@
                    "name": "Yo, Robot (2004)",
                     "image": "https://www.elseptimoarte.net/carteles/341/yo_robot_79047.jpeg",
                     "url": "https://upstream.to/3wwtwtzdvk18",
+                    "isHost":"true" 
+                            },{
+                   "name": "Ultimátum a la Tierra (2008)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/ultimatum_a_la_tierra_57963.jpg",
+                    "url": "https://upstream.to/mgr48u2hs9bv",
+                    "isHost":"true" 
+                           },{
+                   "name": "Guardianes de la Galaxia Vol. 2 (2017)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/guardianes_de_la_galaxia_vol._2_64428.jpg",
+                    "url": "https://upstream.to/c397ivs3rmss",
+                    "isHost":"true"  
+                            },{
+                   "name": "Infinite (2021)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/infinite_88866.jpg",
+                    "url": "https://upstream.to/xace87srcnhh",
                     "isHost":"true" 
                          }] 
                     },{  
@@ -3105,6 +3135,36 @@
                     "image": "https://www.elseptimoarte.net/carteles/341/pidele_cuentas_al_rey_48456.jpg",
                     "url": "https://ok.ru/video/2894940670599",
                     "isHost":"true" 
+                         },{
+                   "name": "Aprende como puedas (1996)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/aprende_como_puedas_60443.jpg",
+                    "url": "https://opvid.org/eq0wi9hs3pnh",
+                    "isHost":"true"  
+                      },{
+                   "name": "¡Shazam! (2019)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/shazam_74162.jpg",
+                    "url": "https://upstream.to/kh359danhjld",
+                    "isHost":"true" 
+                        },{
+                   "name": "El lobo de Wall Street (2013)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_lobo_de_wall_street_25432.jpg",
+                    "url": "https://vidmoly.to/kkrmmukk36hi",
+                    "isHost":"true" 
+                        },{
+                   "name": "Snatch: Cerdos y diamantes (2000)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/snatch_cerdos_y_diamantes_49609.jpg",
+                    "url": "https://upstream.to/k5rizq23skse",
+                    "isHost":"true"  
+                      },{
+                   "name": "Los Simpson: La película (2007)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/los_simpson_la_pelicula_59116.jpg",
+                    "url": "https://upstream.to/rp7cikkeaqyh",
+                    "isHost":"true" 
+                        },{
+                   "name": "Bad Teacher (2011)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/bad_teacher_9789.jpg",
+                    "url": "https://highstream.tv/nnscd43qwifq/Mala_profesora_(2011)._Bad_Teacher_(2011)..mp4.html",
+                    "isHost":"true" 
                            }] 
                        },{  
             "name": "Infantil",
@@ -3485,6 +3545,21 @@
                     "image": "https://www.elseptimoarte.net/carteles/341/movida_bajo_el_mar_59582.jpg",
                     "url": "https://ok.ru/video/1738931440260",
                     "isHost":"true"
+                         },{
+                   "name": "El bebé jefazo (2017)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_bebe_jefazo_64934.jpg",
+                    "url": "https://upstream.to/vgcd5wux41tc",
+                    "isHost":"true"
+                       },{
+                   "name": "El bebé jefazo: Negocios de familia (2021)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_bebe_jefazo_negocios_de_familia_86392.jpg",
+                    "url": "https://upstream.to/mgagh8awv2ip",
+                    "isHost":"true" 
+                          },{
+                   "name": "Cómo entrenar a tu dragón 3 (2019)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/como_entrenar_a_tu_dragon_3_73750.jpg",
+                    "url": "https://upstream.to/ae8sbpec8z9s",
+                    "isHost":"true"  
                          }] 
                      },{  
             "name": "Drama",
@@ -4299,7 +4374,27 @@
                    "name": "La voluntaria (2022)",
                     "image": "https://www.elseptimoarte.net/carteles/341/la_voluntaria_92927.jpg",
                     "url": "https://upstream.to/i2gn5kusipiu",
-                    "isHost":"true"       
+                    "isHost":"true" 
+                       },{
+                   "name": "Pena de muerte (1995)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/pena_de_muerte_61579.jpg",
+                    "url": "https://ok.ru/video/2003272862269",
+                    "isHost":"true"  
+                       },{
+                   "name": "New Jack City (1991)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/new_jack_city_70234.jpeg",
+                    "url": "https://opvid.org/uj5ernha1h7d",
+                    "isHost":"true"   
+                      },{
+                   "name": "Me llaman Radio (2003)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/me_llaman_radio_38360.jpg",
+                    "url": "https://upstream.to/smmg8sagdzy4",
+                    "isHost":"true" 
+                         },{
+                   "name": "John Q. (2002)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/john_q_44612.jpg",
+                    "url": "https://ok.ru/video/415122917949",
+                    "isHost":"true"     
                           }] 
                     },{  
             "name": "Fantasía",
@@ -4420,6 +4515,16 @@
                     "image": "https://www.elseptimoarte.net/carteles/341/la_sirenita_97114.jpg",
                     "url": "https://upstream.to/vknkacenll5g",
                     "isHost":"true"
+                       },{
+                   "name": "Cool World (Una rubia entre dos mundos) (1992)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/una_rubia_entre_dos_mundos_63365.jpg",
+                    "url": "https://upstream.to/yo21aj5niok6",
+                    "isHost":"true" 
+                           },{
+                   "name": "Yo, Frankenstein (2014)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/yo,_frankenstein_26511.jpg",
+                    "url": "https://ok.ru/video/6890503146198",
+                    "isHost":"true" 
                        }] 
                      },{  
             "name": "Romance",
@@ -4589,6 +4694,16 @@
                         "name": "Maravilloso desastre (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/maravilloso_desastre_96703.jpg",
                     "url": "https://upstream.to/qqjf4wk5shfx",
+                    "isHost":"true"
+                       },{
+                   "name": "Las vueltas de la vida (2007)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/las_vueltas_de_la_vida_58947.jpg",
+                    "url": "https://highstream.tv/nr9n0diy9jsu/Ver_Las_vueltas_de_la_vida_Online_Castellano_Latino_Subtitul.mp4.html",
+                    "isHost":"true" 
+                        },{
+                   "name": "Mirada de ángel (2001)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/mirada_de_angel_48007.jpg",
+                    "url": "https://opvid.org/5xyblsamq2y2",
                     "isHost":"true"
                          }] 
                      },{  
@@ -4965,6 +5080,21 @@
                     "image": "https://www.elseptimoarte.net/carteles/341/la_sombra_del_diablo_60158.jpg",
                     "url": "https://upstream.to/pzlykqp7uzv7",
                     "isHost":"true" 
+                    },{
+                   "name": "Mine (2016)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/mine_61740.jpg",
+                    "url": "https://opvid.org/xoyr6qgrb1jh",
+                    "isHost":"true" 
+                     },{
+                   "name": "El crack (1981)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_crack_29311.jpg",
+                    "url": "https://opvid.org/n8bv990h3ltb",
+                    "isHost":"true" 
+                        },{
+                   "name": "El río de la ira (2022)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_rio_de_la_ira_95754.jpg",
+                    "url": "https://upstream.to/drplphd0mdi5",
+                    "isHost":"true" 
                       }] 
                    },{  
             "name": "Terror",
@@ -5310,6 +5440,21 @@
                     "image": "https://pics.filmaffinity.com/ringu_the_ring-816319242-mmed.jpg",
                     "url": "https://opvid.org/wm8sbhtblvis.html",
                     "isHost":"true"
+                               },{
+                   "name": "Mamá (2012)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/mama_15277.jpg",
+                    "url": "https://opvid.org/254fxcv2ae5s",
+                    "isHost":"true" 
+                          },{
+                   "name": "Háblame (2022)Latino",
+                    "image": "https://www.elseptimoarte.net/carteles/341/hablame_97828.jpg",
+                    "url": "https://upstream.to/0s0kc8kuv44a",
+                    "isHost":"true" 
+                               },{
+                   "name": "La cumbre escarlata (2015)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/la_cumbre_escarlata_41060.jpg",
+                    "url": "https://upstream.to/tii1wkb3x8bx",
+                    "isHost":"true"
                                 }] 
                        },{  
             "name": "Películas en V-O-S-E",
@@ -5354,163 +5499,19 @@
                       "name": "Silent Hill: Revelation 3D (2012) (V.O.S.E)",
                     "image": "https://www.elseptimoarte.net/carteles/341/silent_hill_revelation_3d_15218.jpg",
                     "url": "https://upstream.to/q45avd8nlvlw",
-                    "isHost":"true"          
+                    "isHost":"true" 
+                         },{
+                   "name": "El rito (2011)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_rito_7460.jpg",
+                    "url": "https://upstream.to/oftws71etebr",
+                    "isHost":"true"           
                      }] 
                   },{  
             "name": "Peticiones(Se mantendrán aqui un mes)",
             "image": "https://i.ibb.co/7WXCFKF/Peticiones.jpg",
             "info": "",
                "stations": [{  
-                   "name": "Torque: rodando al límite (2004)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/torque_rodando_al_limite_27954.jpg",
-                    "url": "https://upstream.to/lrt2eulc09wa",
-                    "isHost":"true" 
-                      },{
-                   "name": "Mine (2016)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/mine_61740.jpg",
-                    "url": "https://opvid.org/xoyr6qgrb1jh",
-                    "isHost":"true" 
-                       },{
-                   "name": "El crack (1981)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/el_crack_29311.jpg",
-                    "url": "https://opvid.org/n8bv990h3ltb",
-                    "isHost":"true"   
-                       },{
-                   "name": "Pena de muerte (1995)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/pena_de_muerte_61579.jpg",
-                    "url": "https://ok.ru/video/2003272862269",
-                    "isHost":"true" 
-                        },{
-                   "name": "New Jack City (1991)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/new_jack_city_70234.jpeg",
-                    "url": "https://opvid.org/uj5ernha1h7d",
-                    "isHost":"true"  
-                        },{
-                   "name": "Ultimátum a la Tierra (2008)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/ultimatum_a_la_tierra_57963.jpg",
-                    "url": "https://upstream.to/mgr48u2hs9bv",
-                    "isHost":"true"    
-                         },{
-                   "name": "Aprende como puedas (1996)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/aprende_como_puedas_60443.jpg",
-                    "url": "https://opvid.org/eq0wi9hs3pnh",
-                    "isHost":"true"   
-                        },{
-                   "name": "Me llaman Radio (2003)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/me_llaman_radio_38360.jpg",
-                    "url": "https://upstream.to/smmg8sagdzy4",
-                    "isHost":"true"
-                       },{
-                   "name": "El rito (2011)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/el_rito_7460.jpg",
-                    "url": "https://upstream.to/oftws71etebr",
-                    "isHost":"true"    
-                       },{
-                   "name": "El bebé jefazo (2017)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/el_bebe_jefazo_64934.jpg",
-                    "url": "https://upstream.to/vgcd5wux41tc",
-                    "isHost":"true"
-                       },{
-                   "name": "El bebé jefazo: Negocios de familia (2021)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/el_bebe_jefazo_negocios_de_familia_86392.jpg",
-                    "url": "https://upstream.to/mgagh8awv2ip",
-                    "isHost":"true"  
-                       },{
-                   "name": "El río de la ira (2022)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/el_rio_de_la_ira_95754.jpg",
-                    "url": "https://upstream.to/drplphd0mdi5",
-                    "isHost":"true"  
-                      },{
-                   "name": "Las vueltas de la vida (2007)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/las_vueltas_de_la_vida_58947.jpg",
-                    "url": "https://highstream.tv/nr9n0diy9jsu/Ver_Las_vueltas_de_la_vida_Online_Castellano_Latino_Subtitul.mp4.html",
-                    "isHost":"true" 
-                     },{
-                   "name": "¡Shazam! (2019)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/shazam_74162.jpg",
-                    "url": "https://upstream.to/kh359danhjld",
-                    "isHost":"true"   
-                      },{
-                   "name": "Cómo entrenar a tu dragón 3 (2019)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/como_entrenar_a_tu_dragon_3_73750.jpg",
-                    "url": "https://upstream.to/ae8sbpec8z9s",
-                    "isHost":"true"  
-                       },{
-                   "name": "Guardianes de la Galaxia Vol. 2 (2017)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/guardianes_de_la_galaxia_vol._2_64428.jpg",
-                    "url": "https://upstream.to/c397ivs3rmss",
-                    "isHost":"true"  
-                       },{
-                   "name": "Cool World (Una rubia entre dos mundos) (1992)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/una_rubia_entre_dos_mundos_63365.jpg",
-                    "url": "https://upstream.to/yo21aj5niok6",
-                    "isHost":"true" 
-                       },{
-                   "name": "Mamá (2012)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/mama_15277.jpg",
-                    "url": "https://opvid.org/254fxcv2ae5s",
-                    "isHost":"true"  
-                       },{
-                   "name": "Mirada de ángel (2001)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/mirada_de_angel_48007.jpg",
-                    "url": "https://opvid.org/5xyblsamq2y2",
-                    "isHost":"true"    
-                      },{
-                   "name": "El lobo de Wall Street (2013)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/el_lobo_de_wall_street_25432.jpg",
-                    "url": "https://vidmoly.to/kkrmmukk36hi",
-                    "isHost":"true"  
-                     },{
-                   "name": "Yo, Frankenstein (2014)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/yo,_frankenstein_26511.jpg",
-                    "url": "https://ok.ru/video/6890503146198",
-                    "isHost":"true"  
-                     },{
-                   "name": "Háblame (2022)Latino",
-                    "image": "https://www.elseptimoarte.net/carteles/341/hablame_97828.jpg",
-                    "url": "https://upstream.to/0s0kc8kuv44a",
-                    "isHost":"true"  
-                      },{
-                   "name": "Dragon, la vida de Bruce Lee (1993)",
-                    "image": "https://pics.filmaffinity.com/dragon_the_bruce_lee_story-739596862-mmed.jpg",
-                    "url": "https://upstream.to/a60mlstq18f8",
-                    "isHost":"true" 
-                      },{
-                   "name": "John Q. (2002)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/john_q_44612.jpg",
-                    "url": "https://ok.ru/video/415122917949",
-                    "isHost":"true"   
-                      },{
-                   "name": "Infinite (2021)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/infinite_88866.jpg",
-                    "url": "https://upstream.to/xace87srcnhh",
-                    "isHost":"true"   
-                      },{
-                   "name": "La cumbre escarlata (2015)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/la_cumbre_escarlata_41060.jpg",
-                    "url": "https://upstream.to/tii1wkb3x8bx",
-                    "isHost":"true" 
-                      },{
-                   "name": "Snatch: Cerdos y diamantes (2000)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/snatch_cerdos_y_diamantes_49609.jpg",
-                    "url": "https://upstream.to/k5rizq23skse",
-                    "isHost":"true"  
-                      },{
-                   "name": "Los Simpson: La película (2007)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/los_simpson_la_pelicula_59116.jpg",
-                    "url": "https://upstream.to/rp7cikkeaqyh",
-                    "isHost":"true"  
-                       },{
-                   "name": "Bad Teacher (2011)",
-                    "image": "https://www.elseptimoarte.net/carteles/341/bad_teacher_9789.jpg",
-                    "url": "https://highstream.tv/nnscd43qwifq/Mala_profesora_(2011)._Bad_Teacher_(2011)..mp4.html",
-                    "isHost":"true" 
-                       },{
-                   "name": "The Doorman (2020)",
-                    "image": "https://pics.filmaffinity.com/the_doorman-415868432-mmed.jpg",
-                    "url": "https://highstream.tv/qw4hsbkmibee/The_Doorman.mp4.html",
-                    "isHost":"true"  
-                    },{
+                   "name": "10-12-2023",
                    "name": "Los ojos del mal (2006)",
                     "image": "https://www.elseptimoarte.net/carteles/341/los_ojos_del_mal_59580.jpg",
                     "url": "https://ok.ru/video/2125306661623",
