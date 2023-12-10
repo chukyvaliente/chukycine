@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 09-12-2023)",
+    "author": "chuky (Haz-Tu-Liada a 10-12-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -5579,7 +5579,12 @@
                    "name": "El pianista (2002)",
                     "image": "https://www.elseptimoarte.net/carteles/341/el_pianista_11863.jpg",
                     "url": "https://upstream.to/63mzhbtk3lbc",
-                    "isHost":"true"              
+                    "isHost":"true"  
+                        },{
+                   "name": "Los asesinos de la luna (2023)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/los_asesinos_de_la_luna_99219.jpg",
+                    "url": "https://upstream.to/zjt4k53ov4kj",
+                    "isHost":"true"             
                      }] 
             }]   
    }
