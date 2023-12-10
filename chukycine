@@ -5584,7 +5584,12 @@
                    "name": "Los asesinos de la luna (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/los_asesinos_de_la_luna_99219.jpg",
                     "url": "https://upstream.to/zjt4k53ov4kj",
-                    "isHost":"true"             
+                    "isHost":"true"  
+                        },{
+                   "name": "Oro (2017)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/oro_68020.jpg",
+                    "url": "https://opvid.org/14qs811kd1tb",
+                    "isHost":"true"            
                      }] 
             }]   
    }
