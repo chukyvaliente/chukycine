@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 13-12-2023)",
+    "author": "chuky (Haz-Tu-Liada a 14-12-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -5610,7 +5610,22 @@
                    "name": "Solo en casa (1990)",
                     "image": "https://www.elseptimoarte.net/carteles/341/solo_en_casa_83689.jpg",
                     "url": "https://upstream.to/itpjtvb2v7kw",
-                    "isHost":"true"            
+                    "isHost":"true" 
+                        },{
+                   "name": "Mascotas (2016)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/mascotas_48837.jpg",
+                    "url": "https://upstream.to/bvrrth17k90p",
+                    "isHost":"true"   
+                       },{
+                   "name": "Mascotas 2 (2019)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/mascotas_2_77878.jpg",
+                    "url": "https://upstream.to/jwejastoksps",
+                    "isHost":"true" 
+                       },{
+                   "name": "La fuerza del cariño (1983)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/la_fuerza_del_carino_20612.jpg",
+                    "url": "https://opvid.org/6841uae0rwo0",
+                    "isHost":"true"              
                      }] 
             }]   
    }
