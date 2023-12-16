@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 14-12-2023)",
+    "author": "chuky (Haz-Tu-Liada a 16-12-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -5625,7 +5625,17 @@
                    "name": "La fuerza del cariño (1983)",
                     "image": "https://www.elseptimoarte.net/carteles/341/la_fuerza_del_carino_20612.jpg",
                     "url": "https://opvid.org/6841uae0rwo0",
-                    "isHost":"true"              
+                    "isHost":"true"  
+                       },{
+                   "name": "Depredador (1987)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/predator.jpg",
+                    "url": "https://upstream.to/stt64dgmqfxr",
+                    "isHost":"true"   
+                       },{
+                   "name": "Notting Hill (1999)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/notting_hill_50997.jpg",
+                    "url": "https://upstream.to/stt64dgmqfxr",
+                    "isHost":"true"                
                      }] 
             }]   
    }
