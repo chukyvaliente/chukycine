@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 16-12-2023)",
+    "author": "chuky (Haz-Tu-Liada a 18-12-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,16 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                         "name": "Campeonex (2023)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/campeonex_98393.jpg",
+                   	"url" :  "https://upstream.to/9w8zd8dpaf16",
+			 "isHost":"true"
+                         },{ 
+                          "name": "Campeonex (2023) Opción 2",
+                    "image": "https://www.elseptimoarte.net/carteles/341/campeonex_98393.jpg",
+                   	"url" :  "https://highstream.tv/uvry2gh8k3j6/3xfn7kg1r3la.mp4.html",
+			 "isHost":"true"
+                         },{ 
                          "name": "Dejar el mundo atrás (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/dejar_el_mundo_atras_99485.jpg",
                    	"url" :  "https://upstream.to/cm8is92bmsxi",
