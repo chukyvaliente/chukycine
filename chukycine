@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 18-12-2023)",
+    "author": "chuky (Haz-Tu-Liada a 19-12-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -5645,7 +5645,12 @@
                    "name": "Notting Hill (1999)",
                     "image": "https://www.elseptimoarte.net/carteles/341/notting_hill_50997.jpg",
                     "url": "https://opvid.org/mys5ezsj66zl",
-                    "isHost":"true"                
+                    "isHost":"true"    
+                        },{
+                   "name": "Flora y su hijo Max (2023)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/flora_y_su_hio_max_99284.jpg",
+                    "url": "https://upstream.to/ipsiuc6xqxfe",
+                    "isHost":"true"              
                      }] 
             }]   
    }
