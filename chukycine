@@ -1,7 +1,7 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 23-12-2023)",
-    "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
+    "author": "chuky (Haz-Tu-Liada a 25-12-2023)",
+    "image": "https://www.fotoefectos.com/images/202312/24/fotoefectos.com__final_8036397724164687287_.jpg?act=47",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
     "url": "https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine",
@@ -16,6 +16,16 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                         "name": "Rebel Moon (Parte 1): La niña del fuego (2023)",
+                    "image": "https://pics.filmaffinity.com/rebel_moon_a_child_of_fire-103203161-mmed.jpg",
+                   	"url" :  "https://upstream.to/s798v2utl99x",
+			 "isHost":"true"
+                         },{  
+                          "name": "Wonka (2023)TS- Latino",
+                    "image": "https://pics.filmaffinity.com/wonka-476523968-mmed.jpg",
+                   	"url" :  "https://upstream.to/niji9h2guo14",
+			 "isHost":"true"
+                         },{  
                          "name": "Campeonex (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/campeonex_98393.jpg",
                    	"url" :  "https://upstream.to/9w8zd8dpaf16",
@@ -116,9 +126,9 @@
                     "url": "https://upstream.to/dumpklys9ytn",
                     "isHost":"true"
                          },{
-                          "name": "Saw X (2023)Latino",
+                          "name": "Saw X (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/saw_x_98581.jpg",
-                    "url": "https://upstream.to/jp2i6uu2kjq2",
+                    "url": "https://vidmoly.to/tmk7wbgpqnwu",
                     "isHost":"true"
                          },{
                          "name": "El exorcista: Creyente (2023)Latino",
@@ -5650,7 +5660,17 @@
                    "name": "Flora y su hijo Max (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/flora_y_su_hio_max_99284.jpg",
                     "url": "https://upstream.to/ipsiuc6xqxfe",
-                    "isHost":"true"              
+                    "isHost":"true"   
+                        },{
+                   "name": "Interstellar (2014)",
+                    "image": "https://pics.filmaffinity.com/interstellar-366875261-mmed.jpg",
+                    "url": "https://upstream.to/83goir7lqsyn",
+                    "isHost":"true"    
+                        },{
+                   "name": "Alma gitana (1995)",
+                    "image": "https://pics.filmaffinity.com/alma_gitana-641936652-mmed.jpg",
+                    "url": "https://highstream.tv/2zh8zol1bg1i/Alma_Gitana.mp4.html",
+                    "isHost":"true"         
                      }] 
             }]   
    }
