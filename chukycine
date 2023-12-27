@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 26-12-2023)",
+    "author": "chuky (Haz-Tu-Liada a 27-12-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -5690,6 +5690,11 @@
                    "name": "Porky's contraataca (1985)",
                     "image": "https://pics.filmaffinity.com/porky_s_revenge_aka_porky_s_3_revenge-827770037-msmall.jpg",
                     "url": "https://ok.ru/video/1125185423933",
+                    "isHost":"true" 
+                        },{
+                   "name": "Con la poli en los talones (1990)",
+                    "image": "https://pics.filmaffinity.com/quick_change-914018185-mmed.jpg",
+                    "url": "https://ok.ru/video/4931250096822",
                     "isHost":"true"      
                      }] 
             }]   
