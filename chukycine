@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 27-12-2023)",
+    "author": "chuky (Haz-Tu-Liada a 28-12-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                         "name": "Migración. Un viaje patas arriba (2023) TS-Latino",
+                    "image": "https://www.elseptimoarte.net/carteles/341/migracion_un_viaje_patas_arriba_98443.jpg",
+                   	"url" :  "https://vidmoly.to/sf5xm45o8fop",
+			 "isHost":"true"
+                         },{  
                          "name": "Rebel Moon (Parte 1): La niña del fuego (2023)",
                     "image": "https://pics.filmaffinity.com/rebel_moon_a_child_of_fire-103203161-mmed.jpg",
                    	"url" :  "https://upstream.to/s798v2utl99x",
@@ -5700,7 +5705,12 @@
                    "name": "Historias del Kronen (1995)",
                     "image": "https://pics.filmaffinity.com/historias_del_kronen-911294290-mmed.jpg",
                     "url": "https://opvid.org/z0nd2q01cj30",
-                    "isHost":"true"     
+                    "isHost":"true"   
+                       },{
+                   "name": "Evolution (2001)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/evolution_36278.jpg",
+                    "url": "https://opvid.org/z0nd2q01cj30",
+                    "isHost":"true"   
                      }] 
             }]   
    }
