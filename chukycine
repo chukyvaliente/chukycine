@@ -1,6 +1,6 @@
 {
      "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 28-12-2023)",
+    "author": "chuky (Haz-Tu-Liada a 29-12-2023)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -5716,6 +5716,11 @@
                     "image": "https://www.elseptimoarte.net/carteles/341/wonder_woman_64930.jpg",
                     "url": "https://upstream.to/eej4kbwt90fd",
                     "isHost":"true"   
+                         },{
+                   "name": "Trainspotting (1996)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/trainspotting_8007.jpg",
+                    "url": "https://upstream.to/rz7gelzglcmt",
+                    "isHost":"true" 
                      }] 
             }]   
    }
