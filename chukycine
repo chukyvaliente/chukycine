@@ -5529,7 +5529,12 @@
                    "name": "Los odiosos ocho (2015) (V.O.S.E)",
                     "image": "https://www.elseptimoarte.net/carteles/341/los_odiosos_ocho_46759.jpg",
                     "url": "https://opvid.org/1cjx6n6l3my9",
-                    "isHost":"true"           
+                    "isHost":"true"  
+                          },{
+                    "name" : "Últimas voluntades (2023) (V.O.S.E)",
+                "image" : "https://www.elseptimoarte.net/carteles/341/ultimas_voluntades_98214.jpg",
+                "url" : "https://upstream.to/le9jvk3h45ls",	
+                "isHost" : "true" 
                      }] 
                   },{  
             "name": "Peticiones(Se mantendrán aqui un mes)",
