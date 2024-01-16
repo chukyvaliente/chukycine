@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 11-01-2024)",
+    "author": "chuky (Haz-Tu-Liada a 16-01-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                        "name": "La sociedad de la nieve (2023)Latino",
+                    "image": "https://www.elseptimoarte.net/carteles/341/la_sociedad_de_la_nieve_100005.jpg",
+                   	"url" :  "https://upstream.to/63h4t19hsvop",
+			 "isHost":"true"
+                         },{  
                          "name": "Migración. Un viaje patas arriba (2023) TS-Latino",
                     "image": "https://www.elseptimoarte.net/carteles/341/migracion_un_viaje_patas_arriba_98443.jpg",
                    	"url" :  "https://highstream.tv/iqnp1ncbdij6/VID_20240103_213812_497.mp4.html",
@@ -5741,6 +5746,11 @@
                 "image" : "https://pics.filmaffinity.com/maktub-948098714-large.jpg",
                 "url" : "https://ok.ru/videoembed/4834123123288",	
                 "isHost" : "true"
+                           },{
+                    "name" : "Últimas voluntades (2023)",
+                "image" : "https://www.elseptimoarte.net/carteles/341/ultimas_voluntades_98214.jpg",
+                "url" : "https://upstream.to/1h5j3dml2w1d",	
+                "isHost" : "true" 
                      }] 
             }]   
    }
