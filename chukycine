@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                          "name": "Los juegos del hambre: Balada de pájaros cantores y serpientes (2023) Latino-DVscreen",
+                    "image": "https://www.elseptimoarte.net/carteles/341/los_juegos_del_hambre_balada_de_pajaros_cantores_y_serpientes_99184.jpg",
+                   "url" :  "https://vidmoly.me/9j7g0koupoev",
+			 "isHost":"true"
+                          },{ 
                           "name": "Black Friday (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/black_friday_99298.jpg",
                    "url" :  "https://vidmoly.to/9hufedtt9758",
