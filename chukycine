@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 16-01-2024)",
+    "author": "chuky (Haz-Tu-Liada a 21-01-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,16 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                          "name": "Black Friday (2023)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/black_friday_99298.jpg",
+                   "url" :  "https://s29.gamovideo.com:444/fjap5r7eabnv3h2yufy532srel2kepycwkymeexgvkcoodfs3phjqce4pgea/v.mp4",
+			 "isHost":"true"
+                          },{ 
+                         "name": "Beekeeper: El protector (2024) TS-Latino",
+                    "image": "https://www.elseptimoarte.net/carteles/341/beekeeper_99567.jpg",
+                   	"url" :  "https://upstream.to/u5qd7q2jmpej",
+			 "isHost":"true"
+                         },{  
                         "name": "La sociedad de la nieve (2023)Latino",
                     "image": "https://www.elseptimoarte.net/carteles/341/la_sociedad_de_la_nieve_100005.jpg",
                    	"url" :  "https://upstream.to/63h4t19hsvop",
@@ -4913,7 +4923,7 @@
                                             },{ 
                       "name": "Todos los hombres del presidente (1976)",
                     "image": "https://www.elseptimoarte.net/carteles/341/todos_los_hombres_del_presidente_8053.jpg",
-                    "url": "https://upstream.to/6yrq0i7oqidd",
+                    "url": "https://ok.ru/video/1582822394441",
                     "isHost":"true"
                                           },{ 
                       "name": "Prison Break: Evasión final (2009)",
@@ -5756,6 +5766,26 @@
                 "image" : "https://www.elseptimoarte.net/carteles/341/ultimas_voluntades_98214.jpg",
                 "url" : "https://upstream.to/1h5j3dml2w1d",	
                 "isHost" : "true" 
+                          },{
+        "name" : "Historia de dos ciudades (1980)",
+        "image" : "https://pics.filmaffinity.com/hallmark_hall_of_fame_a_tale_of_two_cities_tv-747445932-mmed.jpg",
+        "url" : "https://filemoon.sx/d/ajlgijh03udv/Historia_dos_ciudades__1980_Pelicula_.mp4",
+        "isHost" : "true"
+                           },{
+        "name" : "Superación: La historia de la familia Antetokounmpo (2022)",
+        "image" : "https://pics.filmaffinity.com/rise-831485862-mmed.jpg",
+        "url" : "https://upstream.to/embed-acehox0yuhlx-920x360.html",
+        "isHost" : "true"  
+                       },{
+        "name" : "¡Viven! (1993)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/viven_79117.jpg",
+        "url" : "https://ok.ru/video/2650562759319",
+        "isHost" : "true"  
+                      },{
+        "name" : "Bohemian Rhapsody (2018)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/bohemian_rhapsody_71104.jpg",
+        "url" : "https://upstream.to/ngj73lw9rdop",
+        "isHost" : "true"  
                      }] 
             }]   
    }
