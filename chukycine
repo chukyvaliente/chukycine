@@ -16,9 +16,14 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
-                          "name": "Los juegos del hambre: Balada de pájaros cantores y serpientes (2023) Latino-DVscreen",
+                        "name": "Aquaman y el reino perdido (2023)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/aquaman_y_el_reino_perdido_99744.jpg",
+                   "url" :  "https://upstream.to/8im10ylv0tl7",
+			 "isHost":"true"
+                          },{ 
+                          "name": "Los juegos del hambre: Balada de pájaros cantores y serpientes (2023) Latino",
                     "image": "https://www.elseptimoarte.net/carteles/341/los_juegos_del_hambre_balada_de_pajaros_cantores_y_serpientes_99184.jpg",
-                   "url" :  "https://upstream.to/1wsccpkyu0hn",
+                   "url" :  "https://upstream.to/rb6m0plumj1g",
 			 "isHost":"true"
                           },{ 
                           "name": "Black Friday (2023)",
