@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 22-01-2024)",
+    "author": "chuky (Haz-Tu-Liada a 08-02-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -48,7 +48,7 @@
                          },{  
                           "name": "Wonka (2023)",
                     "image": "https://pics.filmaffinity.com/wonka-476523968-mmed.jpg",
-                   	"url" :  "https://upstream.to/10c930uwr8ja",
+                   	"url" :  "https://upstream.to/yl8851spp66v",
 			 "isHost":"true"
                          },{  
                          "name": "Campeonex (2023)",
@@ -3496,9 +3496,9 @@
                     "url": "https://upstream.to/3boxb2exwvgn",
                     "isHost":"true"
                                          },{ 
-                 "name": "¡Canta 2! (2021)(Latino)",
+                 "name": "¡Canta 2! (2021)",
                     "image": "https://www.elseptimoarte.net/carteles/341/canta_2_91248.jpg",
-                    "url": "https://vidoza.net/ksb4bramhny7.html",
+                    "url": "https://upstream.to/8kgmqqlrsii6",
                     "isHost":"true"
                                             },{ 
                       "name": "¡Nos volvemos a casa! (2021)",
@@ -5796,6 +5796,51 @@
         "image" : "https://www.elseptimoarte.net/carteles/341/la_telarana_de_carlota_58553.jpg",
         "url" : "https://www.tokyvideo.com/es/video/la-telarana-de-carlota-2006",
         "isHost" : "true"  
+                     },{
+        "name" : "Madagascar (2005)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/madagascar_39565.jpg",
+        "url" : "https://upstream.to/gia50m5eu1vz",
+        "isHost" : "true"
+                     },{
+        "name" : "Señales (2002)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/senales_2002_27357.jpg",
+        "url" : "https://upstream.to/pwngi6p6rhxv",
+        "isHost" : "true"
+                     },{
+        "name" : "Noche en el museo (2006)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/noche_en_el_museo_58083.jpg",
+        "url" : "https://upstream.to/o0byq7x3duyz",
+        "isHost" : "true"
+                       },{
+        "name" : "Burt Munro: Un sueño, una leyenda (2005)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/burt_munro_un_sueno_una_leyenda_37925.jpg",
+        "url" : "https://upstream.to/caor0rlkm3bs",
+        "isHost" : "true" 
+                      },{
+        "name" : "George de la jungla (1997)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/george_de_la_jungla_61208.jpg",
+        "url" : "https://ok.ru/video/2306540047102",
+        "isHost" : "true" 
+                      },{
+        "name" : "Las locas, locas aventuras de Robin Hood (1993)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/las_locas_locas_aventuras_de_robin_hood_79591.jpg",
+        "url" : "https://ok.ru/video/2655281679030",
+        "isHost" : "true" 
+                        },{
+        "name" : "El jovencito Frankenstein (1974)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/el_jovencito_frankenstein_36386.jpg",
+        "url" : "https://ok.ru/video/1481612528260",
+        "isHost" : "true" 
+                        },{
+        "name" : "Casper (1995)",
+        "image" : "https://pics.filmaffinity.com/casper-187579637-mmed.jpg",
+        "url" : "https://upstream.to/ri04mxj0oph8",
+        "isHost" : "true" 
+                      },{
+        "name" : "Están vivos (1988)",
+        "image" : "https://pics.filmaffinity.com/they_live_aka_john_carpenter_s_they_live-382338340-mmed.jpg",
+        "url" : "https://upstream.to/lriurn3gcoma",
+        "isHost" : "true" 
                      }] 
             }]   
    }
