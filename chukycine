@@ -52,12 +52,8 @@
 			 "isHost":"true"
                          },{  
                           "name": "Wonka (2023)",
-                    "image": "https://pics.filmaffinity.com/wonka-476523968-mmed.jpg",
-<<<<<<< HEAD
-                   	"url" :  "https://upstream.to/yl8851spp66v",
-=======
+                    "image": "https://pics.filmaffinity.com/wonka-476523968-mmed.jpg",         
                    	"url" :  "https://upstream.to/d031khqqvc46",
->>>>>>> dcaa6f4172ce7297350aeac25b2a1592597c6c22
 			 "isHost":"true"
                          },{  
                          "name": "Campeonex (2023)",
