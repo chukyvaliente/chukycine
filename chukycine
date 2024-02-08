@@ -16,9 +16,14 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
-                          "name": "Los juegos del hambre: Balada de pájaros cantores y serpientes (2023) Latino-DVscreen",
+                        "name": "Aquaman y el reino perdido (2023)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/aquaman_y_el_reino_perdido_99744.jpg",
+                   "url" :  "https://upstream.to/8im10ylv0tl7",
+			 "isHost":"true"
+                          },{ 
+                          "name": "Los juegos del hambre: Balada de pájaros cantores y serpientes (2023) Latino",
                     "image": "https://www.elseptimoarte.net/carteles/341/los_juegos_del_hambre_balada_de_pajaros_cantores_y_serpientes_99184.jpg",
-                   "url" :  "https://upstream.to/1wsccpkyu0hn",
+                   "url" :  "https://upstream.to/rb6m0plumj1g",
 			 "isHost":"true"
                           },{ 
                           "name": "Black Friday (2023)",
@@ -33,7 +38,7 @@
                          },{  
                         "name": "La sociedad de la nieve (2023)Latino",
                     "image": "https://www.elseptimoarte.net/carteles/341/la_sociedad_de_la_nieve_100005.jpg",
-                   	"url" :  "https://upstream.to/63h4t19hsvop",
+                   	"url" :  "https://vidoza.net/2iw4zr86d03t",
 			 "isHost":"true"
                          },{  
                          "name": "Migración. Un viaje patas arriba (2023) TS-Latino",
@@ -48,7 +53,11 @@
                          },{  
                           "name": "Wonka (2023)",
                     "image": "https://pics.filmaffinity.com/wonka-476523968-mmed.jpg",
+<<<<<<< HEAD
                    	"url" :  "https://upstream.to/yl8851spp66v",
+=======
+                   	"url" :  "https://upstream.to/d031khqqvc46",
+>>>>>>> dcaa6f4172ce7297350aeac25b2a1592597c6c22
 			 "isHost":"true"
                          },{  
                          "name": "Campeonex (2023)",
@@ -73,7 +82,7 @@
                          },{ 
                          "name": "Napoleón (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/napoleon_99361.jpg",
-                   			     "url" :  "https://upstream.to/ipub33sggivg",
+                   			     "url" :  "https://upstream.to/6snaiq5wlnnt",
 			 "isHost":"true"
                          },{ 
                          "name": "Napoleón (2023)V.O.S.E",
@@ -91,9 +100,9 @@
                    			     "url" :  "https://upstream.to/d9dujon1whl8",
 			 "userAgent":"navigator"
                          },{ 
-                         "name": "Wish: El poder de los deseos (2023)TS",
+                         "name": "Wish: El poder de los deseos (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/wish_el_poder_de_los_deseos_99431.jpg",
-                    "url": "https://highstream.tv/jycigtmltmp2/document_5120940380908422570.mp4.html",
+                    "url": "https://upstream.to/90cibuztv2zm",
                     "isHost":"true"
                          },{  
                          "name": "The Creator (2023)",
