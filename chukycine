@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 09-02-2024)",
+    "author": "chuky (Haz-Tu-Liada a 11-02-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -33,7 +33,7 @@
                           },{ 
                          "name": "Beekeeper: El protector (2024) TS-Latino",
                     "image": "https://www.elseptimoarte.net/carteles/341/beekeeper_99567.jpg",
-                   	"url" :  "https://upstream.to/u5qd7q2jmpej",
+                   	"url" :  "https://cdnwish.com/e/d2cx8zz6kzvi",
 			 "isHost":"true"
                          },{  
                         "name": "La sociedad de la nieve (2023)Latino",
@@ -118,7 +118,7 @@
                          },{ 
                          "name": "Trolls 3: Todos juntos (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/trolls_3_todos_juntos_99193.jpg",
-                    "url": "https://vidmoly.to/tp3orq3iylth",
+                    "url": "https://cdnwish.com/e/y16o8stp4z5r",
                     "isHost":"true"
                          },{ 
                          "name": "Los mercen4rios (2023)V.O.S.E",
@@ -126,9 +126,9 @@
                     "url": "https://upstream.to/6a0j84yhos9p",
                     "isHost":"true"
                          },{  
-                         "name": "Los mercen4rios (2023)Latino",
+                         "name": "Los mercen4rios (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/los_mercen4rios_98482.jpg",
-                    "url": "https://upstream.to/qz0cw6d7ae1x",
+                    "url": "https://upstream.to/3s5jyzb235fk",
                     "isHost":"true"
                          },{
                          "name": "Vacaciones de verano (2023)",
@@ -4978,7 +4978,7 @@
                         },{ 
                       "name": "El protector (2021)",
                     "image": "https://www.elseptimoarte.net/carteles/the_marksman_86695.jpg",
-                    "url": "https://upstream.to/9hrwkedsokxo",
+                    "url": "https://upstream.to/8sbvfmxe55ow",
                     "isHost":"true"
                                               },{ 
                       "name": "Joker (2019)",
@@ -5851,6 +5851,17 @@
         "image" : "https://pics.filmaffinity.com/boogie_nights-759935041-mmed.jpg",
         "url" : "https://ok.ru/video/6344643185156",
         "isHost" : "true" 
+                     },{
+        "name" : "20.000 especies de abejas (2023)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/20000_especies_de_abejas_97351.jpeg",
+        "url" : "https://upstream.to/mq96qc2cfkqo",
+        "isHost" : "true" 
+                     },{
+        "name" : "Cerrar los ojos (2023)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/cerrar_los_ojos_98474.jpg",
+        "url" : "https://cdnwish.com/e/ejhiovfxpsz8",
+        "isHost" : "true" 
+                     
                      }] 
             }]   
    }
