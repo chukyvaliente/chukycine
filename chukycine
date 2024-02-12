@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 11-02-2024)",
+    "author": "chuky (Haz-Tu-Liada a 12-02-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,7 +16,7 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
-        "name" : "20000 especies de abejas (2023)",
+        "name" : "20.000 especies de abejas (2023)",
         "image" : "https://www.elseptimoarte.net/carteles/341/20000_especies_de_abejas_97351.jpeg",
         "url" : "https://vidmoly.to/l2th01xi73ro",
         "isHost" : "true" 
@@ -5871,7 +5871,16 @@
         "image" : "https://www.elseptimoarte.net/carteles/341/cerrar_los_ojos_98474.jpg",
         "url" : "https://cdnwish.com/e/ejhiovfxpsz8",
         "isHost" : "true" 
-                     
+                     },{
+        "name" : "La ciudad de las estrellas - La La Land (2016)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/la_ciudad_de_las_estrellas_-_la_la_land_62304.jpg",
+        "url" : "https://upstream.to/o3wj0wqrsetx",
+        "isHost" : "true" 
+                     },{
+        "name" : "Session 9 (2001)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/session_9_35164.jpg",
+        "url" : "https://ok.ru/video/1072601434644",
+        "isHost" : "true" 
                      }] 
             }]   
    }
