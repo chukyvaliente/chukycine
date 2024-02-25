@@ -7,7 +7,7 @@
     "url": "https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine",
     "groups": [{
                          "name": "Lista para todo el mundo (Sin lucrarse)",
-            "image": "https://i.ibb.co/NZHzSLK/fotoefectos-com-final-8036397724164687287.jpg",
+            "image": "https://i.pinimg.com/originals/8c/43/68/8c4368a166fcde510fcd051e4d309b6b.jpg",
             "info": "",
             "stations": [{
                 }]
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                    "name" : "Bob Marley: One Love (2023)Latino-TS",
+        "image" : "https://www.elseptimoarte.net/carteles/341/bob_marley_one_love_99964.jpg",
+        "url" : "https://upstream.to/ym91wydkcycl",
+        "isHost" : "true" 
+                     },{  
         "name" : "20.000 especies de abejas (2023)",
         "image" : "https://www.elseptimoarte.net/carteles/341/20000_especies_de_abejas_97351.jpeg",
         "url" : "https://vidmoly.to/l2th01xi73ro",
@@ -5885,7 +5890,37 @@
         "name" : "It Capítulo 2 (2019)",
         "image" : "https://www.elseptimoarte.net/carteles/341/it_capitulo_2_78196.jpg",
         "url" : "https://www.tokyvideo.com/es/video/it-capitulo-ii-castellano-2019",
-        "isHost" : "true"    
+        "isHost" : "true"   
+                      },{
+        "name" : "12 años de esclavitud (2013)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/12_anos_de_esclavitud_25341.jpg",
+        "url" : "https://opvid.org/e0fahezio0rk",
+        "isHost" : "true" 
+                       },{
+        "name" : "City of Ember (En busca de la luz) (2008)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/city_of_ember_54186.jpg",
+        "url" : "https://opvid.org/aqd0i6huajfu",
+        "isHost" : "true" 
+                        },{
+        "name" : "La guerra del mañana (2021)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/la_guerra_del_manana_88676.jpg",
+        "url" : "https://opvid.org/zgqoy348m86c",
+        "isHost" : "true" 
+                         },{
+        "name" : "Adam (2019)",
+        "image" : "https://pics.filmaffinity.com/adam-681892215-mmed.jpg",
+        "url" : "https://opvid.org/u6kaud9betrk",
+        "isHost" : "true" 
+                         },{
+        "name" : "Operación Kandahar (2023)Latino",
+        "image" : "https://www.elseptimoarte.net/carteles/341/operacion_kandahar_97719.jpg",
+        "url" : "https://opvid.org/gyb6blagqxoq",
+        "isHost" : "true" 
+                         },{
+        "name" : "Tenor (2022)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/tenor_93425.jpg",
+        "url" : "https://www.tokyvideo.com/es/video/tenor-pelicula-completa-gratis-en-espanol",
+        "isHost" : "true" 
                      }] 
             }]   
    }
