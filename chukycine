@@ -36,9 +36,9 @@
                    "url" :  "https://upstream.to/8im10ylv0tl7",
 			 "isHost":"true"
                           },{ 
-                          "name": "Los juegos del hambre: Balada de pájaros cantores y serpientes (2023) Latino",
+                          "name": "Los juegos del hambre: Balada de pájaros cantores y serpientes (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/los_juegos_del_hambre_balada_de_pajaros_cantores_y_serpientes_99184.jpg",
-                   "url" :  "https://upstream.to/rb6m0plumj1g",
+                   "url" :  "https://upstream.to/cjsq35kdzrzq",
 			 "isHost":"true"
                           },{ 
                           "name": "Black Friday (2023)",
@@ -5940,6 +5940,11 @@
         "name" : "9 reinas (2000) Latino",
         "image" : "https://pics.filmaffinity.com/nueve_reinas-699348153-mmed.jpg",
         "url" : "https://upstream.to/dv44w71ffmmg",
+        "isHost" : "true" 
+                       },{
+        "name" : "El sacrificio de un ciervo sagrado  (2017)",
+        "image" : "https://pics.filmaffinity.com/the_killing_of_a_sacred_deer-798468817-mmed.jpg",
+        "url" : "http://vidmoly.me/w/97ay5xov9gv6",
         "isHost" : "true" 
                      }] 
             }]   
