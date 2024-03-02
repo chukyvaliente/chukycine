@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 27-02-2024)",
+    "author": "chuky (Haz-Tu-Liada a 02-03-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                    "name" : "El astronauta (2024)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/el_astronauta_100193.jpg",
+        "url" : "https://upstream.to/6nprf12756dd",
+        "isHost" : "true" 
+                     },{ 
                     "name" : "Bob Marley: One Love (2023)Latino-TS",
         "image" : "https://www.elseptimoarte.net/carteles/341/bob_marley_one_love_99964.jpg",
         "url" : "https://upstream.to/ym91wydkcycl",
@@ -93,7 +98,7 @@
                          },{ 
                          "name": "Napoleón (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/napoleon_99361.jpg",
-                   			     "url" :  "https://upstream.to/6snaiq5wlnnt",
+                   			     "url" :  "https://ok.ru/video/6783153146528",
 			 "isHost":"true"
                          },{ 
                          "name": "Napoleón (2023)V.O.S.E",
@@ -3878,7 +3883,7 @@
                                                },{
                     "name": "La llamada de lo salvaje (2020)",
                     "image": "https://www.elseptimoarte.net/carteles/341/la_llamada_de_lo_salvaje_81035.jpg",
-                    "url": "https://upstream.to/kymdbc4i9v3n",
+                    "url": "https://upstream.to/hstm7wq6a0dk",
                      "isHost":"true" 
                                                },{
                     "name": "Titanes, hicieron historia (2000)",
@@ -5961,6 +5966,11 @@
         "image" : "https://www.elseptimoarte.net/carteles/inner-space_25581.jpg",
         "url" : "https://upstream.to/9in79z4ol3j8",
         "isHost" : "true"
+                       },{
+        "name" : "LA PROFECÍA (1976)",
+        "image" : "http://www.elseptimoarte.net/imagenes/noticias/2029.jpg",
+        "url" : "https://upstream.to/jzbxbkqaldqg",
+        "isHost" : "true"  
                      }] 
             }]   
    }
