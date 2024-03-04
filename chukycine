@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 02-03-2024)",
+    "author": "chuky (Haz-Tu-Liada a 04-03-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -5970,7 +5970,12 @@
         "name" : "LA PROFECÍA (1976)",
         "image" : "http://www.elseptimoarte.net/imagenes/noticias/2029.jpg",
         "url" : "https://upstream.to/jzbxbkqaldqg",
-        "isHost" : "true"  
+        "isHost" : "true" 
+                        },{
+        "name" : "la batalla olvidada (2020)",
+        "image" : "https://pics.filmaffinity.com/de_slag_om_de_schelde_the_forgotten_battle-871546107-mmed.jpg",
+        "url" : "https://upstream.to/1a3p975fu6rj",
+        "isHost" : "true"   
                      }] 
             }]   
    }
