@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 05-03-2024)",
+    "author": "chuky (Haz-Tu-Liada a 06-03-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -5985,6 +5985,16 @@
         "name" : "Acusado (2023)Latino",
         "image" : "https://www.elseptimoarte.net/carteles/341/acusado_99404.jpg",
         "url" : "https://upstream.to/p7kxjs28z23a",
+        "isHost" : "true" 
+                      },{
+        "name" : "Kung Fu Panda 3 (2016)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/kung_fu_panda_3_47907.jpg",
+        "url" : "https://upstream.to/ko9v780hp0wt",
+        "isHost" : "true"  
+                       },{
+        "name" : "Cualquiera menos tú (2023)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/cualquiera_menos_tu_99754.jpg",
+        "url" : "https://vidmoly.to/z0o4pgqi8f7b",
         "isHost" : "true"  
                      }] 
             }]   
