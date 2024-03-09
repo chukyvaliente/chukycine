@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                    "name" : "Kung Fu Panda 4 (2024)TS-Latino",
+        "image" : "https://www.elseptimoarte.net/carteles/341/kung_fu_panda_4_100413.jpg",
+        "url" : "https://upstream.to/mv63hytn9dex",
+        "isHost" : "true" 
+                     },{ 
                     "name" : "El astronauta (2024)",
         "image" : "https://www.elseptimoarte.net/carteles/341/el_astronauta_100193.jpg",
         "url" : "https://upstream.to/6nprf12756dd",
