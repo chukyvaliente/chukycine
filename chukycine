@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 14-03-2024)",
+    "author": "chuky (Haz-Tu-Liada a 15-03-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -63,7 +63,7 @@
                       },{
                         "name": "Aquaman y el reino perdido (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/aquaman_y_el_reino_perdido_99744.jpg",
-                   "url" :  "https://upstream.to/8im10ylv0tl7",
+                   "url" :  "https://upstream.to/bm2f4sod86fg",
 			 "isHost":"true"
                           },{ 
                           "name": "Los juegos del hambre: Balada de pájaros cantores y serpientes (2023)",
@@ -6055,6 +6055,31 @@
         "name" : "Airbag (1997)",
         "image" : "https://www.elseptimoarte.net/carteles/341/airbag_60446.jpg",
         "url" : "https://upstream.to/5gltecrs9q3l",
+        "isHost" : "true" 
+                      },{
+        "name" : "Mentiras y gordas (2009)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/mentiras_y_gordas_54782.jpg",
+        "url" : "https://upstream.to/xk1oswry8im5",
+        "isHost" : "true" 
+                     },{
+        "name" : "El castañazo (1977)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/slap_shot_93453.jpg",
+        "url" : "https://upstream.to/jxz2kv72qbt5",
+        "isHost" : "true" 
+                     },{
+        "name" : "John Carter (2012)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/john_carter_12363.jpg",
+        "url" : "https://upstream.to/g26zmfk8pngj",
+        "isHost" : "true"
+                     },{
+        "name" : "Pelé, el nacimiento de una leyenda (2016)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/pele,_el_nacimiento_de_una_leyenda_54042.jpg",
+        "url" : "https://upstream.to/6o64yjpq7z7s",
+        "isHost" : "true" 
+                     },{
+        "name" : "Supersalidos (2007)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/supersalidos_59721.jpg",
+        "url" : "https://upstream.to/ip737elduylv",
         "isHost" : "true" 
                      }] 
             }]   
