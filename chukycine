@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 15-03-2024)",
+    "author": "chuky (Haz-Tu-Liada a 20-03-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -86,9 +86,9 @@
                    	"url" :  "https://vidoza.net/2iw4zr86d03t",
 			 "isHost":"true"
                          },{  
-                         "name": "Migración. Un viaje patas arriba (2023) TS-Latino",
+                         "name": "Migración. Un viaje patas arriba (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/migracion_un_viaje_patas_arriba_98443.jpg",
-                   	"url" :  "https://highstream.tv/iqnp1ncbdij6/VID_20240103_213812_497.mp4.html",
+                   	"url" :  "https://upstream.to/o5htqtrewjpg",
 			 "isHost":"true"
                          },{  
                          "name": "Rebel Moon (Parte 1): La niña del fuego (2023)",
@@ -6069,7 +6069,7 @@
                      },{
         "name" : "John Carter (2012)",
         "image" : "https://www.elseptimoarte.net/carteles/341/john_carter_12363.jpg",
-        "url" : "https://upstream.to/g26zmfk8pngj",
+        "url" : "https://www.tokyvideo.com/fr/video/john-carter-2",
         "isHost" : "true"
                      },{
         "name" : "Pelé, el nacimiento de una leyenda (2016)",
@@ -6080,6 +6080,11 @@
         "name" : "Supersalidos (2007)",
         "image" : "https://www.elseptimoarte.net/carteles/341/supersalidos_59721.jpg",
         "url" : "https://upstream.to/ip737elduylv",
+        "isHost" : "true" 
+                    },{
+        "name" : "Mr.Bones  (2001)",
+        "image" : "https://pics.filmaffinity.com/mr_bones-285543332-mmed.jpg",
+        "url" : "https://ok.ru/video/8348632877585",
         "isHost" : "true" 
                      }] 
             }]   
