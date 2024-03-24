@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 22-03-2024)",
+    "author": "chuky (Haz-Tu-Liada a 24-03-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                     "name" : "Miller's Girl (2024)DVDScreen-Latino",
+        "image" : "https://www.elseptimoarte.net/carteles/341/millers_girl_100063.jpg",
+        "url" : "http://vidmoly.to/be77oq5smznr",
+        "isHost" : "true"
+                     },{
                       "name" : "Alimañas (2023)",
         "image" : "https://www.elseptimoarte.net/carteles/341/alimanas_99042.jpg",
         "url" : "https://vidmoly.to/uv25nxt5lajo",
