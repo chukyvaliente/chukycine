@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                     "name" : "Ocho apellidos marroquís (2023)TS",
+        "image" : "https://www.elseptimoarte.net/carteles/341/ocho_apellidos_marroquis_96455.jpg",
+        "url" : "https://upstream.to/5lvsmk7hl4tm",
+        "isHost" : "true"
+                     },{
                      "name" : "Miller's Girl (2024)DVDScreen-Latino",
         "image" : "https://www.elseptimoarte.net/carteles/341/millers_girl_100063.jpg",
         "url" : "http://vidmoly.me/be77oq5smznr",
@@ -5610,6 +5615,11 @@
                 "image" : "https://www.elseptimoarte.net/carteles/341/ultimas_voluntades_98214.jpg",
                 "url" : "https://upstream.to/le9jvk3h45ls",	
                 "isHost" : "true" 
+                         },{
+                    "name" : "Perfect Days (2023)(V.O.S.E)",
+                "image" : "https://www.elseptimoarte.net/carteles/341/perfect_days_100093.jpg",
+                "url" : "https://upstream.to/yxq1f6mszbyh",	
+                "isHost" : "true"
                           },{
                     "name" : "Los colores del incendio (2022)(V.O.S.E)",
                 "image" : "https://www.elseptimoarte.net/carteles/341/los_colores_del_incendio_99736.jpg",
@@ -6100,6 +6110,41 @@
         "name" : "Mr.Bones  (2001)",
         "image" : "https://pics.filmaffinity.com/mr_bones-285543332-mmed.jpg",
         "url" : "https://ok.ru/video/8348632877585",
+        "isHost" : "true" 
+                    },{
+        "name" : "¡Esto es un atraco! (1987)",
+        "image" : "https://pics.filmaffinity.com/esto_es_un_atraco-500479218-mmed.jpg",
+        "url" : "https://ok.ru/video/2577566599778",
+        "isHost" : "true" 
+                     },{
+        "name" : "Sangre y oro (2023)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/sangre_y_oro_97604.jpg",
+        "url" : "https://upstream.to/ygpvduis0wnp",
+        "isHost" : "true" 
+                      },{
+        "name" : "Los cazafantasmas (1984)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/cazafantasmas.jpg",
+        "url" : "https://ok.ru/video/5039826733649",
+        "isHost" : "true" 
+                       },{
+        "name" : "La Patrulla Canina: La película (2021)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/la_patrulla_canina_88789.jpg",
+        "url" : "https://upstream.to/kqbpr7116su2",
+        "isHost" : "true" 
+                         },{
+        "name" : "Gremlins (1984)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/gremlins_68771.jpg",
+        "url" : "https://upstream.to/ueyiczld0d0i",
+        "isHost" : "true" 
+                        },{
+        "name" : "Loco por ella (2021)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/loco_por_ella_86911.jpg",
+        "url" : "https://upstream.to/fjml1xww3sh8",
+        "isHost" : "true" 
+                      },{
+        "name" : "Cazafantasmas II (1989)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/cazafantasmas_2_31279.jpg",
+        "url" : "https://upstream.to/uxeclx5elfj0",
         "isHost" : "true" 
                      }] 
             }]   
