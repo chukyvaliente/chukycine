@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 28-03-2024)",
+    "author": "chuky (Haz-Tu-Liada a 30-03-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -5609,6 +5609,11 @@
                     "name" : "Últimas voluntades (2023) (V.O.S.E)",
                 "image" : "https://www.elseptimoarte.net/carteles/341/ultimas_voluntades_98214.jpg",
                 "url" : "https://upstream.to/le9jvk3h45ls",	
+                "isHost" : "true" 
+                          },{
+                    "name" : "Los colores del incendio (2022)(V.O.S.E)",
+                "image" : "https://www.elseptimoarte.net/carteles/341/los_colores_del_incendio_99736.jpg",
+                "url" : "https://ok.ru/video/7039346346709",	
                 "isHost" : "true" 
                      }] 
                   },{  
