@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 30-03-2024)",
+    "author": "chuky (Haz-Tu-Liada a 31-03-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                        "name" : "Valle de sombras (2023)TS",
+        "image" : "https://www.elseptimoarte.net/carteles/341/valle_de_sombras_100071.jpg",
+        "url" : "http://vidmoly.me/3hwc1fwcafyb",
+        "isHost" : "true"
+                     },{
                      "name" : "Ocho apellidos marroquís (2023)TS",
         "image" : "https://www.elseptimoarte.net/carteles/341/ocho_apellidos_marroquis_96455.jpg",
         "url" : "https://upstream.to/5lvsmk7hl4tm",
@@ -6146,6 +6151,11 @@
         "image" : "https://www.elseptimoarte.net/carteles/341/cazafantasmas_2_31279.jpg",
         "url" : "https://upstream.to/uxeclx5elfj0",
         "isHost" : "true" 
+                      },{
+        "name" : "Bitelchús (1988)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/bitelchus_36490.jpg",
+        "url" : "https://upstream.to/2xea7dx25klh",
+        "isHost" : "true"  
                      }] 
             }]   
    }
