@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 01-04-2024)",
+    "author": "chuky (Haz-Tu-Liada a 02-04-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                     "name" : "Dune: Parte dos (2024)TS-Latino",
+        "image" : "https://www.elseptimoarte.net/carteles/341/dune_parte_dos_100272.jpg",
+        "url" : "https://vidmoly.me/pdm85aq8m3sx",
+        "isHost" : "true"
+                     },{
                         "name" : "Valle de sombras (2023)TS",
         "image" : "https://www.elseptimoarte.net/carteles/341/valle_de_sombras_100071.jpg",
         "url" : "http://vidmoly.me/3hwc1fwcafyb",
@@ -6155,7 +6160,12 @@
         "name" : "Bitelchús (1988)",
         "image" : "https://www.elseptimoarte.net/carteles/341/bitelchus_36490.jpg",
         "url" : "https://upstream.to/2xea7dx25klh",
-        "isHost" : "true"  
+        "isHost" : "true" 
+                       },{
+        "name" : "28 semanas después (2007)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/28_semanas_despues_59079.jpg",
+        "url" : "https://upstream.to/52kis5allr5a",
+        "isHost" : "true"   
                      }] 
             }]   
    }
