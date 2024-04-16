@@ -4504,7 +4504,12 @@
                    "name": "John Q. (2002)",
                     "image": "https://www.elseptimoarte.net/carteles/341/john_q_44612.jpg",
                     "url": "https://ok.ru/video/415122917949",
-                    "isHost":"true"     
+                    "isHost":"true" 
+                         },{
+        "name" : "Los chicos del coro (2004)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/los_chicos_del_coro_28840.jpg",
+        "url" : "https://upstream.to/n4xgqumptozv",
+        "isHost" : "true"     
                           }] 
                     },{  
             "name": "Fantasía",
@@ -6165,12 +6170,7 @@
         "name" : "28 semanas después (2007)",
         "image" : "https://www.elseptimoarte.net/carteles/341/28_semanas_despues_59079.jpg",
         "url" : "https://upstream.to/52kis5allr5a",
-        "isHost" : "true"  
-                      },{
-        "name" : "Los chicos del coro (2004)",
-        "image" : "https://www.elseptimoarte.net/carteles/341/los_chicos_del_coro_28840.jpg",
-        "url" : "https://upstream.to/n4xgqumptozv",
-        "isHost" : "true"   
+        "isHost" : "true"    
                      }] 
             }]   
    }
