@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 21-04-2024)",
+    "author": "chuky (Haz-Tu-Liada a 22-04-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,7 +16,12 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
-                     "name" : "Dune: Parte dos (2024)TS-Latino",
+                     "name" : "La zona de interés (2023)Latino",
+        "image" : "https://www.elseptimoarte.net/carteles/341/la_zona_de_interes_99604.jpg",
+        "url" : "https://vidmoly.me/q8fi9oa66lm5",
+        "isHost" : "true"
+                     },{
+                     "name" : "Dune: Parte dos (2024)",
         "image" : "https://www.elseptimoarte.net/carteles/341/dune_parte_dos_100272.jpg",
         "url" : "https://upstream.to/o2drt2pwizbl",
         "isHost" : "true"
@@ -6170,6 +6175,31 @@
         "name" : "28 semanas después (2007)",
         "image" : "https://www.elseptimoarte.net/carteles/341/28_semanas_despues_59079.jpg",
         "url" : "https://upstream.to/52kis5allr5a",
+        "isHost" : "true"   
+                        },{
+        "name" : "Guardianes de la Galaxia (2014)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/guardianes_de_la_galaxia_29824.jpg",
+        "url" : "https://upstream.to/jk9walwrqnbg",
+        "isHost" : "true"  
+                        },{
+        "name" : "Los lunes al sol (2002)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/los_lunes_al_sol_37156.jpg",
+        "url" : "https://ok.ru/video/6970470238860",
+        "isHost" : "true"   
+                        },{
+        "name" : "El Mago de OZ (1939)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/el_mago_de_oz.jpg",
+        "url" : "https://upstream.to/z1f9tszfgdpo",
+        "isHost" : "true"   
+                       },{
+        "name" : "Daniel el travieso (1993)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/daniel_el_travieso_63163.jpg",
+        "url" : "https://ok.ru/video/1402516343357",
+        "isHost" : "true"    
+                       },{
+        "name" : "Los mundos de Coraline (2009)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/los_mundos_de_coraline_55232.jpg",
+        "url" : "https://upstream.to/pnco90elybxr",
         "isHost" : "true"    
                      }] 
             }]   
