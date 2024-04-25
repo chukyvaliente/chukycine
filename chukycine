@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 22-04-2024)",
+    "author": "chuky (Haz-Tu-Liada a 25-04-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -15,7 +15,7 @@
             "name": "Estrenos de Cine",
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
-               "stations": [{
+               "stations": [{ 
                      "name" : "La zona de interés (2023)Latino",
         "image" : "https://www.elseptimoarte.net/carteles/341/la_zona_de_interes_99604.jpg",
         "url" : "https://vidmoly.me/q8fi9oa66lm5",
@@ -6200,7 +6200,12 @@
         "name" : "Los mundos de Coraline (2009)",
         "image" : "https://www.elseptimoarte.net/carteles/341/los_mundos_de_coraline_55232.jpg",
         "url" : "https://upstream.to/pnco90elybxr",
-        "isHost" : "true"    
+        "isHost" : "true"  
+                      },{
+        "name" : "Project X (2012)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/project_x_13853.jpg",
+        "url" : "https://upstream.to/vy4h7o5j1w4a",
+        "isHost" : "true"   
                      }] 
             }]   
    }
