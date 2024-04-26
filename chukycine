@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 25-04-2024)",
+    "author": "chuky (Haz-Tu-Liada a 26-04-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{ 
+                    "name" : "Milady. Los tres mosqueteros (2023)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/milady_los_tres_mosqueteros_100069.jpg",
+        "url" : "https://clipwatching.com/ovd8isfhor48/Los_tres_mosqueteros._Milady_(2023)_.mp4.html",
+        "isHost" : "true"
+                     },{
                      "name" : "La zona de interés (2023)Latino",
         "image" : "https://www.elseptimoarte.net/carteles/341/la_zona_de_interes_99604.jpg",
         "url" : "https://vidmoly.me/q8fi9oa66lm5",
