@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 26-04-2024)",
+    "author": "chuky (Haz-Tu-Liada a 03-05-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -66,9 +66,9 @@
         "url" : "https://vidmoly.me/svja4hnq0swi",
         "isHost" : "true" 
                      },{ 
-                    "name" : "Kung Fu Panda 4 (2024)TS-Latino",
+                    "name" : "Kung Fu Panda 4 (2024)Latino",
         "image" : "https://www.elseptimoarte.net/carteles/341/kung_fu_panda_4_100413.jpg",
-        "url" : "https://upstream.to/mv63hytn9dex",
+        "url" : "https://upstream.to/nzswl9cy1ukd",
         "isHost" : "true" 
                      },{ 
                     "name" : "El astronauta (2024)",
@@ -76,9 +76,9 @@
         "url" : "https://upstream.to/6nprf12756dd",
         "isHost" : "true" 
                      },{ 
-                    "name" : "Bob Marley: One Love (2023)Latino-TS",
+                    "name" : "Bob Marley: One Love (2023)",
         "image" : "https://www.elseptimoarte.net/carteles/341/bob_marley_one_love_99964.jpg",
-        "url" : "https://upstream.to/ym91wydkcycl",
+        "url" : "https://upstream.to/6q17xqyk9tnk",
         "isHost" : "true" 
                      },{  
         "name" : "20.000 especies de abejas (2023)",
@@ -106,9 +106,9 @@
                    "url" :  "https://vidmoly.to/9hufedtt9758",
 			 "isHost":"true"
                           },{ 
-                         "name": "Beekeeper: El protector (2024)Latino",
+                         "name": "Beekeeper: El protector (2024)",
                     "image": "https://www.elseptimoarte.net/carteles/341/beekeeper_99567.jpg",
-                   	"url" :  "https://cdnwish.com/e/d2cx8zz6kzvi",
+                   	"url" :  "https://upstream.to/64yqadueho2o",
 			 "isHost":"true"
                          },{  
                         "name": "La sociedad de la nieve (2023)Latino",
@@ -154,11 +154,6 @@
                          "name": "Napoleón (2023)",
                     "image": "https://www.elseptimoarte.net/carteles/341/napoleon_99361.jpg",
                    			     "url" :  "https://ok.ru/video/6783153146528",
-			 "isHost":"true"
-                         },{ 
-                         "name": "Napoleón (2023)V.O.S.E",
-                    "image": "https://www.elseptimoarte.net/carteles/341/napoleon_99361.jpg",
-                   			     "url" :  "https://upstream.to/8svrc2kf4mbd",
 			 "isHost":"true"
                          },{ 
                           "name": "The Offering (2023)",
@@ -5590,6 +5585,11 @@
                     "image": "https://www.elseptimoarte.net/carteles/341/el_rito_7460.jpg",
                     "url": "https://upstream.to/oftws71etebr",
                     "isHost":"true"
+                             },{ 
+                         "name": "Napoleón (2023)V.O.S.E",
+                    "image": "https://www.elseptimoarte.net/carteles/341/napoleon_99361.jpg",
+                      "url" :  "https://upstream.to/8svrc2kf4mbd",
+			 "isHost":"true"
                                 }] 
                        },{  
             "name": "Películas en V-O-S-E",
