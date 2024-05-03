@@ -6220,7 +6220,17 @@
         "name" : "Los tres mosqueteros: D'Artagnan (2023)",
         "image" : "https://www.elseptimoarte.net/carteles/341/los_tres_mosqueteros_dartagnan_95963.jpg",
         "url" : "https://upstream.to/dwyv9cc8oot3",
-        "isHost" : "true"   
+        "isHost" : "true" 
+                       },{
+        "name" : "La dama y el vagabundo (1955)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/la_dama_y_el_vagabundo_30999.jpg",
+        "url" : "https://upstream.to/xz2tdk4u06mi",
+        "isHost" : "true"  
+                      },{
+        "name" : "La dama y el vagabundo (2019)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/lady_and_the_tramp_78701.jpg",
+        "url" : "https://upstream.to/45ixg3007pp3",
+        "isHost" : "true"     
                      }] 
             }]   
    }
