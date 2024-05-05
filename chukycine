@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 03-05-2024)",
+    "author": "chuky (Haz-Tu-Liada a 05-05-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -6230,6 +6230,11 @@
         "name" : "La dama y el vagabundo (2019)",
         "image" : "https://www.elseptimoarte.net/carteles/341/lady_and_the_tramp_78701.jpg",
         "url" : "https://upstream.to/45ixg3007pp3",
+        "isHost" : "true" 
+                      },{
+        "name" : "Nimona (2023)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/nimona_98047.jpg",
+        "url" : "https://upstream.to/5hs3ehbzvq6i",
         "isHost" : "true"     
                      }] 
             }]   
