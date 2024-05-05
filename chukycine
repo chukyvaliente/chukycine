@@ -6235,6 +6235,11 @@
         "name" : "Nimona (2023)",
         "image" : "https://www.elseptimoarte.net/carteles/341/nimona_98047.jpg",
         "url" : "https://upstream.to/5hs3ehbzvq6i",
+        "isHost" : "true"   
+                       },{
+        "name" : "Mamma Mia! La película (2008)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/mamma_mia_57317.jpg",
+        "url" : "https://upstream.to/o9obci58d89m",
         "isHost" : "true"     
                      }] 
             }]   
