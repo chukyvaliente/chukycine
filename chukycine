@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 05-05-2024)",
+    "author": "chuky (Haz-Tu-Liada a 06-05-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -2753,7 +2753,7 @@
                                              },{
                       "name": "American Pie: El reencuentro (2012)",
                     "image": "https://www.elseptimoarte.net/carteles/341/american_pie_el_reencuentro_12527.jpg",
-                    "url": "https://cloudvideo.tv/embed-0h3oqyh9ais2-694x540.html",
+                    "url": "https://upstream.to/g7icjzkhht33",
                     "isHost":"true" 
                                                },{
                       "name": "Kiki, el amor se hace (2016)",
@@ -6240,7 +6240,37 @@
         "name" : "Mamma Mia! La película (2008)",
         "image" : "https://www.elseptimoarte.net/carteles/341/mamma_mia_57317.jpg",
         "url" : "https://upstream.to/o9obci58d89m",
-        "isHost" : "true"     
+        "isHost" : "true" 
+                      },{
+        "name" : "Fuga de cerebros (2009)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/fuga_de_cerebros_55026.jpg",
+        "url" : "https://ok.ru/video/47452326508",
+        "isHost" : "true"  
+                     },{
+        "name" : "Fuga de cerebros 2. Ahora en Harvard (2011)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/fuga_de_cerebros_2_11253.jpg",
+        "url" : "https://ok.ru/video/1123451537981",
+        "isHost" : "true"   
+                      },{
+        "name" : "El sótano prohibido (1989)",
+        "image" : "https://pics.filmaffinity.com/the_cellar-472503919-mmed.jpg",
+        "url" : "https://upstream.to/qm6xcdfajnrk",
+        "isHost" : "true" 
+                        },{
+        "name" : "Atrapado en el tiempo (1993)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/atrapado_en_el_tiempo_79095.jpg",
+        "url" : "https://upstream.to/9652uyxu78x4",
+        "isHost" : "true"   
+                       },{
+        "name" : "El árbol de la sangre (2018)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/el_arbol_de_la_sangre_73242.jpg",
+        "url" : "https://ok.ru/video/1541347936931",
+        "isHost" : "true"    
+                       },{
+        "name" : "Chinas (2023)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/chinas_98829.jpg",
+        "url" : "https://upstream.to/di88inwi0t6e",
+        "isHost" : "true"      
                      }] 
             }]   
    }
