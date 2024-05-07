@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 06-05-2024)",
+    "author": "chuky (Haz-Tu-Liada a 07-05-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -15,7 +15,7 @@
             "name": "Estrenos de Cine",
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
-               "stations": [{ 
+               "stations": [{   
                     "name" : "Milady. Los tres mosqueteros (2023)",
         "image" : "https://www.elseptimoarte.net/carteles/341/milady_los_tres_mosqueteros_100069.jpg",
         "url" : "https://clipwatching.com/ovd8isfhor48/Los_tres_mosqueteros._Milady_(2023)_.mp4.html",
@@ -6270,7 +6270,12 @@
         "name" : "Chinas (2023)",
         "image" : "https://www.elseptimoarte.net/carteles/341/chinas_98829.jpg",
         "url" : "https://upstream.to/di88inwi0t6e",
-        "isHost" : "true"      
+        "isHost" : "true"  
+                      },{
+        "name" : "Thirteen (2003)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/thirteen_41003.jpg",
+        "url" : "https://ok.ru/video/2150184454773",
+        "isHost" : "true"    
                      }] 
             }]   
    }
