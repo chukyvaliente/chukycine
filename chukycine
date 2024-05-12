@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 07-05-2024)",
+    "author": "chuky (Haz-Tu-Liada a 12-05-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -15,7 +15,17 @@
             "name": "Estrenos de Cine",
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
-               "stations": [{   
+               "stations": [{
+                  "name" : "Garfield: La película (2024) Latino",
+        "image" : "https://www.elseptimoarte.net/carteles/341/cazafantasmas_imperio_helado_100790.jpg",
+        "url" : "https://clipwatching.com/z8ptm0mh69ra/Garfield.2.1080p.Latino.1WIN.mkv.html",
+        "isHost" : "true" 
+                   },{   
+        "name" : "Cazafantasmas: Imperio helado (2024)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/cazafantasmas_imperio_helado_100790.jpg",
+        "url" : "https://upstream.to/79pnp7btyy5l",
+        "isHost" : "true" 
+                   },{   
                     "name" : "Milady. Los tres mosqueteros (2023)",
         "image" : "https://www.elseptimoarte.net/carteles/341/milady_los_tres_mosqueteros_100069.jpg",
         "url" : "https://clipwatching.com/ovd8isfhor48/Los_tres_mosqueteros._Milady_(2023)_.mp4.html",
@@ -6275,7 +6285,27 @@
         "name" : "Thirteen (2003)",
         "image" : "https://www.elseptimoarte.net/carteles/341/thirteen_41003.jpg",
         "url" : "https://ok.ru/video/2150184454773",
+        "isHost" : "true" 
+                      },{
+        "name" : "El príncipe de Egipto (1998)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/el_principe_de_egipto_53693.jpg",
+        "url" : "https://upstream.to/09k2idp8xgcl",
         "isHost" : "true"    
+                     },{
+        "name" : "Es peligroso casarse a los 60  (1980)",
+        "image" : "https://pics.filmaffinity.com/es_peligroso_casarse_a_los_60-945235457-mmed.jpg",
+        "url" : "https://upstream.to/3xuii4cjnxpk",
+        "isHost" : "true"   
+                     },{
+        "name" : "Kina & Yuk (2023)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/kina_y_yuk_100061.jpg",
+        "url" : "https://upstream.to/minf33z7ywnf",
+        "isHost" : "true"  
+                     },{
+        "name" : "Un extraño en mi vida (1960)",
+        "image" : "https://pics.filmaffinity.com/strangers_when_we_meet-109545139-mmed.jpg",
+        "url" : "https://ok.ru/video/1631207099034",
+        "isHost" : "true"  
                      }] 
             }]   
    }
