@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 14-05-2024)",
+    "author": "chuky (Haz-Tu-Liada a 21-05-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                  "name" : "El reino del planeta de los simios (2024) Latino TS",
+        "image" : "https://www.elseptimoarte.net/carteles/341/el_reino_del_planeta_de_los_simios_101218.jpg",
+        "url" : "https://vidmoly.me/w/28067cl8p0uf",
+        "isHost" : "true" 
+                   },{     
                   "name" : "Garfield: La película (2024) Latino",
         "image" : "https://www.elseptimoarte.net/carteles/341/garfield_la_pelicula_100953.jpg",
         "url" : "https://clipwatching.com/z8ptm0mh69ra/Garfield.2.1080p.Latino.1WIN.mkv.html",
@@ -6310,7 +6315,62 @@
         "name" : "Caballero del diablo (1995)",
         "image" : "https://www.elseptimoarte.net/carteles/341/caballero_del_diablo_77278.jpg",
         "url" : "https://upstream.to/2duj27bm3hll",
+        "isHost" : "true" 
+                       },{
+        "name" : "Ratas a la carrera (2001)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/ratas_a_la_carrera_36309.jpg",
+        "url" : "https://upstream.to/mh0ywl4bc2wc",
         "isHost" : "true"  
+                      },{
+        "name" : "Los inmortales (1986)",
+        "image" : "https://www.elseptimoarte.net/carteles/los_inmortales.jpg",
+        "url" : "https://upstream.to/fxe24frag8iz",
+        "isHost" : "true"   
+                       },{
+        "name" : "Hoosiers: más que ídolos (1986)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/hoosiers_74530.jpg",
+        "url" : "https://ok.ru/video/3515377322678",
+        "isHost" : "true"  
+                       },{
+        "name" : "Los insaciables (1963)",
+        "image" : "https://pics.filmaffinity.com/the_carpetbaggers-380826848-mmed.jpg",
+        "url" : "https://ok.ru/video/198776916561",
+        "isHost" : "true"   
+                        },{
+        "name" : "La zona de interés (2023)",
+        "image" : "https://pics.filmaffinity.com/the_zone_of_interest-642266949-mmed.jpg",
+        "url" : "https://upstream.to/ajag13mmq2oi",
+        "isHost" : "true" 
+                        },{
+        "name" : "El diablo sobre ruedas (1971)",
+        "image" : "https://pics.filmaffinity.com/duel-899280615-mmed.jpg",
+        "url" : "https://upstream.to/nwqd1ygqzt45",
+        "isHost" : "true"  
+                        },{
+        "name" : "La trenza (2023)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/la_trenza_100023.jpeg",
+        "url" : "https://upstream.to/sik0p904wf7g",
+        "isHost" : "true"   
+                         },{
+        "name" : "El sótano prohibido (1989)",
+        "image" : "https://pics.filmaffinity.com/the_cellar-472503919-mmed.jpg",
+        "url" : "https://ok.ru/video/1380141501026",
+        "isHost" : "true"   
+                        },{
+        "name" : "30 días de oscuridad (2007)",
+        "image" : "https://pics.filmaffinity.com/30_days_of_night-647855523-mmed.jpg",
+        "url" : "https://ok.ru/video/1588329581310",
+        "isHost" : "true"    
+                      },{
+        "name" : "El único superviviente (2013)",
+        "image" : "https://pics.filmaffinity.com/lone_survivor-758993165-mmed.jpg",
+        "url" : "https://upstream.to/2o3l7pyt18vw",
+        "isHost" : "true"  
+                      },{
+        "name" : "Mentes peligrosas (1995)",
+        "image" : "https://pics.filmaffinity.com/dangerous_minds-256860191-mmed.jpg",
+        "url" : "https://ok.ru/video/1193512274493",
+        "isHost" : "true"                 
                      }] 
             }]   
    }
