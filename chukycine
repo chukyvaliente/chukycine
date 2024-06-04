@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 01-06-2024)",
+    "author": "chuky (Haz-Tu-Liada a 04-06-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,9 +16,9 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
-                  "name" : "El reino del planeta de los simios (2024) Latino TS",
+                  "name" : "El reino del planeta de los simios (2024) Latino",
         "image" : "https://www.elseptimoarte.net/carteles/341/el_reino_del_planeta_de_los_simios_101218.jpg",
-        "url" : "https://vidmoly.me/w/28067cl8p0uf",
+        "url" : "https://highstream.tv/vrd078soq3fa/TU9O.mp4.html",
         "isHost" : "true" 
                    },{     
                   "name" : "Garfield: La película (2024) Latino",
@@ -614,6 +614,51 @@
                       "name": "El padrino: Parte III (1990)",
                     "image": "https://www.elseptimoarte.net/carteles/341/el_padrino_parte_iii_83410.jpg",
                     "url": "https://upstream.to/lqt9yoq1rvwb",
+                    "isHost":"true"
+                          },{ 
+                      "name": "El planeta de los simios (1968)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_planeta_de_los_simios_11912.jpg",
+                    "url": "https://upstream.to/r0nuhhg3vkfs",
+                    "isHost":"true"
+                          },{ 
+                      "name": "Regreso al planeta de los simios (1970)",
+                    "image": "https://pics.filmaffinity.com/beneath_the_planet_of_the_apes-462476869-mmed.jpg",
+                    "url": "https://ok.ru/video/2406660705010",
+                    "isHost":"true"
+                         },{ 
+                      "name": "Huida del planeta de los simios (1971)",
+                    "image": "https://pics.filmaffinity.com/escape_from_the_planet_of_the_apes-909779781-mmed.jpg",
+                    "url": "https://upstream.to/tvplyhw3urnr",
+                    "isHost":"true"
+                         },{ 
+                      "name": "La rebelión de los simios (1972)",
+                    "image": "https://pics.filmaffinity.com/conquest_of_the_planet_of_the_apes-829196980-mmed.jpg",
+                    "url": "https://ok.ru/video/1001869150880",
+                    "isHost":"true" 
+                         },{ 
+                      "name": "La conquista del planeta de los simios (1973)",
+                    "image": "https://pics.filmaffinity.com/battle_for_the_planet_of_the_apes-180687916-mmed.jpg",
+                    "url": "https://upstream.to/15ls2cbhlwrr",
+                    "isHost":"true"
+                        },{ 
+                      "name": "El origen del planeta de los simios (2011)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_origen_del_planeta_de_los_simios_10490.jpg",
+                    "url": "https://upstream.to/6oclxr6w6t1d",
+                    "isHost":"true"
+                       },{ 
+                      "name": "El amanecer del planeta de los simios (2014)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_amanecer_del_planeta_de_los_simios_29562.jpg",
+                    "url": "https://upstream.to/o59at0k5cj5j",
+                    "isHost":"true"
+                       },{ 
+                      "name": "La guerra del planeta de los simios (2017)",
+                    "image": "https://www.elseptimoarte.net/carteles/341/la_guerra_del_planeta_de_los_simios_66189.jpg",
+                    "url": "https://upstream.to/9jadc25r49g0",
+                    "isHost":"true"
+                       },{ 
+                      "name": "El reino del planeta de los simios (2024) Latino",
+                    "image": "https://www.elseptimoarte.net/carteles/341/el_reino_del_planeta_de_los_simios_101218.jpg",
+                    "url": "https://highstream.tv/vrd078soq3fa/TU9O.mp4.html",
                     "isHost":"true"
                  },{ 
                  "name": "Expediente Warren: The Conjuring (2013)",
@@ -5734,7 +5779,7 @@
                                         },{  
                   "name": "Sin tiempo para morir (2021)",
                     "image": "https://www.elseptimoarte.net/carteles/341/sin_tiempo_para_morir_90404.jpg",
-                    "url": "https://upstream.to/1l54mbxbxuje",
+                    "url": "https://upstream.to/cpdijhozpbft",
                     "isHost":"true"
                         },{ 
                         "name": "Desaparecida sin rastro (2022)",
@@ -6381,6 +6426,16 @@
         "name" : "Grease (1978)",
         "image" : "https://www.elseptimoarte.net/carteles/341/grease_brillantina_36408.jpg",
         "url" : "https://upstream.to/4d0tqjfpeiut",
+        "isHost" : "true"  
+                        },{
+        "name" : "Perdidos en la noche (2023) Latino",
+        "image" : "https://pics.filmaffinity.com/perdidos_en_la_noche-869918798-mmed.jpg",
+        "url" : "https://filemoon.sx/d/h9c6uwnnbd5g/perdidos_en_la_noche.mp4",
+        "isHost" : "true"  
+                        },{
+        "name" : "El rapto (2023)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/el_rapto_99270.jpg",
+        "url" : "https://upstream.to/1cy3ja951nsy",
         "isHost" : "true"  
                      }] 
             }]   
