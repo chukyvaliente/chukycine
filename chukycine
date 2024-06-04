@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                       "name" : "Godzilla y Kong: El nuevo imperio (2024)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/godzilla_y_kong_el_nuevo_imperio_100479.jpg",
+        "url" : "https://upstream.to/ayt2u5vxy3wm",
+        "isHost" : "true" 
+                   },{     
                   "name" : "El reino del planeta de los simios (2024) Latino",
         "image" : "https://www.elseptimoarte.net/carteles/341/el_reino_del_planeta_de_los_simios_101218.jpg",
         "url" : "https://highstream.tv/vrd078soq3fa/TU9O.mp4.html",
@@ -6437,6 +6442,56 @@
         "image" : "https://www.elseptimoarte.net/carteles/341/el_rapto_99270.jpg",
         "url" : "https://upstream.to/1cy3ja951nsy",
         "isHost" : "true"  
+                       },{
+        "name" : "El juego de Gerald (2017)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/geralds_game_67220.jpg",
+        "url" : "https://upstream.to/9iy2jamqh7th",
+        "isHost" : "true"  
+                        },{
+        "name" : "El código Da Vinci (2006)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/the_da_vinci_code_15569.jpg",
+        "url" : "https://upstream.to/iycp34eiq7tj",
+        "isHost" : "true"  
+                         },{
+        "name" : "Ángeles y demonios (2009)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/angeles_y_demonios_55143.jpg",
+        "url" : "https://upstream.to/k3o6plbwvad7",
+        "isHost" : "true"  
+                       },{
+        "name" : "Ong-Bak: El guerrero Muay Thai (2003)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/ong_bak_42513.jpg",
+        "url" : "https://upstream.to/ip5dxkzz304f",
+        "isHost" : "true"  
+                    },{
+        "name" : "Temblores (1990)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/temblores_84161.jpg",
+        "url" : "https://ok.ru/video/1659224066814",
+        "isHost" : "true"  
+                   },{
+        "name" : "21: Blackjack (2008)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/21_56750.jpg",
+        "url" : "https://upstream.to/o3sp85wgadlk",
+        "isHost" : "true" 
+                  },{
+        "name" : "Next (2007)",
+        "image" : "https://pics.filmaffinity.com/next-247262667-mmed.jpg",
+        "url" : "https://upstream.to/suwg2oe8xjwp",
+        "isHost" : "true" 
+                   },{
+        "name" : "Atrápame si puedes (2002)",
+        "image" : "https://pics.filmaffinity.com/catch_me_if_you_can-348431648-mmed.jpg",
+        "url" : "https://upstream.to/djjaj2r7hoj0",
+        "isHost" : "true" 
+                },{
+        "name" : "Atrápame si puedes (1993)",
+        "image" : "https://pics.filmaffinity.com/catch_me_if_you_can-348431648-mmed.jpg",
+        "url" : "https://upstream.to/djjaj2r7hoj0",
+        "isHost" : "true" 
+                         },{
+        "name" : "El currante (1983)",
+        "image" : "https://pics.filmaffinity.com/el_currante-368900623-mmed.jpg",
+        "url" : "https://ok.ru/video/6526184262279",
+        "isHost" : "true" 
                      }] 
             }]   
    }
