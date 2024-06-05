@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 04-06-2024)",
+    "author": "chuky (Haz-Tu-Liada a 05-06-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,21 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                 "name" : "La primera profecía  (2024) ",
+        "image" : "https://pics.filmaffinity.com/the_first_omen-372679118-mmed.jpg",
+        "url" : "https://filemoon.sx/d/t1d0b2cnhyyf",
+        "isHost" : "true" 
+                   },{     
+                  "name" : "Tarot (2024) ",
+        "image" : "https://pics.filmaffinity.com/tarot-256287294-mmed.jpg",
+        "url" : "https://filemoon.sx/d/d3wkx8r1m9ps",
+        "isHost" : "true" 
+                   },{     
+                   "name" : "Furiosa: De la saga Mad Max (2024) DVDScreen Latino",
+        "image" : "https://www.elseptimoarte.net/carteles/341/furiosa_de_la_saga_mad_max_101185.jpg",
+        "url" : "https://filemoon.sx/d/c2q5y36l3asr",
+        "isHost" : "true" 
+                   },{     
                        "name" : "Godzilla y Kong: El nuevo imperio (2024)",
         "image" : "https://www.elseptimoarte.net/carteles/341/godzilla_y_kong_el_nuevo_imperio_100479.jpg",
         "url" : "https://upstream.to/ayt2u5vxy3wm",
