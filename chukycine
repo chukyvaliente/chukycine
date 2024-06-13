@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 11-06-2024)",
+    "author": "chuky (Haz-Tu-Liada a 13-06-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,16 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                          "name" : "Misterios de los guerreros de terracota (2024)",
+        "image" : "https://pics.filmaffinity.com/mysteries_of_the_terracotta_warriors-409520287-mmed.jpg",
+        "url" : "https://filemoon.sx/d/e7cnp5y1z72a",
+        "isHost" : "true" 
+                            },{ 
+                      "name" : "Menudas piezas (2024)",
+        "image" : "https://pics.filmaffinity.com/menudas_piezas-781090336-mmed.jpg",
+        "url" : "https://filemoon.sx/d/unwjk8sx3525",
+        "isHost" : "true" 
+                          },{
                           "name" : "¿Todo bien? (2024)",
         "image" : "https://www.elseptimoarte.net/carteles/341/am_i_ok_101451.jpg",
         "url" : "https://upstream.to/c7yzhpk7dz6j",
@@ -6541,6 +6551,21 @@
         "name" : "Sin City: Una dama por la que matar(2014)",
         "image" : "https://pics.filmaffinity.com/sin_city_a_dame_to_kill_for_sin_city_2-788175705-mmed.jpg",
         "url" : "https://upstream.to/ctckj6w0fmif",
+        "isHost" : "true" 
+                      },{
+        "name" : "Notorious (2009)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/notorious_55212.jpg",
+        "url" : "https://upstream.to/zx0ufw5ehdzq",
+        "isHost" : "true" 
+                       },{
+        "name" : "The King's Man: La primera misión (2021)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/the_kings_man_la_primera_mision_91329.jpg",
+        "url" : "https://upstream.to/093ne5lylc27",
+        "isHost" : "true" 
+                      },{
+        "name" : "Contact (1997)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/contact_60720.jpg",
+        "url" : "https://upstream.to/sh91rzq7nlh3",
         "isHost" : "true" 
                      }] 
             }]   
