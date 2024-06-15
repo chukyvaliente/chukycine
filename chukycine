@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 13-06-2024)",
+    "author": "chuky (Haz-Tu-Liada a 15-06-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -6566,6 +6566,11 @@
         "name" : "Contact (1997)",
         "image" : "https://www.elseptimoarte.net/carteles/341/contact_60720.jpg",
         "url" : "https://upstream.to/sh91rzq7nlh3",
+        "isHost" : "true" 
+                      },{
+        "name" : "Patrick (2023)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/patrick_100025.jpg",
+        "url" : "https://upstream.to/ipaw0no6oil5",
         "isHost" : "true" 
                      }] 
             }]   
