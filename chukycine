@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 15-06-2024)",
+    "author": "chuky (Haz-Tu-Liada a 20-06-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                            "name" : "Amigos imaginarios (2024)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/amigos_imaginarios_100960.jpg",
+        "url" : "https://filemoon.sx/d/ikklrc8a0slc",
+        "isHost" : "true" 
+                            },{ 
                           "name" : "Misterios de los guerreros de terracota (2024)",
         "image" : "https://pics.filmaffinity.com/mysteries_of_the_terracotta_warriors-409520287-mmed.jpg",
         "url" : "https://filemoon.sx/d/e7cnp5y1z72a",
@@ -6616,6 +6621,16 @@
         "name" : "Patrick (2023)",
         "image" : "https://www.elseptimoarte.net/carteles/341/patrick_100025.jpg",
         "url" : "https://upstream.to/ipaw0no6oil5",
+        "isHost" : "true" 
+                      },{
+        "name" : "Metalocalipsis: El ejército de la estrella del Apocalipsis  (2023)",
+        "image" : "https://pics.filmaffinity.com/metalocalypse_army_of_the_doomstar-849157717-mmed.jpg",
+        "url" : "https://upstream.to/m2l3i8hd3aqb",
+        "isHost" : "true" 
+                       },{
+        "name" : "The Voices (2014)",
+        "image" : "https://pics.filmaffinity.com/the_voices-504790077-mmed.jpg",
+        "url" : "https://upstream.to/6ggl8whonz5t",
         "isHost" : "true" 
                      }] 
             }]   
