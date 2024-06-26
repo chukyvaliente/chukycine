@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 25-06-2024)",
+    "author": "chuky (Haz-Tu-Liada a 26-06-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                            "name" : "Gru 4: Mi villano favorito (2024) TS-Latino",
+        "image" : "https://www.elseptimoarte.net/carteles/341/gru_4_mi_villano_favorito_101321.jpg",
+        "url" : "https://upstream.to/c5mj81jhbioh",
+        "isHost" : "true" 
+                            },{     
                            "name" : "Pájaros (2024)",
         "image" : "https://www.elseptimoarte.net/carteles/341/pajaros_100425.jpg",
         "url" : "https://filemoon.sx/d/1li2egtdbbe3",
