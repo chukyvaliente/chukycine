@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 28-06-2024)",
+    "author": "chuky (Haz-Tu-Liada a 30-06-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                           "name" : "Bad Boys: Ride or Die (2024) TS-Latino",
+        "image" : "https://www.elseptimoarte.net/carteles/341/bad_boys_ride_or_die_101063.jpg",
+        "url" : "https://luluvdo.com/e/es1idg2pqi62",
+        "isHost" : "true" 
+                            },{     
                             "name" : "Gru 4: Mi villano favorito (2024) TS-Latino",
         "image" : "https://www.elseptimoarte.net/carteles/341/gru_4_mi_villano_favorito_101321.jpg",
         "url" : "https://upstream.to/c5mj81jhbioh",
@@ -6672,6 +6677,16 @@
         "image" : "https://www.elseptimoarte.net/carteles/341/vivarium_83235.jpg",
         "url" : "https://upstream.to/oapjmv8mie59",
         "isHost" : "true"  
+                      },{
+        "name" : "Dream Scenario (2023)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/dream_scenario_100280.jpg",
+        "url" : "https://luluvdo.com/e/rrxv9djvp0yr",
+        "isHost" : "true"  
+                       },{
+        "name" : "Popeye (1980)",
+        "image" : "https://pics.filmaffinity.com/popeye-155014823-mmed.jpg",
+        "url" : "https://ok.ru/video/1164476222013",
+        "isHost" : "true" 
                      }] 
             }]   
    }
