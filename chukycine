@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                          "name" : "Del revés 2 (Inside Out 2) (2024) TELESYNC 1080-Castellano",
+        "image" : "https://www.elseptimoarte.net/carteles/341/del_reves_2_100682.jpg",
+        "url" : "https://upstream.to/6lsxg3fye1a1",
+        "isHost" : "true" 
+                            },{      
                             "name" : "Del revés 2 (Inside Out 2) (2024) DVDScreen-Latino",
         "image" : "https://www.elseptimoarte.net/carteles/341/del_reves_2_100682.jpg",
         "url" : "https://vidhidepre.com/v/qr1amyww1kiw",
@@ -6696,6 +6701,11 @@
         "name" : "Othello (1995)",
         "image" : "https://www.elseptimoarte.net/carteles/341/othello_61581.jpg",
         "url" : "https://filemoon.sx/d/emonzz9xodru",
+        "isHost" : "true" 
+                        },{
+        "name" : "Sisu (2022)",
+        "image" : "https://pics.filmaffinity.com/sisu-927259029-mmed.jpg",
+        "url" : "https://upstream.to/8lcmas7su3dv",
         "isHost" : "true" 
                      }] 
             }]   
