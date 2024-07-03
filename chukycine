@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 30-06-2024)",
+    "author": "chuky (Haz-Tu-Liada a 03-07-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                           "name" : "Superdetective en Hollywood: Axel F. (2024)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/beverly_hills_cop_axel_foley_101512.jpg",
+        "url" : "https://streamtape.com/v/gLBk6gvJdzcq8W3",
+        "isHost" : "true" 
+                            },{      
                           "name" : "Del revés 2 (Inside Out 2) (2024) TELESYNC 1080-Castellano",
         "image" : "https://www.elseptimoarte.net/carteles/341/del_reves_2_100682.jpg",
         "url" : "https://upstream.to/6lsxg3fye1a1",
@@ -424,22 +429,7 @@
                       "name": "65 (2023)",
                     "image":"https://www.elseptimoarte.net/carteles/341/65_96122.jpg",
                     "url": "https://upstream.to/4ad13y3nzpx8",
-                    "isHost":"true"
-                        },{ 
-                        "name": "The Devil Conspiracy (2023)",
-                    "image":"https://www.elseptimoarte.net/carteles/341/the_devil_conspiracy_95743.jpg",
-                    "url": "https://upstream.to/an13zp4uclqa",
-                    "isHost":"true"
-                        },{ 
-                          "name": "Barbie (2023)",
-                    "image":"https://pics.filmaffinity.com/barbie-295661697-mmed.jpg",
-                    "url": "https://vidmoly.to/3qxdvuz7wbbk",
-                    "isHost":"true"  
-                          },{ 
-                          "name": "Barbie (2023) V.O.S.E",
-                    "image":"https://pics.filmaffinity.com/barbie-295661697-mmed.jpg",
-                    "url": "https://upstream.to/ihl8c4z2tabj",
-                    "isHost":"true"                                                  
+                    "isHost":"true"                             
                 }]
                   },{
             "name": "Ciclos y Sagas",
@@ -3670,6 +3660,11 @@
         "image" : "https://pics.filmaffinity.com/es_peligroso_casarse_a_los_60-945235457-mmed.jpg",
         "url" : "https://upstream.to/3xuii4cjnxpk",
         "isHost" : "true"  
+                        },{ 
+                          "name": "Barbie (2023)",
+                    "image":"https://pics.filmaffinity.com/barbie-295661697-mmed.jpg",
+                    "url": "https://vidmoly.to/3qxdvuz7wbbk",
+                    "isHost":"true"  
                            }] 
                        },{  
             "name": "Infantil",
@@ -5966,6 +5961,11 @@
         "image" : "https://www.elseptimoarte.net/carteles/341/acusado_99404.jpg",
         "url" : "https://upstream.to/p7kxjs28z23a",
         "isHost" : "true" 
+                     },{ 
+                        "name": "The Devil Conspiracy (2023)",
+                    "image":"https://www.elseptimoarte.net/carteles/341/the_devil_conspiracy_95743.jpg",
+                    "url": "https://upstream.to/an13zp4uclqa",
+                    "isHost":"true"
                       }] 
                    },{  
             "name": "Terror",
@@ -6451,51 +6451,11 @@
                     "image": "https://www.elseptimoarte.net/carteles/341/napoleon_99361.jpg",
                       "url" :  "https://upstream.to/8svrc2kf4mbd",
 			 "isHost":"true"
-                        },{
-                    "name": "El Juego del Calamar EP-1",
-                    "image": "https://politicaaldia.com/images/notas/2021-09-24/30042076.jpg",
-                    "url" : "https://upstream.to/mcy26f07b4qa",
-	 "isHost": "true" 
-                      },{
-                      "name": "El Juego del Calamar EP-2",
-                    "image": "https://politicaaldia.com/images/notas/2021-09-24/30042076.jpg",
-                    "url": "https://upstream.to/10xelexolbbu",
-                    "isHost":"true"  
-                       },{ 
-                          "name": "El Juego del Calamar EP-3",
-                    "image": "https://politicaaldia.com/images/notas/2021-09-24/30042076.jpg",
-                    "url": "https://upstream.to/3teanevxe2bq",
-                    "isHost":"true"
-                       },{ 
-                       "name": "El Juego del Calamar EP-4",
-                    "image": "https://politicaaldia.com/images/notas/2021-09-24/30042076.jpg",
-                    "url": "https://upstream.to/8pdnsupx2psz",
-                    "isHost":"true" 
-                        },{
-                      "name": "El Juego del Calamar EP-5",
-                    "image": "https://politicaaldia.com/images/notas/2021-09-24/30042076.jpg",
-                    "url": "https://upstream.to/dipnjqg80l8o",
+                         },{ 
+                          "name": "Barbie (2023) V.O.S.E",
+                    "image":"https://pics.filmaffinity.com/barbie-295661697-mmed.jpg",
+                    "url": "https://upstream.to/ihl8c4z2tabj",
                     "isHost":"true"    
-                         },{
-                      "name": "El Juego del Calamar EP-6",
-                    "image": "https://politicaaldia.com/images/notas/2021-09-24/30042076.jpg",
-                    "url": "https://upstream.to/m92l1j8fus09",
-                    "isHost":"true" 
-                        },{
-                      "name": "El Juego del Calamar EP-7",
-                    "image": "https://politicaaldia.com/images/notas/2021-09-24/30042076.jpg",
-                    "url": "https://upstream.to/s8nzn12gx0e7",
-                    "isHost":"true" 
-                       },{
-                      "name": "El Juego del Calamar EP-8",
-                    "image": "https://politicaaldia.com/images/notas/2021-09-24/30042076.jpg",
-                    "url": "https://upstream.to/8sjxkgyu2hw0",
-                    "isHost":"true" 
-                        },{
-                      "name": "El Juego del Calamar EP-9",
-                    "image": "https://politicaaldia.com/images/notas/2021-09-24/30042076.jpg",
-                    "url": "https://upstream.to/5lzfs5uwlla8",
-                    "isHost":"true" 
                      }] 
                   },{  
             "name": "Peticiones(Se mantendrán aqui un mes)",
