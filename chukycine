@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 03-07-2024)",
+    "author": "chuky (Haz-Tu-Liada a 04-07-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                           "name" : "Back to Black (2024) Latino",
+        "image" : "https://www.elseptimoarte.net/carteles/341/back_to_black_100871.jpg",
+        "url" : "https://upstream.to/g5rxle5w6l7h",
+        "isHost" : "true" 
+                            },{       
                            "name" : "Superdetective en Hollywood: Axel F. (2024)",
         "image" : "https://www.elseptimoarte.net/carteles/341/beverly_hills_cop_axel_foley_101512.jpg",
         "url" : "https://filemoon.sx/d/iehpfv47r0kl",
