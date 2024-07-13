@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 11-07-2024)",
+    "author": "chuky (Haz-Tu-Liada a 13-07-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,16 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+                            "name" : " El campeón  (2024)",
+        "image" : "https://pics.filmaffinity.com/el_campeon-537352221-mmed.jpg",
+        "url" : "https://filemoon.sx/d/3qyk2wmvmeox",
+        "isHost" : "true" 
+                            },{       
+                            "name" : "Los descendientes: Corazón rebelde (2024)",
+        "image" : "https://pics.filmaffinity.com/descendants_the_rise_of_red-395557765-mmed.jpg",
+        "url" : "https://filemoon.sx/d/jpxos3r6dfpb",
+        "isHost" : "true" 
+                            },{       
                              "name" : "Emma y el jaguar negro (2024)",
         "image" : "https://pics.filmaffinity.com/le_dernier_jaguar-254399152-mmed.jpg",
         "url" : "https://filemoon.sx/d/ii7baasvgfyj",
@@ -126,9 +136,9 @@
         "url" : "https://filemoon.sx/d/ylqiygzok07t",
         "isHost" : "true" 
                    },{     
-                  "name" : "Garfield: La película (2024) Latino",
+                  "name" : "Garfield: La película (2024) ",
         "image" : "https://www.elseptimoarte.net/carteles/341/garfield_la_pelicula_100953.jpg",
-        "url" : "https://highstream.tv/z8ptm0mh69ra/Garfield.2.1080p.Latino.1WIN.mkv.html",
+        "url" : "https://filemoon.sx/d/gxdclxtcwhwd",
         "isHost" : "true" 
                    },{   
         "name" : "Cazafantasmas: Imperio helado (2024)",
