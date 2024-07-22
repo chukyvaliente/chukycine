@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 21-07-2024)",
+    "author": "chuky (Haz-Tu-Liada a 22-07-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -16,6 +16,11 @@
             "image": "https://i.ibb.co/J5s4V20/Estrenos.jpg",
             "info": "",
                "stations": [{
+        "name" : "Matusalén (2024)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/matusalen_100556.jpg",
+        "url" : "https://filemoon.sx/d/ns2r7trqkiml/",
+        "isHost" : "true" 
+                             },{  
                             "name" : " El campeón  (2024)",
         "image" : "https://pics.filmaffinity.com/el_campeon-537352221-mmed.jpg",
         "url" : "https://filemoon.sx/d/3qyk2wmvmeox",
