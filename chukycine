@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 22-07-2024)",
+    "author": "chuky (Haz-Tu-Liada a 23-07-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -6736,6 +6736,16 @@
         "name" : "Cuando ruge la marabunta  (1954)",
         "image" : "https://pics.filmaffinity.com/Cuando_ruge_la_marabunta-468567528-large.jpg",
         "url" : "https://ok.ru/video/7524212542134",
+        "isHost" : "true" 
+                             },{
+        "name" : "Deadpool (2016)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/deadpool_46439.jpg",
+        "url" : "https://filemoon.sx/d/1r4zaq2b1q0p",
+        "isHost" : "true" 
+                          },{
+        "name" : "Deadpool 2 (2018)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/deadpool_2_68846.jpg",
+        "url" : "https://filemoon.sx/d/jisntf04nj45",
         "isHost" : "true" 
                      }] 
             }]   
