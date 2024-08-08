@@ -1,6 +1,6 @@
 {
     "name": "chukycine",
-    "author": "chuky (Haz-Tu-Liada a 04-08-2024)",
+    "author": "chuky (Haz-Tu-Liada a 08-08-2024)",
     "image": "https://i.ibb.co/vQJ9W7j/chuky.jpg",
     "info": "Enlaces de internet",
     "telegram": "+9qG8GCvYZ3lmNjRk",
@@ -6761,6 +6761,11 @@
         "name" : " Dos mejor que uno  (1984)",
         "image" : "https://pics.filmaffinity.com/dos_mejor_que_uno-931743450-mmed.jpg",
         "url" : "https://m.ok.ru/video/7370171157174",
+        "isHost" : "true" 
+                              },{
+        "name" : " Pride & Prejudice (Orgullo y prejuicio) (2005)",
+        "image" : "https://www.elseptimoarte.net/carteles/341/orgullo_y_prejuicio_38699.jpg",
+        "url" : "https://upstream.to/4jly8gvpimsx",
         "isHost" : "true" 
                      }] 
             }]   
